@@ -1,0 +1,17 @@
+exclude: [README.md, resources/src]
+title: ULL
+email: w.aziz@uva.nl
+description: > 
+    Here you will find additional material for ULL offered at UvA.
+url: "https://uva-slpl.github.io" # the base hostname & protocol for your site
+baseurl: "/ull" # the subpath of your site, e.g. /blog/
+github_username:  uva-slpl
+#paginate: 3
+
+# useful links
+illc_url: http://www.illc.uva.nl
+uva_url: http://www.uva.nl/en/home
+
+# Build settings
+markdown: kramdown
+
