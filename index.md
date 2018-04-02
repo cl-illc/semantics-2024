@@ -8,13 +8,13 @@ Course coordinators: [Wilker Aziz](//wilkeraziz.github.io) and [Ekaterina Shutov
 
 Teaching assistant: [Samira Abnar](//https://staff.fnwi.uva.nl/s.abnar/)
 
-# Goals
+## Goals
 
 - Learn to apply representation learning methods to natural language data
 - Gain experience with natural language processing techniques
 - Learn about the state-of-the-art in learning algorithms for representation learning in NLP
 
-# Content
+## Content
 
 The class will cover representation learning methods for natural language processing (NLP) problems. Various kinds of representations will be considered: from discrete and structured representations (e.g., hidden hierarchical structure of text) to real-valued vectors (as in deep learning). The main focus will be on problems from natural language processing but most of the methods we will consider will have applications in other domains (e.g., bioinformatics, vision, information retrieval, etc). The goal of this class is to give you a perspective on modern research in statistical NLP.
 
