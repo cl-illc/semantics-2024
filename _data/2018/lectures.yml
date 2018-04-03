@@ -20,10 +20,11 @@
   date: 2018-04-04
   img: introduction-icon_1-267x300
   uid: intro
-  title: "Semantics with dense vectors and Compositional semantics"
+  title: "Semantics with dense vectors and compositional semantics"
   instructor: "Ekaterina Shutova"
   note: 
-  abstract: "In this lecture we will discuss the skip-gram model and its properties, and then move on to compositional semantics, concerned with modelling phrase meaning."
+  abstract: >
+    "In this lecture we will discuss the skip-gram model and its properties, and then move on to compositional semantics, concerned with modelling phrase meaning."
   background:
   discussion:
   slides: resources/slides/slides2-ull.pdf
