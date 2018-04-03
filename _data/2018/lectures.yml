@@ -18,7 +18,7 @@
   layout: lecture
   selected: y
   date: 2018-04-04
-  img: introduction-icon_1-267x300
+  img: skip-gram
   uid: intro
   title: "Semantics with dense vectors and compositional semantics"
   instructor: "Ekaterina Shutova"
