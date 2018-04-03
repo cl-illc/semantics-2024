@@ -8,10 +8,10 @@
   instructor: "Ekaterina Shutova"
   note: 
   abstract: >
-    In this introductory lecture we will discuss ...
+    "In this introductory lecture we will discuss the distributional models for learning word representations from text."
   background:
   discussion:
-  slides: 
+  slides: resources/slides/slides1-ull.pdf
   code: 
   data: 
 -
