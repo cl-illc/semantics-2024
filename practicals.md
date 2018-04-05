@@ -1,5 +1,5 @@
 ---
-layout: lecture
+layout: photolist
 title: Practicals
 menu: yes
 ---
