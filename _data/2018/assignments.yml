@@ -10,5 +10,8 @@
   background:
   discussion:
   instructions: resources/practicals/practical1/ULL_Practical_I.pdf
+  data: resources/practicals/practical1/resources/practicals/practical1/2000_nouns_sorted.txt
   code: 
-  data: resources/practicals/practical1/2000_nouns_sorted.txt
+  further:
+  - "List of nouns to cluster:"
+  - "https://uva-slpl.github.io/ull/resources/practicals/practical1/resources/practicals/practical1/2000_nouns_sorted.txt"
