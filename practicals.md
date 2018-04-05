@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: lecture
 title: Practicals
 menu: yes
 ---
@@ -10,3 +10,5 @@ menu: yes
 {% for practical in practicals %}
 {% include lecture.html lecture=practical %}
 {% endfor %}
+
+
