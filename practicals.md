@@ -1,7 +1,7 @@
 ---
 layout: photolist
 title: Practicals
-menu: yes
+menu: true
 ---
 *Spring 2018*
 
