@@ -98,22 +98,40 @@
   uid: vae
   title: "Variational auto-encoders"
   instructor: Wilker Aziz
-  abstract:  "In this lecture I will present generative modelling with neural networks, we will start with a mixture model and then present the variational auto-encoder."
+  abstract:  "In this lecture I will present the variational auto-encoder, an important deep generative model that makes a building block for many others. We will also learn about the reparameterised gradient, a major development for efficient estimation of DGMs."
   background:
-    - "The [wake-sleep algorithm](http://www.cs.toronto.edu/~fritz/absps/ws.pdf)"
-    - 
-    - "Variational Inference: "
-    - "Chapter 2 of Matthew Beal's [PhD thesis](http://www.cse.buffalo.edu/faculty/mbeal/papers/beal03.pdf) gives a very clear development of variational inference for Bayesian models."
-    - "An outstanding account of variational methods with lots of references to recent developments is given in David Blei's [tutorial](https://arxiv.org/pdf/1601.00670.pdf)."
     - "[Gaussian distribution](https://en.wikipedia.org/wiki/Normal_distribution)"
     - "The original: [Kingma and Welling (2014)](https://arxiv.org/abs/1312.6114) and [Rezend et al (2014)](https://arxiv.org/abs/1401.4082)"
   further:
     - "Variational auto-encoders:"
     - "A [tutorial](https://arxiv.org/abs/1606.05908) (`disclaimer:` not my favourite!)"
     - "More on reparameterisation (`advanced!`): [Titsias and Lazaro-Gredilla (2014)](http://www2.aueb.gr/users/mtitsias/papers/titsias14.pdf) and [Ruiz et al (2016)](https://arxiv.org/abs/1610.02287)"
-    - "KL for Gaussians: [Soch and Allefeld (2016)](https://arxiv.org/pdf/1611.01437.pdf) or [wikipedia](https://en.wikipedia.org/wiki/Kullback–Leibler_divergence#Kullback.E2.80.93Leibler_divergence_for_multivariate_normal_distributions)"
-    - "Stochastic optimisation:"
-    - "Practical notes by [Leon Bottou](http://cilvr.cs.nyu.edu/diglib/lsml/bottou-sgd-tricks-2012.pdf) (in particular section 5.2 discusses learning rate schedules)"
-    - "A [handbook chapter](http://www.jhuapl.edu/spsa/PDF-SPSA/Handbook04_StochasticOptimization.pdf)"
-    - "The [original](https://www.jstor.org/stable/2236626) `advanced!`"
+    - "[Automatic Differentiation Variational Inference](https://arxiv.org/pdf/1603.00788.pdf)"
   slides: resources/slides/vae.pdf
+-
+  layout: lecture
+  selected: y
+  date: 2018-04-24
+  img: warning
+  uid: worddgms
+  title: "Generative models of word representation"
+  instructor: Wilker Aziz
+  abstract:  "In this lecture I will present two models of word representation: a discriminative and a generative one."
+  background:
+    - "[Distributed Representations of Words and Phrases and their Compositionality](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)"
+    - "[Learning Bilingual Word Representations by Marginalizing Alignments](http://acl2014.org/acl2014/P14-2/pdf/P14-2037.pdf)"
+  further:
+    - "[Embedding Words as Distributions with a Bayesian Skip-gram Model](https://arxiv.org/pdf/1711.11027)"
+    - "[Deep Generative Model for Joint Alignment and Word Representation](https://arxiv.org/pdf/1802.05883.pdf)"
+-
+  layout: lecture
+  selected: y
+  date: 2018-04-25
+  img: warning
+  uid: sntdmgs
+  title: "Generative language models"
+  instructor: Wilker Aziz
+  abstract:  "In this lecture I will present generative models over natural language sentences."
+  background:
+    - "[Recurrent neural network based language model](http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf)"
+  slides: 
