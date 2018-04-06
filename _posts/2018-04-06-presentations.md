@@ -27,7 +27,25 @@ Proceedings of EMNLP 2015.
 </li>
 </ul>
 
+Wednesday, 11 April
 
+<ul>
+ <li>
+  Richard Socher, Brody Huval, Christopher D. Manning and Andrew Y. Ng. 2012. Semantic Compositionality through Recursive Matrix-Vector Spaces. In Proceedings of EMNLP 2012.
+<a>http://ai.stanford.edu/~ang/papers/emnlp12-SemanticCompositionalityRecursiveMatrixVectorSpaces.pdf</a>
+ </li>
+ 
+ <li>
+ Karl Moritz Hermann and Phil Blunsom. 2014. Multilingual Models for Compositional Distributed Semantics. In
+Proceedings of ACL 2014.
+ <a>http://www.aclweb.org/anthology/P/P14/P14-1006.pdf</a>
+ </li>
+ 
+ <li>
+ Jocelyn Coulmance, Jean-Marc Marty, Guillaume Wenzek and Amine Benhalloum. 2015. Trans-gram, Fast Cross-lingual Word-embeddings. In Proceedings of EMNLP 2015.
+ <a>http://www.aclweb.org/anthology/D15-1131</a>
+ </li>
+ </ul>
 
 
 
