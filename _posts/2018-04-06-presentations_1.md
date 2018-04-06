@@ -3,11 +3,11 @@ layout: post
 title: presentations
 date:   2018-03-27
 categories: Info
+author:
 mathjax: true
 ---
 
-Tuesday,
- 10 April
+Tuesday, 10 April
 
 
 
