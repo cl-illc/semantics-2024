@@ -32,7 +32,7 @@ Proceedings of EMNLP 2015.
 <ul>
  <li>
   Richard Socher, Brody Huval, Christopher D. Manning and Andrew Y. Ng. 2012. Semantic Compositionality through Recursive Matrix-Vector Spaces. In Proceedings of EMNLP 2012.
-<a>http://ai.stanford.edu/~ang/papers/emnlp12-SemanticCompositionalityRecursiveMatrixVectorSpaces.pdf</a>
+  <a>http://ai.stanford.edu/~ang/papers/emnlp12-SemanticCompositionalityRecursiveMatrixVectorSpaces.pdf</a>
  </li>
  
  <li>
