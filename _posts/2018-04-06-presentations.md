@@ -13,7 +13,7 @@ Tuesday, 10 April
 <ul>
 <li>Omer Levy and Yoav Goldberg. 2014. Dependency-based word embeddings. In
  proceedings of ACL 2014.
-<a>https://levyomer.files.wordpress.com/2014/04/dependency-based-word-embeddingsacl-2014.pdf</a>
+<a>https://levyomer.files.wordpress.com/2014/04/dependency-based-word-embeddings-acl-2014.pdf</a>
 </li>
 <li>
 Manaal Faruqui, Jesse Dodge, Sujay K. Jauhar, Chris Dyer, Eduard Hovy and Noah A. Smith. 2015. Retrofitting Word Vectors to Semantic Lexicons. In
