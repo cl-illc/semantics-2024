@@ -1,6 +1,6 @@
 ---
 layout: post
-title: presentations
+title: Presentations
 date:   2018-03-27
 categories: Info
 author:
