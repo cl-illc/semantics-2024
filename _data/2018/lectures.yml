@@ -8,7 +8,7 @@
   instructor: "Ekaterina Shutova"
   note: 
   abstract: >
-     "In this introductory lecture we will discuss the distributional models for learning word representations from text."
+    "In this introductory lecture we will discuss the distributional models for learning word representations from text."
   background:
   discussion:
   slides: resources/slides/slides1-ull.pdf
@@ -23,7 +23,8 @@
   title: "Semantics with dense vectors and compositional semantics"
   instructor: "Ekaterina Shutova"
   note: 
-  abstract: "In this lecture we will discuss the skip-gram model and its properties, and then move on to compositional semantics, concerned with modelling phrase meaning."
+  abstract: >
+    "In this lecture we will discuss the skip-gram model and its properties, and then move on to compositional semantics, concerned with modelling phrase meaning."
   background:
   discussion:
   slides: resources/slides/slides2-ull.pdf
@@ -38,13 +39,13 @@
   title: "Student presentations: Dependency-based word embeddings, specialisation and retro-fitting"
   instructor: "Ekaterina Shutova"
   note: 
-  abstract: "In this lecture we will discuss three recent papers on dependency-based word embeddings, specialisation and retro-fitting."
+  abstract:  "In this lecture we will discuss three recent papers on dependency-based word embeddings, specialisation and retro-fitting."
   background:
   discussion: 
-    "In this lecture we will discuss the following papers:"
-    - "Omer Levy and Yoav Goldberg. 2014. [Dependency-based word embeddings.](https://levyomer.files.wordpress.com/2014/04/dependency-based-word-embeddings-acl-2014.pdf) In proceedings of ACL 2014."
-    - "Manaal Faruqui, Jesse Dodge, Sujay K. Jauhar, Chris Dyer, Eduard Hovy and Noah A. Smith. 2015. Retrofitting Word Vectors to Semantic Lexicons. In Proceedings of NAACL 2015. https://www.cs.cmu.edu/~hovy/papers/15HLT-retrofitting-word-vectors.pdf"
-    - "Douwe Kiela, Felix Hill and Stephen Clark. 2015. Specializing Word Embeddings for Similarity or Relatedness. In Proceedings of EMNLP 2015. http://www.cl.cam.ac.uk/~dk427/papers/emnlp2015c.pdf"
+    - "In this lecture we will discuss the following papers:"
+    - "Omer Levy and Yoav Goldberg. 2014. [Dependency-based word embeddings](https://levyomer.files.wordpress.com/2014/04/dependency-based-word-embeddings-acl-2014.pdf). In proceedings of ACL 2014."
+    - "Manaal Faruqui, Jesse Dodge, Sujay K. Jauhar, Chris Dyer, Eduard Hovy and Noah A. Smith. 2015. [Retrofitting Word Vectors to Semantic Lexicons](https://www.cs.cmu.edu/~hovy/papers/15HLT-retrofitting-word-vectors.pdf). In Proceedings of NAACL 2015."
+    - "Douwe Kiela, Felix Hill and Stephen Clark. 2015. [Specializing Word Embeddings for Similarity or Relatedness](http://www.cl.cam.ac.uk/~dk427/papers/emnlp2015c.pdf). In Proceedings of EMNLP 2015."
   slides: 
   code: 
   data: 
