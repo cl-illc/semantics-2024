@@ -123,6 +123,9 @@
   further:
     - "[Embedding Words as Distributions with a Bayesian Skip-gram Model](https://arxiv.org/pdf/1711.11027)"
     - "[Deep Generative Model for Joint Alignment and Word Representation](https://arxiv.org/pdf/1802.05883.pdf)"
+  discussion:
+    - "[Auto-encoding variational inference for topic models](https://arxiv.org/pdf/1703.01488.pdf)"
+    - "[Semantic Parsing with Semi-Supervised Sequential Autoencoders](https://arxiv.org/pdf/1609.09315.pdf)"
 -
   layout: lecture
   selected: y
@@ -134,4 +137,7 @@
   abstract:  "In this lecture I will present generative models over natural language sentences."
   background:
     - "[Recurrent neural network based language model](http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf)"
-  slides: 
+  discussion: 
+    - "[Generating Sentences from a Continuous Space](https://arxiv.org/pdf/1511.06349.pdf)"
+    - "[Variational neural machine translation](https://arxiv.org/pdf/1605.07869.pdf)"
+
