@@ -112,7 +112,7 @@
   layout: lecture
   selected: y
   date: 2018-04-24
-  img: warning
+  img: embedalign
   uid: worddgms
   title: "Generative models of word representation"
   instructor: Wilker Aziz
@@ -130,7 +130,7 @@
   layout: lecture
   selected: y
   date: 2018-04-25
-  img: warning
+  img: sntdmgs
   uid: sntdmgs
   title: "Generative language models"
   instructor: Wilker Aziz
