@@ -34,7 +34,7 @@
   layout: lecture
   selected: y
   date: 2018-04-10
-  img: skip-gram
+  img: retrofitting
   uid: l3
   title: "Student presentations: Dependency-based word embeddings, specialisation and retro-fitting"
   instructor: "Ekaterina Shutova"
@@ -53,7 +53,7 @@
   layout: lecture
   selected: y
   date: 2018-04-11
-  img: skip-gram
+  img: Multilingual
   uid: l4
   title: "Student presentations: Multilingual embeddings and compositional semantics"
   instructor: "Ekaterina Shutova"
