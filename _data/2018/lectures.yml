@@ -19,7 +19,7 @@
   selected: y
   date: 2018-04-04
   img: skip-gram
-  uid: intro
+  uid: l2
   title: "Semantics with dense vectors and compositional semantics"
   instructor: "Ekaterina Shutova"
   note: 
@@ -35,7 +35,7 @@
   selected: y
   date: 2018-04-10
   img: skip-gram
-  uid: intro
+  uid: l3
   title: "Student presentations: Dependency-based word embeddings, specialisation and retro-fitting"
   instructor: "Ekaterina Shutova"
   note: 
@@ -54,7 +54,7 @@
   selected: y
   date: 2018-04-11
   img: skip-gram
-  uid: intro
+  uid: l4
   title: "Student presentations: Multilingual embeddings and compositional semantics"
   instructor: "Ekaterina Shutova"
   note: 
