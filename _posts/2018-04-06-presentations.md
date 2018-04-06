@@ -7,7 +7,7 @@ author:
 mathjax: true
 ---
 
-Tuesday, 10 April
+<b>Tuesday, 10 April</b>
 
 
 <ul>
@@ -27,7 +27,7 @@ Proceedings of EMNLP 2015.
 </li>
 </ul>
 
-Wednesday, 11 April
+<b>Wednesday, 11 April</b>
 
 <ul>
  <li>
