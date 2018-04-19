@@ -29,8 +29,8 @@
   discussion:
   slides: resources/slides/slides2-ull.pdf
   further: 
-   "The following paper provides a nice explanation of skip-gram with negative sampling:"
-   - "Yoav Goldberg and Omer Levy. [word2vec Explained: Deriving Mikolov et al.’s Negative-Sampling Word-Embedding Method](https://arxiv.org/pdf/1402.3722.pdf)"
+    - "The following paper provides a nice explanation of skip-gram with negative sampling:"
+    - "Yoav Goldberg and Omer Levy. [word2vec Explained: Deriving Mikolov et al.’s Negative-Sampling Word-Embedding Method](https://arxiv.org/pdf/1402.3722.pdf)"
   code: 
   data: 
 -
