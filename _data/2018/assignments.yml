@@ -11,4 +11,20 @@
   discussion:
   instructions: resources/practicals/practical1/ULL_Practical_I.pdf
   data: resources/practicals/practical1/2000_nouns_sorted.txt
-  code: 
+  code:
+  
+  
+  -
+  layout: lecture
+  selected: y
+  date: 2018-04-19
+  img: prac
+  uid: practical2
+  title: "Practical II"
+  note: 
+  abstract: 
+  background:
+  discussion:
+  instructions: resources/practicals/practical1/ULL_Practical_II.pdf
+  data: 
+  code:
