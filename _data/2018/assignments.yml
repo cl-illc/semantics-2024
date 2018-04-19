@@ -27,7 +27,8 @@
   discussion:
   instructions: resources/practicals/practical2/ULL_Practical_II.pdf
   data: resources/practicals/practical2/resources/
-  code:
   further: 
     - "word2vec Explained: Deriving Mikolov et al.’s Negative-Sampling Word-Embedding Method:"
     - "https://arxiv.org/pdf/1402.3722.pdf"
+  code:
+  
