@@ -161,3 +161,21 @@
   slides: 
   code: 
   data: 
+ -
+  layout: lecture
+  selected: y
+  date: 2018-05-02
+  img: Mitchell-et-al
+  uid: may2
+  title: "Word representations and modelling ambiguity: A case study of metaphor"
+  instructor: "Ekaterina Shutova"
+  note: 
+  abstract: "In this session I will give an introductory lecture on lexical ambiguity and metaphor, and how these phenomena can be modelled using semantic representations. We will then discuss two recent papers on the topic."
+  background:
+  discussion: 
+    - "In this session we will discuss the following papers:"
+    - "Dario Gutierrez, Ekaterina Shutova, Tyler Marghetis and Benjamin Bergen. 2016. [Literal and Metaphorical Senses in Compositional Distributional Semantic Models.](http://www.cl.cam.ac.uk/~es407/papers/ACL2016Dario.pdf) In Proceedings of ACL 2016, Berlin, Germany."
+    - "Marek Rei, Luana Bulat, Douwe Kiela and Ekaterina Shutova. 2017. [Grasping the Finer Point: A Supervised Similarity Network for Metaphor Detection.](http://www.cl.cam.ac.uk/~es407/papers/emnlp2017marek.pdf) In Proceedings of EMNLP 2017, Copenhagen, Denmark."
+  slides: 
+  code: 
+  data: 
