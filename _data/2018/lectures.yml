@@ -119,7 +119,7 @@
   uid: worddgms
   title: "Generative models of word representation"
   instructor: Wilker Aziz
-  abstract:  "In this lecture I will present two models of word representation: a discriminative and a generative one."
+  abstract:  "In this lecture I will present two deep latent variable models of word representation: a discriminative and a generative one."
   background:
     - "[Distributed Representations of Words and Phrases and their Compositionality](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)"
     - "[Learning Bilingual Word Representations by Marginalizing Alignments](http://acl2014.org/acl2014/P14-2/pdf/P14-2037.pdf)"
@@ -129,6 +129,7 @@
   discussion:
     - "[Auto-encoding variational inference for topic models](https://arxiv.org/pdf/1703.01488.pdf)"
     - "[Semantic Parsing with Semi-Supervised Sequential Autoencoders](https://arxiv.org/pdf/1609.09315.pdf)"
+  slide: resources/slides/dgm-word.pdf
 -
   layout: lecture
   selected: y
