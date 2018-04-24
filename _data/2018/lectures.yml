@@ -181,3 +181,45 @@
   slides: 
   code: 
   data: 
+-
+  layout: lecture
+  selected: y
+  date: 2018-05-15
+  img: graphdgms
+  uid: graphdgms
+  title: "Latent graph models"
+  instructor: Wilker Aziz
+  abstract:  "In this lecture I will present models of graph induction."
+  background:
+    - "[The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables](https://arxiv.org/pdf/1611.00712.pdf)"
+    - "[Categorical Reparameterization with Gumbel-Softmax](https://arxiv.org/pdf/1611.01144.pdf)"
+-
+  layout: lecture
+  selected: y
+  date: 2018-05-16
+  img: discretedgms
+  uid: discretedgms
+  title: "Discrete latent variable models"
+  instructor: Wilker Aziz
+  abstract:  "In this lecture I will present models of whose latent variables are discrete and cannot be exactly marginalised."
+  background:
+    - "[Neural Variational Inference and Learning in Belief Networks](https://arxiv.org/pdf/1402.0030.pdf)"
+    - "[MuProp: Unbiased Backpropagation for Stochastic Neural Networks](https://arxiv.org/pdf/1511.05176.pdf)"
+  further:
+    - "[Simple Statistical Gradient-Flowing Algorithms for Connectionist Reinforcement Learning](https://link.springer.com/content/pdf/10.1007%2FBF00992696.pdf)"
+-
+  layout: lecture
+  selected: y
+  date: 2018-05-22
+  img: end 
+  uid: end
+  title: "The End"
+  instructor: Wilker Aziz
+  abstract:  "In this lecture I will conclude with an overview of techniques that are relevant to unsupervised learning for NLP and that we have not covered in the course."
+  further:
+    - "Beyond Gaussians: [Automatic Differentiation Variational Inference](https://arxiv.org/pdf/1603.00788.pdf)"
+    - "Beyond known densities: [Variational Inference with Normalizing Flows](https://arxiv.org/pdf/1505.05770.pdf) and [Improved Variational Inference with Inverse Autoregressive Flow](https://arxiv.org/pdf/1606.04934.pdf)"
+    - "Advanced control variates: [Backpropagation through the Void: Optimizing control variates for black-box gradient estimation](https://arxiv.org/pdf/1711.00123.pdf)"
+    - "Non-parametric priors: [Nonparametric Variational Auto-encoders for Hierarchical Representation Learning](https://arxiv.org/pdf/1703.07027.pdf)"
+    - "Implicit likelihoods: [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661.pdf) and [Hierarchical Implicit Models and Likelihood-Free Variational Inference](https://arxiv.org/pdf/1702.08896.pdf)"
+
