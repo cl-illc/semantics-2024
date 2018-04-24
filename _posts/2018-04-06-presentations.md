@@ -48,5 +48,16 @@ Proceedings of ACL 2014.
  </ul>
 
 
+**Tuesday, 24 April**
+
+* Srivastava and Sutton. 2017. [Autoencoding Variational Inference for Topic Models](https://arxiv.org/pdf/1703.01488.pdf). In ICLR 2017.
+* Kocisky et al. 2016. [Semantic Parsing with Semi-Supervised Sequential Autoencoders](http://www.aclweb.org/anthology/D/D16/D16-1116.pdf). In EMNLP 2016.
+
+**Wednesday, 25 April**
+
+* Bowman et al. 2016. [Generating Sentences from a Continuous Space](http://www.aclweb.org/anthology/K/K16/K16-1002.pdf). In CoNLL 2016.
+* Zhang et al. 2016. [Variational Neural Machine Translation](https://www.aclweb.org/anthology/D16-1050). In EMNLP 2016.
+
+
 
 

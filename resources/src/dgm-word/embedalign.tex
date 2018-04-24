@@ -420,7 +420,7 @@ Z_i|x_1^m &\sim \mathcal N(\mathbf u_i, \diag(\mathbf s_i \odot \mathbf s_i))\\ 
 ELBO
 \begin{equation*}
 \begin{aligned}
-\mathbb E_{q_\lambda(z_1^m|x_1^m)}\left[ \log P_\theta(x_1^m, y_1^n|z_1^m)\right] - \textcolor{blue}{\KL{q_\lambda(z_1^m|x_1^m)}{p(z)} }
+\mathbb E_{q_\lambda(z_1^m|x_1^m)}\left[ \log P_\theta(x_1^m, y_1^n|z_1^m)\right] - \textcolor{blue}{\KL{q_\lambda(z_1^m|x_1^m)}{p(z_1^m)} }
 \end{aligned}
 \end{equation*}
 
@@ -431,7 +431,7 @@ KL term
 \begin{equation*}
 \begin{aligned}
 \textcolor{blue}{\KL{q_\lambda(z_1^m|x_1^m)}{p(z)} }
-&= \underbrace{\sum_{i=1}^m \KL{q_\lambda(z_i|x_1^m)}{p(z)}}_{\text{mean field}} \\ \pause
+&= \underbrace{\sum_{i=1}^m \KL{q_\lambda(z_i|x_1^m)}{p(z_1^m)}}_{\text{mean field}} \\ \pause
 &= \sum_{i=1}^m \KL{\underbrace{\mathcal N(\mathbf u_i, \diag(\mathbf s_i \odot \mathbf s_i))}_{\text{inference model}}}{\underbrace{\mathcal N(0, I)}_{\text{prior}}} \
 \end{aligned}
 \end{equation*}
@@ -445,7 +445,7 @@ KL term
 ELBO
 \begin{equation*}
 \begin{aligned}
-\textcolor{blue}{\mathbb E_{q_\lambda(z_1^m|x_1^m)}\left[ \log P_\theta(x_1^m, y_1^n|z_1^m)\right]} - \KL{q_\lambda(z_1^m|x_1^m)}{p(z)} 
+\textcolor{blue}{\mathbb E_{q_\lambda(z_1^m|x_1^m)}\left[ \log P_\theta(x_1^m, y_1^n|z_1^m)\right]} - \KL{q_\lambda(z_1^m|x_1^m)}{p(z_1^m)} 
 \end{aligned}
 \end{equation*}
 
@@ -520,6 +520,7 @@ Alignment model $P(a_j|m)=\frac{1}{m}$ is not a function of $\theta$
 	\item we can make an MC estimate by sampling candidate alignments uniformly
 \end{itemize}
 
+\ack{You may skip over this slide.}
 
 \end{frame}
 
