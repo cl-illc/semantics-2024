@@ -191,6 +191,7 @@
   instructor: Wilker Aziz
   abstract:  "In this lecture I will present models of graph induction."
   background:
+    - "[Encoding Sentences with Graph Convolutional Networks for Semantic Role Labeling](http://www.aclweb.org/anthology/D17-1159)"
     - "[The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables](https://arxiv.org/pdf/1611.00712.pdf)"
     - "[Categorical Reparameterization with Gumbel-Softmax](https://arxiv.org/pdf/1611.01144.pdf)"
 -
