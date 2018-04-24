@@ -547,7 +547,7 @@ f_{x} &= \frac{\exp(\hat f_x)}{\sum_{x' \in \mathcal X} \exp(\hat f_{x'})}
 \begin{frame}{Efficient softmax}
 Logistic regression
 \begin{equation*}
-P(X=x|z) = \frac{\exp(u(z, x))}{\sum_{x'\in \mathcal X} \exp(u(z, x'))}
+P(X=x|z) = \frac{\exp(s(z, x))}{\sum_{x'\in \mathcal X} \exp(s(z, x'))}
 \end{equation*}
 
 \pause
@@ -561,7 +561,7 @@ Define
 \pause 
 Re-express normaliser for $P(X=x|z)$ 
 \begin{equation*}
-\sum_{x'\in \mathcal X} \exp(u(z, x')) = \sum_{x'\in \mathcal C(x)} \exp(u(z, x')) + \sum_{x'\in \mathcal N(x)} \kappa(x')\exp(u(z, x'))
+\sum_{x'\in \mathcal X} \exp(s(z, x')) = \sum_{x'\in \mathcal C(x)} \exp(s(z, x')) + \sum_{x'\in \mathcal N(x)} \kappa(x')\exp(s(z, x'))
 \end{equation*}
 \begin{itemize}
 	\item $\kappa(x') = \frac{1}{q(x')}$ and $q(x')$ is an importance distribution
@@ -573,7 +573,7 @@ Re-express normaliser for $P(X=x|z)$
 
 Logistic regression
 \begin{equation*}
-P_\theta(x|z) = \frac{\exp(u_\theta(z, x))}{\sum_{x'\in \mathcal X} \exp(u_\theta(z, x'))}
+P_\theta(x|z) = \frac{\exp(s_\theta(z, x))}{\sum_{x'\in \mathcal X} \exp(s_\theta(z, x'))}
 \end{equation*}
 
 \pause
@@ -587,11 +587,11 @@ Build
 \pause 
 Approximate normaliser for $P_\theta(x|z)$
 \begin{equation*}
-\sum_{x'\in \mathcal X} \exp(u(z, x')) \approx \sum_{x'\in \mathcal C} \exp(u(z, x')) + \sum_{x'\in \mathcal N} \frac{|\mathcal X \setminus \mathcal C|}{|\mathcal N|}\exp(u(z, x'))
+\sum_{x'\in \mathcal X} \exp(s_\theta(z, x')) \approx \sum_{x'\in \mathcal C} \exp(s_\theta(z, x')) + \sum_{x'\in \mathcal N} \frac{|\mathcal X \setminus \mathcal C|}{|\mathcal N|}\exp(s_\theta(z, x'))
 \end{equation*}
 \begin{itemize}
-	\item $u_\theta(z, x) = z^\top \mathbf c_x + b_x$ \\
-	$\mathbf c_x$ is a deterministic embedding, $b_x$ a bias term
+	\item $s_\theta(z, x) = z^\top \mathbf c_x + b_x$ \\
+	$\mathbf c_x = \text{lookup}_\theta(x)$ is a deterministic embedding, $b_x$ a bias term
 \end{itemize}
 
 \end{frame}
@@ -614,11 +614,11 @@ Build
 \pause 
 Approximate normaliser for $P_\theta(y|z)$
 \begin{equation*}
-\sum_{y'\in \mathcal X} \exp(u(z, y')) \approx \sum_{y'\in \mathcal C} \exp(u(z, y')) + \sum_{y'\in \mathcal N} \frac{|\mathcal Y \setminus \mathcal C|}{|\mathcal N|}\exp(u(z, y'))
+\sum_{y'\in \mathcal X} \exp(s_\theta(z, y')) \approx \sum_{y'\in \mathcal C} \exp(s_\theta(z, y')) + \sum_{y'\in \mathcal N} \frac{|\mathcal Y \setminus \mathcal C|}{|\mathcal N|}\exp(s_\theta(z, y'))
 \end{equation*}
 \begin{itemize}
-	\item $u_\theta(z, y) = z^\top \mathbf c_y + b_y$ \\
-	$\mathbf c_y$ is a deterministic embedding, $b_y$ a bias term
+	\item $s_\theta(z, y) = z^\top \mathbf c_y + b_y$ \\
+	$\mathbf c_y = \text{lookup}_\theta(y)$ is a deterministic embedding, $b_y$ a bias term
 \end{itemize}
 
 \end{frame}

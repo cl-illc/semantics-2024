@@ -94,11 +94,13 @@ logo=\bctrombone
 \end{frame}
 
 \begin{frame}{Comparison}
-\begin{tabular}{l c c c c}
-Model      & LVM        & Gen.  & Prior  & Softmax  \\ \hline
-SkipGram   &            &             &               & Neg sampling\\ 
-BSG        & \checkmark &             & type-specific & JI \\
-EmbedAlign & \checkmark & \checkmark  & general       & CSS
+\begin{tabular}{l | p{2cm} p{2cm} p{2cm}}
+           & SkipGram & Bayesian SkipGram & EmbedAlign \\ \hline \hline
+LVM & & \checkmark & \checkmark\\ \hline
+Generative training & & & \checkmark \\ \hline
+Prior & & type-specific Gaussian & $\mathcal N(0,I)$ \\ \hline
+Inference model & & FFNN & BiLSTM \\ \hline
+Softmax & negative sampling & JI & CSS \\ \hline
 \end{tabular}
 \end{frame}
 

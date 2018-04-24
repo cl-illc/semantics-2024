@@ -33,9 +33,9 @@ Generative model: for $i=1, \ldots, m$\\
 
 \begin{equation*}
 \begin{aligned}
-Z_i|x_i &\sim \mathcal N(\boldsymbol \mu_{i}, \diag(\boldsymbol \sigma_{i}^2))\\
-\boldsymbol \mu_{i} &= \text{location}_\theta(x_i)\\
-\boldsymbol \sigma_{i} &= \softplus(\text{scale}_\theta(x_i))
+Z_i|x_i &\sim \mathcal N(\boldsymbol \mu_{x_i}, \diag(\boldsymbol \sigma_{x_i} \odot \boldsymbol \sigma_{x_i}))\\
+\boldsymbol \mu_{x_i} &= \text{lookup}_\theta(x_i)\\
+\boldsymbol \sigma_{x_i} &= \softplus(\text{lookup}_\theta(x_i))
 \end{aligned}
 \end{equation*}
 \pause
@@ -87,7 +87,7 @@ KL term
 \begin{aligned}
 &\textcolor{blue}{\KL{q_\lambda(z_1^m|x_1^m)}{p_\theta(z_1^m|x_1^m)}} \\ \pause
  &=  \sum_{i=1}^m \KL{q_\lambda(z_i|x_{i-n}^{i+n})}{p_\theta(z_i|x_i)} \\ \pause
- &=  \sum_{i=1}^m \KL{\underbrace{\mathcal N(\mathbf u_i, \diag(\mathbf s_i \odot \mathbf s_i))}_{\text{inference model}}}{\underbrace{\mathcal N(\boldsymbol \mu_i, \diag(\boldsymbol \sigma_i^2))}_{\text{prior}}} 
+ &=  \sum_{i=1}^m \KL{\underbrace{\mathcal N(\mathbf u_i, \diag(\mathbf s_i \odot \mathbf s_i))}_{\text{inference model}}}{\underbrace{\mathcal N(\boldsymbol \mu_{x_i}, \diag(\boldsymbol \sigma_{x_i} \odot \boldsymbol \sigma_{x_i}))}_{\text{prior}}} 
 \end{aligned}
 \end{equation*}
 
@@ -122,15 +122,15 @@ Likelihood term
 
 To circumvent an expensive softmax, change the likelihood term
 \begin{equation*}
-P_\theta(x|z) = \frac{s_\theta(z, x)}{\sum_{x' \in \mathcal X} s_\theta(z, x')} \qquad \text{with } s_\theta(\cdot, \cdot) > 0
+P_\theta(x|z) = \frac{u_\theta(z, x)}{\alert{\sum_{x' \in \mathcal X} u_\theta(z, x')}} \qquad \text{with } u_\theta(\cdot, \cdot) > 0
 \end{equation*}
 \pause
 and re-write the likelihood term
 \begin{equation*}
 \begin{aligned}
 \mathbb E_{q_\lambda(z)} \left[  \log P_\theta(x|z) \right] 
- &= \mathbb E_{q_\lambda(z)} \left[  \log s_\theta(z, x) - \log \sum_{x'\in \mathcal X}s_\theta(z, x')\right] \\
- &=\mathbb E_{q_\lambda(z)} \left[  \log s_\theta(z, x) \right] - \mathbb E_{q_\lambda(z)} \left[ \log \sum_{x'\in \mathcal X}s_\theta(z, x')\right]
+ &= \mathbb E_{q_\lambda(z)} \left[  \log u_\theta(z, x) - \log \alert{\sum_{x'\in \mathcal X}u_\theta(z, x')}\right] \\ \pause
+ &=\mathbb E_{q_\lambda(z)} \left[  \log u_\theta(z, x) \right] - \mathbb E_{q_\lambda(z)} \left[ \log \alert{\sum_{x'\in \mathcal X}u_\theta(z, x')}\right]
 \end{aligned}
 \end{equation*}
 
@@ -140,18 +140,19 @@ and re-write the likelihood term
 \begin{frame}[plain]{Lowerbound on likelihood term}
 Then (by design) let
 \begin{equation*}
-s_\theta(z, x) = \underbrace{P(x)}_{\text{fixed}}\mathcal N(z|\boldsymbol \mu_x, \diag(\boldsymbol \sigma_x^2))
+u_\theta(z, x) = \underbrace{P(x)}_{\text{fixed}}\mathcal N(z|\boldsymbol \mu_x, \diag(\boldsymbol \sigma_x \odot \boldsymbol \sigma_x))
 \end{equation*}
 \pause
 
-And bound $ \mathbb E_{q_\lambda(z)} \left[ \log \alert{\sum_{x'\in \mathcal X}s_\theta(z, x')}\right] $ 
+And bound $ \mathbb E_{q_\lambda(z)} \left[ \log \alert{\sum_{x'\in \mathcal X}u_\theta(z, x')}\right] $ \pause
 \begin{equation*}
 \begin{aligned} 
-&=\mathbb E_{q_\lambda(z)} \left[ \log \alert{\sum_{x'\in \mathcal X} P(x)\mathcal N(z|\boldsymbol \mu_x, \diag(\boldsymbol \sigma_x^2))} \right] \\
-&=\mathbb E_{q_\lambda(z)} \left[ \log \alert{\mathbb E_{P(x)}\left[ \mathcal N(z|\boldsymbol \mu_x, \diag(\boldsymbol \sigma_x^2)) \right]} \right] \\
-&\overset{\text{JI}}{\ge} \mathbb E_{q_\lambda(z)} \left[ \textcolor{blue}{\mathbb E_{P(x)}\left[ \log \mathcal N(z|\boldsymbol \mu_x, \diag(\boldsymbol \sigma_x^2)) \right]} \right]
+&=\mathbb E_{q_\lambda(z)} \left[ \log \alert{\sum_{x'\in \mathcal X} P(x)\mathcal N(z|\boldsymbol \mu_x, \diag(\boldsymbol \sigma_x \odot \boldsymbol \sigma_x))} \right] \\ \pause
+&=\mathbb E_{q_\lambda(z)} \left[ \log \alert{\mathbb E_{P(x)}\left[ \mathcal N(z|\boldsymbol \mu_x, \diag(\boldsymbol \sigma_x \odot \boldsymbol \sigma_x)) \right]} \right] \\ \pause
+&\overset{\text{JI}}{\ge} \mathbb E_{q_\lambda(z)} \left[ \textcolor{blue}{\mathbb E_{P(x)}\left[ \log \mathcal N(z|\boldsymbol \mu_x, \diag(\boldsymbol \sigma_x \odot \boldsymbol \sigma_x)) \right]} \right]
 \end{aligned}
 \end{equation*}
+\pause
 
 \begin{itemize}
 	\item $P(x)$ does not depend on $\theta$, we can compute an MC estimate\\

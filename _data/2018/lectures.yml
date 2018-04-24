@@ -121,8 +121,9 @@
   instructor: Wilker Aziz
   abstract:  "In this lecture I will present two deep latent variable models of word representation: a discriminative and a generative one."
   background:
-    - "[Distributed Representations of Words and Phrases and their Compositionality](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)"
-    - "[Learning Bilingual Word Representations by Marginalizing Alignments](http://acl2014.org/acl2014/P14-2/pdf/P14-2037.pdf)"
+    - "CBOW and Skip-gram: [Distributed Representations of Words and Phrases and their Compositionality](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)"
+    - "Skip-gram is a binary classifier: [word2vec Explained: Deriving Mikolov et al.’s Negative-Sampling Word-Embedding Method](https://arxiv.org/pdf/1402.3722.pdf)"
+    - "Generative modelling via lexical alignment: [Learning Bilingual Word Representations by Marginalizing Alignments](http://acl2014.org/acl2014/P14-2/pdf/P14-2037.pdf)"
   further:
     - "[Embedding Words as Distributions with a Bayesian Skip-gram Model](https://arxiv.org/pdf/1711.11027)"
     - "[Deep Generative Model for Joint Alignment and Word Representation](https://arxiv.org/pdf/1802.05883.pdf)"
