@@ -213,6 +213,7 @@
   discussion: 
     - "In this session we will discuss the following papers:"
     - "A.J. Anderson, D. Kiela, S. Clark and M. Poesio. [Visually Grounded and Textual Semantic Models Differentially Decode Brain Activity Associated with Concrete and Abstract Nouns](https://www.transacl.org/ojs/index.php/tacl/article/view/879). Transactions of the Association for Computational Linguistics (TACL)."
+    - "Alexis Conneau and Douwe Kiela. [SentEval: An Evaluation Toolkit for Universal Sentence Representations](https://arxiv.org/pdf/1803.05449.pdf)."
   slides: 
   code: 
   data: 
