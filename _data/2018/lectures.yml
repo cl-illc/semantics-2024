@@ -182,6 +182,24 @@
   code: 
   data: 
 -
+layout: lecture
+  selected: y
+  date: 2018-05-08
+  img: Bonsack_machine
+  uid: may2
+  title: "Multimodal semantics and dialogue"
+  instructor: "Elia Bruni and Ekaterina Shutova"
+  note: 
+  abstract: "In this session we will give an introductory lecture on multimodal semantics, i.e. learning semantic representations from both linguistic and visual data. We will then discuss their application in multimodal dialogue systems."
+  background:
+  discussion: 
+    - "In this session we will discuss the following papers:"
+    - "Douwe Kiela and Leon Bottou 2014. [Learning Image Embeddings using Convolutional Neural Networks for Improved Multi-Modal Semantics](http://www.cl.cam.ac.uk/~dk427/papers/emnlp2014.pdf). In Proceedings of EMNLP 2014, Doha, Qatar."
+    - "Angeliki Lazaridou, Nghia The Pham, Marco Baroni. 2015. [Combining Language and Vision with a Multimodal Skip-gram Model](http://www.aclweb.org/anthology/N15-1016). In Proceedings of NAACL 2015."
+  slides: 
+  code: 
+  data: 
+-
   layout: lecture
   selected: y
   date: 2018-05-15
