@@ -182,11 +182,11 @@
   code: 
   data: 
 -
-layout: lecture
+  layout: lecture
   selected: y
   date: 2018-05-08
   img: Bonsack_machine
-  uid: may2
+  uid: may8
   title: "Multimodal semantics and dialogue"
   instructor: "Elia Bruni and Ekaterina Shutova"
   note: 
