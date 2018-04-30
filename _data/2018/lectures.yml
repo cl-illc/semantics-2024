@@ -202,6 +202,23 @@
 -
   layout: lecture
   selected: y
+  date: 2018-05-08
+  img: ImageConvNet
+  uid: may8
+  title: "Multimodal semantics (continued) and introducing the third practical"
+  instructor: "Ekaterina Shutova"
+  note: 
+  abstract: "In this session we will continue our discussion of multimodal semantics. At the end, I will give you an overview of the third practical and what we expect to see in your final report."
+  background:
+  discussion: 
+    - "In this session we will discuss the following papers:"
+    - "A.J. Anderson, D. Kiela, S. Clark and M. Poesio. [Visually Grounded and Textual Semantic Models Differentially Decode Brain Activity Associated with Concrete and Abstract Nouns](https://www.transacl.org/ojs/index.php/tacl/article/view/879). Transactions of the Association for Computational Linguistics (TACL)."
+  slides: 
+  code: 
+  data: 
+-
+  layout: lecture
+  selected: y
   date: 2018-05-15
   img: graphdgms
   uid: graphdgms
