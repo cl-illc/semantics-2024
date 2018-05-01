@@ -160,9 +160,12 @@
     - "In this session we will discuss the following papers:"
     - "Tom M Mitchell, Svetlana V Shinkareva, Andrew Carlson, Kai-Min Chang, Vicente L Malave, Robert A Mason, and Marcel Adam Just. 2008. [Predicting human brain activity associated with the meanings of nouns.](https://www.cs.cmu.edu/~tom/pubs/science2008.pdf) Science, 320(5880):1191–1195."
     - "Samira Abnar, Rasyan Ahmed, Max Mijnheer, Willem Zuidema. 2018. [Experiential, Distributional and Dependency-based Word Embeddings have Complementary Roles in Decoding Brain Activity.](http://aclweb.org/anthology/W18-0107) Proceedings Workshop on Cognitive Modeling and Computational Linguistics (CMCL 2018)."
-  slides: 
-  code: 
-  data: 
+  slides: resources/slides/Word%20Representations%20%20%26%20%20Neurocognition%20of%20Language.pdf
+  further:
+    - "[From distributional semantics to feature norms: grounding semantic models in human perceptual data](http://aclweb.org/anthology/W15-0107)"
+    - "[A Continuous Semantic Space Describes the Representation of Thousands of Object and Action Categories across the Human Brain](https://www.cell.com/neuron/fulltext/S0896-6273(12)00934-8)"
+    - "[Natural speech reveals the semantic maps that tile human cerebral cortex](https://www.nature.com/articles/nature17637)"
+    - "(http://gallantlab.org/huth2016/)" 
 -
   layout: lecture
   selected: y
@@ -261,18 +264,4 @@
     - "Advanced control variates: [Backpropagation through the Void: Optimizing control variates for black-box gradient estimation](https://arxiv.org/pdf/1711.00123.pdf)"
     - "Non-parametric priors: [Nonparametric Variational Auto-encoders for Hierarchical Representation Learning](https://arxiv.org/pdf/1703.07027.pdf)"
     - "Implicit likelihoods: [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661.pdf) and [Hierarchical Implicit Models and Likelihood-Free Variational Inference](https://arxiv.org/pdf/1702.08896.pdf)"
--
-  layout: lecture
-  selected: y
-  date: 2018-05-01
-  img: brain 
-  uid: brain
-  title: "Word Representation and Neurocognition of Language"
-  instructor: "Samira Abnar"
-  abstract:  ""
-  slides: resources/slides/Word%20Representations%20%20%26%20%20Neurocognition%20of%20Language.pdf
-  further:
-    - "[From distributional semantics to feature norms: grounding semantic models in human perceptual data](http://aclweb.org/anthology/W15-0107)"
-    - "[A Continuous Semantic Space Describes the Representation of Thousands of Object and Action Categories across the Human Brain](https://www.cell.com/neuron/fulltext/S0896-6273(12)00934-8)"
-    - "[Natural speech reveals the semantic maps that tile human cerebral cortex](https://www.nature.com/articles/nature17637)"
-    - "(http://gallantlab.org/huth2016/)"
+
