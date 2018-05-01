@@ -261,4 +261,17 @@
     - "Advanced control variates: [Backpropagation through the Void: Optimizing control variates for black-box gradient estimation](https://arxiv.org/pdf/1711.00123.pdf)"
     - "Non-parametric priors: [Nonparametric Variational Auto-encoders for Hierarchical Representation Learning](https://arxiv.org/pdf/1703.07027.pdf)"
     - "Implicit likelihoods: [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661.pdf) and [Hierarchical Implicit Models and Likelihood-Free Variational Inference](https://arxiv.org/pdf/1702.08896.pdf)"
-
+-
+  layout: lecture
+  selected: y
+  date: 2018-05-01
+  img: brain 
+  uid: brain
+  title: "Word Representation and Neurocognition of Language"
+  instructor: "Samira Abnar"
+  abstract:  ""
+  further:
+    - "http://aclweb.org/anthology/W15-0107"
+    - "https://www.cell.com/neuron/fulltext/S0896-6273(12)00934-8"
+    - "Natural speech reveals the semantic maps that tile human cerebral cortex"
+    - "http://gallantlab.org/huth2016/"
