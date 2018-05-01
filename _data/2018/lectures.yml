@@ -270,7 +270,7 @@
   title: "Word Representation and Neurocognition of Language"
   instructor: "Samira Abnar"
   abstract:  ""
-  slides: resources/slides/Word Representations & Neurocognition of Language.pdf
+  slides: resources/slides/Word%20Representations%20%20%26%20%20Neurocognition%20of%20Language.pdf
   further:
     - "[From distributional semantics to feature norms: grounding semantic models in human perceptual data](http://aclweb.org/anthology/W15-0107)"
     - "[A Continuous Semantic Space Describes the Representation of Thousands of Object and Action Categories across the Human Brain](https://www.cell.com/neuron/fulltext/S0896-6273(12)00934-8)"
