@@ -29,5 +29,4 @@ In this setup, the course has no exam. The grade is based on participation (incl
 
 
 
-
 [UvA]: {{ site.uva_url }} "Universiteit van Amsterdam"
