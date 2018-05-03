@@ -181,7 +181,7 @@
     - "In this session we will discuss the following papers:"
     - "Dario Gutierrez, Ekaterina Shutova, Tyler Marghetis and Benjamin Bergen. 2016. [Literal and Metaphorical Senses in Compositional Distributional Semantic Models.](http://www.cl.cam.ac.uk/~es407/papers/ACL2016Dario.pdf) In Proceedings of ACL 2016, Berlin, Germany."
     - "Marek Rei, Luana Bulat, Douwe Kiela and Ekaterina Shutova. 2017. [Grasping the Finer Point: A Supervised Similarity Network for Metaphor Detection.](http://www.cl.cam.ac.uk/~es407/papers/emnlp2017marek.pdf) In Proceedings of EMNLP 2017, Copenhagen, Denmark."
-  slides: 
+  slides: resources/slides/ull-metaphor.pdf
   code: 
   data: 
 -
