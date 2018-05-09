@@ -6,7 +6,7 @@
     <!-- citation -->
     <strong>{{ include.lecture.title }}</strong><br/>
     {% if include.lecture.instructor %}{{ include.lecture.instructor }}.{% endif %}
-    {{ include.lecture.date }}.
+    {% if include.lecture.date %}{{ include.lecture.date }}.{% endif %}
     {% if include.lecture.note %}<i>{{ include.lecture.note }}</i>{% endif %}
     <br/>
 
