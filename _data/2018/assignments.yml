@@ -31,3 +31,17 @@
     - "word2vec Explained: Deriving Mikolov et al.’s Negative-Sampling Word-Embedding Method (https://arxiv.org/pdf/1402.3722.pdf)"
   code:
   
+  -  
+  layout: lecture
+  selected: y
+  date: 2018-05-9
+  img: prac
+  uid: practical3
+  title: "Practical III"
+  note: 
+  abstract: 
+  background:
+  discussion:
+  instructions: resources/practicals/practical3/ULL_Practical3.pdf  
+  data: resources/practicals/practical3/resources/
+  code:
