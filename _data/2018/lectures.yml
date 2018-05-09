@@ -219,7 +219,7 @@
     - "A.J. Anderson, D. Kiela, S. Clark and M. Poesio. [Visually Grounded and Textual Semantic Models Differentially Decode Brain Activity Associated with Concrete and Abstract Nouns](https://www.transacl.org/ojs/index.php/tacl/article/view/879). Transactions of the Association for Computational Linguistics (TACL)."
     - "Luana Bulat, Stephen Clark and Ekaterina Shutova. 2017. [Speaking, Seeing, Understanding: Correlating semantics models with conceptual representation in the brain](http://www.cl.cam.ac.uk/~es407/papers/emnlp2017luana.pdf). In Proceedings of EMNLP 2017, Copenhagen, Denmark."
     - "Alexis Conneau and Douwe Kiela. [SentEval: An Evaluation Toolkit for Universal Sentence Representations](https://arxiv.org/pdf/1803.05449.pdf)."
-  slides: 
+  slides: resources/slides/ULL-final-report.pdf
   code: 
   data: 
 -
