@@ -60,4 +60,12 @@ Proceedings of ACL 2014.
 
 
 
+**Tuesday, 15 May**
 
+* Kim et al. 2017. [Structured Attention Networks](https://arxiv.org/pdf/1702.00887.pdf)
+* Choi et al. 2017. [Learning to Compose Task-Specific Tree Structures](https://arxiv.org/pdf/1707.02786.pdf)
+
+**Wednesday, 16 May**
+    
+* Maillard et al. 2017. [Jointly Learning Sentence Embeddings and Syntax with Unsupervised Tree-LSTMs](https://arxiv.org/pdf/1705.09189.pdf)
+* Yogamata et al. 2016. [Learning to Compose Words into Sentences with Reinforcement Learning](https://arxiv.org/pdf/1611.09100.pdf)
