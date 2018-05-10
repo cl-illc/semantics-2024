@@ -43,8 +43,10 @@
   background:
   discussion:
   instructions: resources/practicals/practical3/ULL_Practical3.pdf  
-  data: resources/practicals/practical3/resources/
-  code:
+  code: resources/practicals/practical3/senteval_example.ipynb
+  data:
+  further:
+  
 
 
 
