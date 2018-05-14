@@ -228,7 +228,7 @@
   date: 2018-05-15
   img: graphdgms
   uid: graphdgms
-  title: "Latent graph models"
+  title: "Continuous relaxations of discrete variables"
   instructor: Wilker Aziz
   abstract:  "In this lecture I will present models of graph induction."
   background:
@@ -241,6 +241,8 @@
   further:
     - "[Learning Structured Text Representations](https://arxiv.org/pdf/1705.09207.pdf)"
     - "[Neural Machine Translation with Source-Side Latent Graph Parsing](https://arxiv.org/pdf/1702.02265.pdf)"
+  slides: slides/dgm-relaxations.pdf
+  code: //github.com/uva-slpl/ull/blob/gh-pages/resources/notebooks/Concrete.ipynb
 -
   layout: lecture
   selected: y

@@ -5,7 +5,6 @@
 %\usepackage[margin=1in]{geometry}
 \usepackage{tikz}
 \usepackage{booktabs}
-\usepackage{subcaption}
 \usepackage{tikz}
 \usetikzlibrary{intersections,positioning}
 \usetikzlibrary{matrix, calc}
@@ -32,7 +31,7 @@
 
 %\DeclareMathOperator*{\softmax}{softmax}
 
-\title[DGMs in NLP]{Latent Graph Models}
+\title[DGMs in NLP]{Continuous Relaxation of Discrete Random Variables}
 
 
 \def\W#1#2{\rnode{#1}{#2}\hfill}
@@ -65,28 +64,9 @@ logo=\bctrombone
 
 \setcounter{framenumber}{0}
 
-\include{vae}
+\include{body}
 %\include{applications}
 
-\begin{frame}{Summary}
-
-Deep learning in NLP
-\begin{itemize}
-	\item task-driven feature extraction
-	\item models with more realistic assumptions
-\end{itemize}
-
-~
-
-Probabilistic modelling 
-\begin{itemize}
-	\item better (or at least more explicit) statistical assumptions
-	\item compact models
-	\item semi-supervised learning
-\end{itemize}
-
-
-\end{frame}
 
 \begin{frame}[allowframebreaks]{Literature}
 \bibliographystyle{plainnat}
