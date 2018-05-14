@@ -241,7 +241,7 @@
   further:
     - "[Learning Structured Text Representations](https://arxiv.org/pdf/1705.09207.pdf)"
     - "[Neural Machine Translation with Source-Side Latent Graph Parsing](https://arxiv.org/pdf/1702.02265.pdf)"
-  slides: slides/dgm-relaxations.pdf
+  slides: resources/slides/dgm-relaxations.pdf
   code: //github.com/uva-slpl/ull/blob/gh-pages/resources/notebooks/Concrete.ipynb
 -
   layout: lecture
