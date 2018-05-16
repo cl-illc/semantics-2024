@@ -262,6 +262,7 @@
     - "Investigation of induced latent variables: [Do latent tree learning models identify meaningful structure in sentences?](https://arxiv.org/pdf/1709.01121.pdf)"
     - "No latent variables, but generative training: [Recurrent Neural Network Grammars](https://arxiv.org/pdf/1602.07776.pdf)"
     - "More on gradient estimation: [Simple Statistical Gradient-Flowing Algorithms for Connectionist Reinforcement Learning](https://link.springer.com/content/pdf/10.1007%2FBF00992696.pdf)"
+  slides: resources/slides/dgm-discrete.pdf
 -
   layout: lecture
   selected: y

@@ -304,48 +304,133 @@ sigmoid output will do that job.
 
 \section{Variance reduction}
 
+\begin{frame}{Control variates}
 
-\begin{frame}{Baselines}
+Suppose we want to estimate $\mathbb E[f(Z)]$ and we know the expected value of another function $\psi(z)$ on the same support. \pause
 
+~
+
+Then it holds that
 \begin{equation}
-\begin{aligned}
-&\mathbb E_{q_\lambda(z|x)} \left[  \log p_\theta(x|z)  \pdv{\lambda}\log q_\lambda(z|x)\right] \\
-&= \mathbb E_{q_\lambda(z|x)} \left[ \left(  \log p_\theta(x|z) -C(x) \right)  \pdv{\lambda}\log q_\lambda(z|x) \right] \\
-&+ \mathbb E_{q_\lambda(z|x)} \left[ C(x)\pdv{\lambda}\log q_\lambda(z|x)  \right]\\
-&= \mathbb E_{q_\lambda(z|x)} \left[ \left(  \log p_\theta(x|z) -C(x) \right)  \pdv{\lambda}\log q_\lambda(z|x) \right] + C(x)
-%&= \mathbb E_{q_\lambda(z|x)} \left[  \log p_\theta(x|z)  \pdv{\lambda}\log q_\lambda(z|x)- C_\rho(x) \right] + \mathbb E_{q_\lambda(z|x)} \left[  C_\rho(x) \right] \\
-%&= \mathbb E_{q_\lambda(z|x)} \left[  \log p_\theta(x|z)  \pdv{\lambda}\log q_\lambda(z|x)- C_\rho(x) \right] + C_\rho(x)
-\end{aligned}
+	\mathbb E[f(Z)] = \mathbb E[f(Z) - \psi(Z)] + \mathbb E[\psi(Z)]
 \end{equation}
 
+\pause
+
+If $\psi(z) = f(z)$, and we estimate the expected value of $f(x) - \psi(x)$, then we have reduced variance to $0$. \pause In general
+\begin{equation}
+\Var(f - \psi) = \Var(f) - 2\Cov(f, \psi) + \Var(\psi)
+\end{equation}
+If $f$ and $\psi$ are strongly correlated and the covariance is greater than $\Var(\psi)$, then we improve on the original estimation problem.
+
+\ack{\citet{greensmith2004variance}}
+
+\end{frame}
+
+\begin{frame}[plain]{Reducing variance of score function estimator}
+Back to the score function estimator
+\begin{equation*}
+\begin{aligned}
+&\mathbb E_{q_\lambda(z|x)} \left[  \log p_\theta(x|z)  \pdv{\lambda}\log q_\lambda(z|x)\right] \\ \pause
+&= \mathbb E_{q_\lambda(z|x)} \left[  \underbrace{\log p_\theta(x|z)  \pdv{\lambda}\log q_\lambda(z|x)}_{f(z)} - \underbrace{C(x)\pdv{\lambda}\log q_\lambda(z|x)}_{\psi(z)} \right] \\
+&\quad + \mathbb E_{q_\lambda(z|x)} \left[ \underbrace{C(x)\pdv{\lambda}\log q_\lambda(z|x)}_{\psi(z)} \right]
+\end{aligned}
+\end{equation*}
+
+The last term is very simple! 
+
+\end{frame}
+
+\begin{frame}{$\mathbb E[\psi(Z)]$}
+\begin{equation*}
+\begin{aligned}
+\mathbb E_{q_\lambda(z|x)} \left[ C(x)\pdv{\lambda}\log q_\lambda(z|x) \right] \pause &= C(x) \mathbb E_{q_\lambda(z|x)} \left[ \pdv{\lambda}\log q_\lambda(z|x) \right] \pause \\
+= C(x) \mathbb E_{q_\lambda(z|x)} \left[ \frac{\pdv{\lambda} q_\lambda(z|x)}{q_\lambda(z|x)} \right] \pause &= C(x) \int  \alert{q_\lambda(z|x)} \frac{\pdv{\lambda} q_\lambda(z|x)}{ \alert{q_\lambda(z|x)}} \dd{z} \pause \\
+=C(x) \int  \pdv{\lambda}  q_\lambda(z|x) \dd{z} \pause &= C(x) \pdv{\lambda} \int  q_\lambda(z|x) \dd{z} \pause \\
+=C(x) \pdv{\lambda} 1 \pause &= 0
+%&= C(x) \mathbb E_{q_\lambda(z|x)} \left[ \frac{\pdv{\lambda} q_\lambda(z|x)}{q_\lambda(z|x)} \right] 
+\end{aligned}
+\end{equation*}
+
+\end{frame}
+
+\begin{frame}{Improved estimator}
+Back to the score function estimator
+\begin{equation*}
+\begin{aligned}
+&\mathbb E_{q_\lambda(z|x)} \left[  \log p_\theta(x|z)  \pdv{\lambda}\log q_\lambda(z|x)\right] \\ \pause
+&= \mathbb E_{q_\lambda(z|x)} \left[  \log p_\theta(x|z)  \pdv{\lambda}\log q_\lambda(z|x) - C(x)\pdv{\lambda}\log q_\lambda(z|x) \right] \\
+&\quad + \alert{\mathbb E_{q_\lambda(z|x)} \left[ C(x)\pdv{\lambda}\log q_\lambda(z|x) \right]} \pause \\
+&=\mathbb E_{q_\lambda(z|x)} \left[  \log p_\theta(x|z)  \pdv{\lambda}\log q_\lambda(z|x) - C(x)\pdv{\lambda}\log q_\lambda(z|x) \right] \pause \\
+&= \mathbb E_{q_\lambda(z|x)} \left[  \left( \log p_\theta(x|z) - C(x) \right)  \pdv{\lambda}\log q_\lambda(z|x) \right]
+\end{aligned}
+\end{equation*}
+
+$C(x)$ is called a {\bf baseline}
+
 \end{frame}
 
 
 \begin{frame}{Baselines}
-We attempt to centre the gradient estimate. To do this we learn a quantity $ C $ that we subtract
-from the reconstruction loss.
-\begin{equation*}
-\log q(z|\lambda) \left( \log p(x|z,\theta) - C \right)
-\end{equation*}
-We call $ C $ a baseline. It does not change the expected gradient \citep{Williams:1992}.
+
+Baselines can be constant
+\begin{equation}
+\mathbb E_{q_\lambda(z|x)} \left[  \left( \log p_\theta(x|z) - \alert{C} \right)  \pdv{\lambda}\log q_\lambda(z|x) \right]
+\end{equation} \pause
+or input-dependent
+\begin{equation}
+\mathbb E_{q_\lambda(z|x)} \left[  \left( \log p_\theta(x|z) - \alert{C(x)} \right)  \pdv{\lambda}\log q_\lambda(z|x) \right]
+\end{equation} \pause
+or both
+\begin{equation}
+\mathbb E_{q_\lambda(z|x)} \left[  \left( \log p_\theta(x|z) - \alert{C} - \alert{C(x)} \right)  \pdv{\lambda}\log q_\lambda(z|x) \right]
+\end{equation}
+
+\ack{\citet{Williams:1992}}
+
 \end{frame}
 
-\begin{frame}{Baselines}
-We can make baselines input-depdendent to make them more flexible.
-\begin{equation*}
-\log q(z|\lambda) \left( \log p(x|z,\theta) - C(x) \right)
-\end{equation*}
-However, baselines may not depend on the random value $ z $! Quantities that may depend on the
-random value ($ C(z) $) are called \textbf{control variates}. See \cite{PaisleyEtAl:2012, RanganathEtAl:2014,GregorEtAl:2014}.
+
+\begin{frame}{Full power of control variates}
+
+If we design $C(\cdot)$ to depend on the variable of integration $z$,  we exploit the full power of {\bf control variates}, but designing and using those require more careful treatment
+
+\ack{\cite{PaisleyEtAl:2012, RanganathEtAl:2014,GregorEtAl:2014}}
+
 \end{frame}
 
-\begin{frame}{Baselines}
-Baselines are predicted by a regression model (e.g. a neural net). The model is trained using 
-an $ L_{2} $-loss.
+\begin{frame}{Learning baselines}
+Baselines are predicted by a regression model (e.g. a neural net). 
+
+~
+
+One idea is to ``centre the learning signal'', in which case we train the baseline with an  $ L_{2} $-loss:
 \begin{equation*}
-\min \left(C(x) - \log p(x|z,\theta)\right)^{2}
+\rho = \argmin_{\rho} \left(C_\rho(x) - \log p(x|z)\right)^{2}
 \end{equation*}
+
+\ack{\citet{gu2015muprop}}
 \end{frame}
+
+\begin{frame}[plain]{Putting it together}
+
+Parameter estimation
+\begin{equation*}
+\argmax_{\theta,\lambda} ~ \E[q_\lambda(z|x)]{\log p_\theta(x|Z)} - \KL{q_\lambda(z|x)}{p(z)}
+\end{equation*}
+
+Variance reduction
+$$\argmin_{\rho} \left(C_\rho(x) - \log p(x|z)\right)^{2}$$
+
+Generative gradient
+$$\E[q_\lambda(z|x)]{\pdv{\theta}\log p_\theta(x|z)}$$
+
+
+Inference gradient
+$$\mathbb E_{q_\lambda(z|x)} \left[  \left( \log p_\theta(x|z) - C(x) \right)  \pdv{\lambda}\log q_\lambda(z|x) \right]$$
+
+\end{frame}
+
 
 \begin{frame}{Summary}
 \begin{itemize}
