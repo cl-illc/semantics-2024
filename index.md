@@ -23,9 +23,7 @@ Though the title contains the term "unsupervised", we will treat it in a rather 
 - Bayesian and non-parametric Bayesian modeling
 - Representation learning / deep learning methods
 
-
 In this setup, the course has no exam. The grade is based on participation (including presentations of literature that students give (20%) and a series of practical assignments, culminating in a research report that the students submit at the end (80%).
-
 
 
 
