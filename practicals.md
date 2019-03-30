@@ -3,9 +3,8 @@ layout: photolist
 title: Practicals
 menu: true
 ---
-*Spring 2018*
+*Spring 2019*
 
-Guidelines for [assessment](assessment)
 
 # Practicals
 
