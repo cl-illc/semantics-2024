@@ -2,7 +2,7 @@
 layout: main
 ---
 
-This is the page of the course *Statistical Methods in Natural Language Semantics* offered at the [University of Amsterdam][UvA]
+This is the page of the course *Statistical Methods for Natural Language Semantics* offered at the [University of Amsterdam][UvA]
 
 Course coordinators: [Ekaterina Shutova](//www.cl.cam.ac.uk/~es407/)
 
@@ -16,14 +16,24 @@ Teaching assistants: [Samira Abnar](mailto:s.abnar@uva.nl) and [Verna Dankers](m
 
 ## Content
 
-The class will cover representation learning methods for natural language processing (NLP) problems. Various kinds of representations will be considered: from discrete and structured representations (e.g., hidden hierarchical structure of text) to real-valued vectors (as in deep learning). The main focus will be on problems from natural language processing but most of the methods we will consider will have applications in other domains (e.g., bioinformatics, vision, information retrieval, etc). The goal of this class is to give you a perspective on modern research in statistical NLP.
+The field of computational semantics is concerned with automatic interpretation of natural language. This course will provide an overview of state-of-the-art statistical approaches to semantics. Specifically, we will look at learning sparse and dense representations of word meaning, modelling predicate-argument structure, compositional semantics and neural models of phrase and sentence meaning. The course will also cover semantic models that lie at the intersection with other fields: multimodal semantic models that draw knowledge from linguistic and visual data, and cognitively-motivated semantic models and their evaluation against brain imaging data. Finally, we will look at the real world applications of these models in areas such as opinion mining and automated fact checking.
 
-Though the title contains the term "unsupervised", we will treat it in a rather general way: for example, any representation learning approach is in some sense unsupervised as features are not pre-specified by a model designer but rather induced during the learning process. There will be two parts to the class:
+This is an advanced research seminar aiming to introduce students to recent developments in the field of NLP. The course will consist of a set of lectures and seminar sessions, where the students will present and discuss recent research papers. This year we will focus on representation learning for NLP, considering different levels of language analysis: words, sentences and longer discourse fragments. We will also look at the recently proposed contextualised word representation models (such as ELMo and BERT) and joint learning methods (including multilingual joint learning and multitask learning).
 
-- Bayesian and non-parametric Bayesian modeling
-- Representation learning / deep learning methods
+An important component of the course is a research project, in which the students will have the opportunity to implement a number of semantic models, perform experiments addressing a new research question and write a research paper.
 
-In this setup, the course has no exam. The grade is based on participation (including presentations of literature that students give (20%) and a series of practical assignments, culminating in a research report that the students submit at the end (80%).
+In this setup, the course has no exam. The grade is based on participation (including presentations of literature that students give (25%) and a series of practical assignments, culminating in a research report that the students submit at the end (75%).
+
+## Recommended reading
+
+Since the course focuses on the recent advances in the field of NLP, there is no text book. The students will be referred to research papers throughout the course.
+
+## Recommended prior knowledge
+
+Machine Learning 1 and Natural Language Processing 1
+
+For those of you who have not attended NLP1 please check the [course website](https://cl-illc.github.io/nlp1/) and reading materials.
+
 
 
 
