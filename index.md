@@ -2,11 +2,11 @@
 layout: main
 ---
 
-This is the page of the course *Unsupervised Language Learning: Representation Learning for NLP* offered at the [University of Amsterdam][UvA]
+This is the page of the course *Statistical Methods in Natural Language Semantics* offered at the [University of Amsterdam][UvA]
 
 Course coordinators: [Ekaterina Shutova](//www.cl.cam.ac.uk/~es407/)
 
-Teaching assistant: [Samira Abnar](//https://staff.fnwi.uva.nl/s.abnar/)
+Teaching assistants: [Samira Abnar](mailto:s.abnar@uva.nl) and [Verna Dankers](mailto:verna.dankers@student.uva.nl)
 
 ## Goals
 
