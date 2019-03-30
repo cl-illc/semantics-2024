@@ -1,51 +1,19 @@
 -
   layout: lecture
   selected: y
-  date: 2018-04-05
+  date: 2019-04-02
   img: prac
   uid: practical1
-  title: "Practical I"
+  title: "Practical 1: Learning sentence representations"
   note: 
   abstract: 
   background:
   discussion:
-  instructions: resources/practicals/practical1/ULL_Practical_I.pdf
-  data: resources/practicals/practical1/2000_nouns_sorted.txt
+  instructions: 
+  data: 
   code:
   
-  
--  
-  layout: lecture
-  selected: y
-  date: 2018-04-19
-  img: prac
-  uid: practical2
-  title: "Practical II"
-  note: 
-  abstract: 
-  background:
-  discussion:
-  instructions: resources/practicals/practical2/ULL_Practical_II.pdf
-  data: resources/practicals/practical2/resources/
-  further: 
-    - "word2vec Explained: Deriving Mikolov et al.’s Negative-Sampling Word-Embedding Method (https://arxiv.org/pdf/1402.3722.pdf)"
-  code:
-  
--  
-  layout: lecture
-  selected: y
-  date: 2018-05-9
-  img: prac
-  uid: practical3
-  title: "Practical III"
-  note: 
-  abstract: 
-  background:
-  discussion:
-  instructions: resources/practicals/practical3/ULL_Practical3.pdf  
-  code: resources/practicals/practical3/senteval_example.ipynb
-  data:
-  further:
+   
   
 
 
