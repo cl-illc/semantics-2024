@@ -4,7 +4,7 @@ layout: main
 
 This is the page of the course *Statistical Methods for Natural Language Semantics* offered at the [University of Amsterdam][UvA]
 
-Course coordinators: [Ekaterina Shutova](//www.cl.cam.ac.uk/~es407/)
+Course coordinator: [Ekaterina Shutova](//www.cl.cam.ac.uk/~es407/)
 
 Teaching assistants: [Samira Abnar](mailto:s.abnar@uva.nl) and [Verna Dankers](mailto:verna.dankers@student.uva.nl)
 
@@ -22,7 +22,7 @@ This is an advanced research seminar aiming to introduce students to recent deve
 
 An important component of the course is a research project, in which the students will have the opportunity to implement a number of semantic models, perform experiments addressing a new research question and write a research paper.
 
-In this setup, the course has no exam. The grade is based on participation (including presentations of literature that students give (25%) and a series of practical assignments, culminating in a research report that the students submit at the end (75%).
+In this setup, the course has no exam. The grade is based on participation, including presentations of literature that the students give (25%) and a series of practical assignments, culminating in a research report that the students submit at the end (75%).
 
 ## Recommended reading
 
