@@ -22,7 +22,13 @@ This is an advanced research seminar aiming to introduce students to recent deve
 
 An important component of the course is a research project, in which the students will have the opportunity to implement a number of semantic models, perform experiments addressing a new research question and write a research paper.
 
+## Assessment
+
 In this setup, the course has no exam. The grade is based on participation, including presentations of literature that the students give (25%) and a series of practical assignments, culminating in a research report that the students submit at the end (75%).
+
+- Presentation and participation: 25%
+- Practical 1: Learning general-purpose sentence representations: 25%
+- Research project (group work): 50% (10% for the poster presentaion; 40% for the research paper)
 
 ## Recommended reading
 
