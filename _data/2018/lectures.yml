@@ -63,9 +63,14 @@
   title: "Seminar: Learning sentence representations"
   instructor: "Ekaterina Shutova"
   note: 
-  abstract: "In this session we will discuss three recent papers on learning general-purpose sentence representations, focusing on unsupervised approaches."
+  abstract: "In this session we will discuss three recent papers on learning general-purpose sentence representations."
   background:
   discussion: 
+    - "In this session we will discuss the following papers:"
+    - "F Hill, K Cho, A Korhonen, Y Bengio. 2016. [Learning to understand phrases by embedding the dictionary](https://www.aclweb.org/anthology/Q16-1002). Transactions of the Association for Computational Linguistics 4, 17-30" 
+    - "Lajanugen Logeswaran and Honglak Lee. 2018. [An efficient framework for learning sentence representations](https://openreview.net/pdf?id=rJvJXZb0W). In Proceedings of ICLR 2018."
+    - "Allen Nie, Erin D. Bennett, Noah D. Goodman. 2018. [DisSent: Learning Sentence Representations from Explicit Discourse Relations](https://arxiv.org/pdf/1710.04334.pdf). arXiv."
+
   slides: 
   code: 
   data: 
