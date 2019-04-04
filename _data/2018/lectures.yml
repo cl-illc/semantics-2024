@@ -96,7 +96,7 @@
   layout: lecture
   selected: y
   date: 2019-04-17
-  img: Multilingual
+  img: bert
   uid: l6
   title: "Attention, transformers and the BERT model"
   instructor: "Samira Abnar and Ekaterina Shutova"
