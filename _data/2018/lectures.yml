@@ -69,7 +69,6 @@
     - "In this session we will discuss the following papers:"
     - "F Hill, K Cho, A Korhonen, Y Bengio. 2016. [Learning to understand phrases by embedding the dictionary](https://www.aclweb.org/anthology/Q16-1002). Transactions of the Association for Computational Linguistics 4, 17-30" 
     - "Lajanugen Logeswaran and Honglak Lee. 2018. [An efficient framework for learning sentence representations](https://openreview.net/pdf?id=rJvJXZb0W). In Proceedings of ICLR 2018."
-    - "Allen Nie, Erin D. Bennett, Noah D. Goodman. 2018. [DisSent: Learning Sentence Representations from Explicit Discourse Relations](https://arxiv.org/pdf/1710.04334.pdf). arXiv."
   slides: https://www.dropbox.com/s/a4llv8lycrw3ldz/Seminar-sent-reps.pdf?dl=0
   code: 
   data: 
@@ -79,16 +78,15 @@
   date: 2019-04-15
   img: NeuralMetaphor
   uid: l5
-  title: "Seminar: Contextualised representations. Modelling ambiguity and metaphor."
+  title: "Seminar: Contextualised representations."
   instructor: "Ekaterina Shutova"
   note: 
-  abstract: "In this session we will discuss contextualised word representations (ELMo) and modelling ambiguity and metaphor."
+  abstract: "In this session we will discuss contextualised word representations (ELMo)."
   background:
   discussion: 
     - "In this session we will discuss the following papers:"
     - "Matthew E. Peters, Mark Neumann, Mohit Iyyer, Matt Gardner, Christopher Clark, Kenton Lee and Luke Zettlemoyer 2018.  [Deep contextualized word representations](https://arxiv.org/pdf/1802.05365.pdf). In Proceedings of NAACL 2018, New Orleans, Louisiana."
-    - "Marek Rei, Luana Bulat, Douwe Kiela and Ekaterina Shutova. 2017. [Grasping the Finer Point: A Supervised Similarity Network for Metaphor Detection](https://www.aclweb.org/anthology/D17-1162). In Proceedings of EMNLP 2017, Copenhagen, Denmark."
-    - "Ge Gao, Eunsol Choi, Yejin Choi and Luke Zettlemoyer. 2018. [Neural Metaphor Detection in Context](https://aclweb.org/anthology/D18-1060). In Proceedings of EMNLP 2018, Brussels, Belgium"
+    - "Allen Nie, Erin D. Bennett, Noah D. Goodman. 2018. [DisSent: Learning Sentence Representations from Explicit Discourse Relations](https://arxiv.org/pdf/1710.04334.pdf). arXiv."
   slides: 
   code: 
   data: 
@@ -111,14 +109,18 @@
   layout: lecture
   selected: y
   date: 2019-04-24
-  img: Discourse
+  img: NeuralMetaphor
   uid: l7
-  title: "Discourse and document representations"
+  title: "Modelling ambiguity and metaphor."
   instructor: "Ekaterina Shutova"
   note: 
-  abstract: "In this session we will discuss learning representations of discourse fragments and documents."
+  abstract: "In this session we will discuss modelling ambiguity and metaphor."
   background:
   discussion: 
+  discussion: 
+    - "In this session we will discuss the following papers:"
+    - "Marek Rei, Luana Bulat, Douwe Kiela and Ekaterina Shutova. 2017. [Grasping the Finer Point: A Supervised Similarity Network for Metaphor Detection](https://www.aclweb.org/anthology/D17-1162). In Proceedings of EMNLP 2017, Copenhagen, Denmark."
+    - "Ge Gao, Eunsol Choi, Yejin Choi and Luke Zettlemoyer. 2018. [Neural Metaphor Detection in Context](https://aclweb.org/anthology/D18-1060). In Proceedings of EMNLP 2018, Brussels, Belgium"
   slides: 
   code: 
   data:    
