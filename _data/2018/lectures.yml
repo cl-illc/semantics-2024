@@ -102,6 +102,8 @@
   abstract: "In this session we will introduce attention and transformer architectures, and then discuss the recently proposed BERT model."
   background:
   discussion: 
+    - "In this session we will discuss the following paper:"
+    - "Jacob Devlin, Ming-Wei Chang, Kenton Lee and Kristina Toutanova. 2018. [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf). In Proceedings of EMNLP 2018."
   slides: 
   code: 
   data:   
