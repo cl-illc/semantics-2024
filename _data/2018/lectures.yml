@@ -78,7 +78,7 @@
   date: 2019-04-15
   img: NeuralMetaphor
   uid: l5
-  title: "Seminar: Contextualised representations."
+  title: "Seminar: Contextualised representations"
   instructor: "Ekaterina Shutova"
   note: 
   abstract: "In this session we will discuss contextualised word representations (ELMo)."
@@ -113,7 +113,7 @@
   date: 2019-04-24
   img: NeuralMetaphor
   uid: l7
-  title: "Modelling ambiguity and metaphor."
+  title: "Seminar: Modelling ambiguity and metaphor"
   instructor: "Ekaterina Shutova"
   note: 
   abstract: "In this session we will discuss modelling ambiguity and metaphor."
