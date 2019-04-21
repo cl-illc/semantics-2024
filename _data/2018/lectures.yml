@@ -161,3 +161,18 @@
   slides: 
   code: 
   data:      
+-
+  layout: lecture
+  selected: y
+  date: 2019-05-06
+  img: Discourse
+  uid: l10
+  title: "Discourse and document representations"
+  instructor: "Ekaterina Shutova"
+  note: 
+  abstract: "In this session we will discuss learning representations of discourse fragments and documents."
+  background:
+  discussion: 
+  slides: 
+  code: 
+  data:  
