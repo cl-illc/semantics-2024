@@ -160,7 +160,7 @@
     - "In this session we will discuss the following papers:"
     - "Hashimoto, K., Tsuruoka, Y., & Socher, R. (2017). [A Joint Many-Task Model: Growing a Neural Network for Multiple NLP Tasks](https://arxiv.org/pdf/1611.01587.pdf). In Proceedings of EMNLP 2017."
     - "Ma, J., Gao, W., & Wong, K. F. (2018). [Detect rumor and stance jointly by neural multi-task learning](http://delivery.acm.org/10.1145/3190000/3188729/p585-ma.pdf?ip=145.131.234.254&id=3188729&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1556011181_edb5110559211d65c6232c49a1f96108). In Companion of the The Web Conference 2018."
-  slides: 
+  slides: resources/slides/multitask_learning.pdf
   code: 
   data:      
 -
