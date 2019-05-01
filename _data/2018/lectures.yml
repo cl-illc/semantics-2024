@@ -175,6 +175,9 @@
   abstract: "In this session we will discuss learning representations of discourse fragments and documents."
   background:
   discussion: 
+    - "In this session we will discuss the following papers:"
+    - "Zichao Yang, Diyi Yang, Chris Dyer, Xiaodong He, Alex Smola, Eduard Hovy. 2016. [Hierarchical Attention Networks for Document Classification](https://www.cs.cmu.edu/~./hovy/papers/16HLT-hierarchical-attention-networks.pdf). In Proceedings of NAACL 2016."
+    - "Yangfeng Ji and Noah A. Smith. 2017. [Neural Discourse Structure for Text Categorization](https://www.aclweb.org/anthology/P17-1092). In Proceedings of ACL 2017."
   slides: 
   code: 
   data: 
@@ -189,10 +192,7 @@
   note: 
   abstract: "In this session we will discuss learning multilingual word and sentence representations."
   background:
-  discussion: 
-    - "In this session we will discuss the following papers:"
-    - "Zichao Yang, Diyi Yang, Chris Dyer, Xiaodong He, Alex Smola, Eduard Hovy. 2016. [Hierarchical Attention Networks for Document Classification](https://www.cs.cmu.edu/~./hovy/papers/16HLT-hierarchical-attention-networks.pdf). In Proceedings of NAACL 2016."
-    - "Yangfeng Ji and Noah A. Smith. 2017. [Neural Discourse Structure for Text Categorization](https://www.aclweb.org/anthology/P17-1092). In Proceedings of ACL 2017."
+  discussion:
   slides: 
   code: 
   data:  
