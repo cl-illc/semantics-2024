@@ -177,4 +177,19 @@
   discussion: 
   slides: 
   code: 
+  data: 
+-
+  layout: lecture
+  selected: y
+  date: 2019-05-08
+  img: Multilingual
+  uid: l11
+  title: "Multilingual models"
+  instructor: "Ekaterina Shutova"
+  note: 
+  abstract: "In this session we will discuss learning multilingual word and sentence representations."
+  background:
+  discussion: 
+  slides: 
+  code: 
   data:  
