@@ -216,3 +216,37 @@
   slides: 
   code: 
   data:  
+-
+  layout: lecture
+  selected: y
+  date: 2018-05-15
+  img: ImageConvNet
+  uid: l13
+  title: "Seminar: Multimodal models"
+  instructor: "Ekaterina Shutova"
+  note: 
+  abstract: "In this session we will discuss multimodal models, learning jointly from linguistic and visual data."
+  background:
+  discussion: 
+    - "In this session we will discuss the following papers:"
+    - "Douwe Kiela and Leon Bottou 2014. [Learning Image Embeddings using Convolutional Neural Networks for Improved Multi-Modal Semantics](http://www.cl.cam.ac.uk/~dk427/papers/emnlp2014.pdf). In Proceedings of EMNLP 2014, Doha, Qatar."
+  slides: 
+  code: 
+  data: 
+-
+  layout: lecture
+  selected: y
+  date: 2018-05-20
+  img: Mitchell-et-al
+  uid: l14
+  title: "Seminar: Representation learning and neurocognition of language"
+  instructor: "Ekaterina Shutova"
+  note: 
+  abstract: "In this session we will discuss the relationship of representation learning and neurocognition of language."
+  background:
+  discussion: 
+  slides: 
+  further:
+    - "[A Continuous Semantic Space Describes the Representation of Thousands of Object and Action Categories across the Human Brain](https://www.cell.com/neuron/fulltext/S0896-6273(12)00934-8)"
+    - "[Natural speech reveals the semantic maps that tile human cerebral cortex](https://www.nature.com/articles/nature17637)"
+    - "(http://gallantlab.org/huth2016/)" 
