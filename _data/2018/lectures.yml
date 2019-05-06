@@ -199,3 +199,20 @@
   slides: 
   code: 
   data:  
+-
+  layout: lecture
+  selected: y
+  date: 2019-05-13
+  img: Interpretation
+  uid: l12
+  title: "Interpretation of neural networks"
+  instructor: "Dieuwke Hupkes and Ekaterina Shutova"
+  note: 
+  abstract: "In this session we will discuss interpretation of neural network models."
+  background:
+  discussion: 
+    - "In this session we will discuss the following papers:"
+    - "Ian Tenney, Patrick Xia, Berlin Chen, Alex Wang, Adam Poliak, R. Thomas McCoy, Najoung Kim, Benjamin Van Durme, Samuel R. Bowman, Dipanjan Das, and Ellie Pavlick. 2019. [What do you learn from context? Probing for sentence structure in contextualized word representations](https://openreview.net/forum?id=SJzSgnRcKX). Proceedings of ICLR 2019."
+  slides: 
+  code: 
+  data:  
