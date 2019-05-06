@@ -247,3 +247,18 @@
   further:
     - "[A Continuous Semantic Space Describes the Representation of Thousands of Object and Action Categories across the Human Brain](https://www.cell.com/neuron/fulltext/S0896-6273(12)00934-8)"
     - "[Natural speech reveals the semantic maps that tile human cerebral cortex](https://www.nature.com/articles/nature17637)" 
+-
+  layout: lecture
+  selected: y
+  date: 2018-05-22
+  img: Poster
+  uid: l15
+  title: "Poster presentations"
+  instructor: "Ekaterina Shutova"
+  note: 
+  abstract: "In this session you guys will present the results of your research projects."
+  background:
+  discussion:
+  slides: 
+  code: 
+  data: 
