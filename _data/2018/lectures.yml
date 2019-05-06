@@ -225,7 +225,7 @@
   title: "Seminar: Multimodal models"
   instructor: "Ekaterina Shutova"
   note: 
-  abstract: "In this session we will discuss multimodal models, learning jointly from linguistic and visual data."
+  abstract: "In this session we will discuss multimodal models, i.e. learning jointly from linguistic and visual data."
   background:
   discussion:
   slides: 
