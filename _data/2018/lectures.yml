@@ -227,7 +227,10 @@
   note: 
   abstract: "In this session we will discuss multimodal models, i.e. learning jointly from linguistic and visual data."
   background:
-  discussion:
+  discussion: 
+    - "In this session we will discuss the following papers:"
+    - "D. Kiela and L. Bottou 2014. [Learning Image Embeddings using Convolutional Neural Networks for Improved Multi-Modal Semantics](https://www.aclweb.org/anthology/D14-1005). In Proceedings of EMNLP 2014, Doha, Qatar."
+    - "Oriol Vinyals, Alexander Toshev, Samy Bengio, Dumitru Erhan. 2015. [Show and tell: A neural image caption generator](https://arxiv.org/pdf/1411.4555.pdf). In Proceedings of CVPR 2015."
   slides: 
   code: 
   data: 
