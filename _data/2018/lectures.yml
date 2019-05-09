@@ -196,7 +196,7 @@
     - "In this session we will discuss the following papers:"
     - "Karl Moritz Hermann and Phil Blunsom. 2014. [Multilingual Models for Compositional Distributed Semantics](https://aclweb.org/anthology/P14-1006). In Proceedings of ACL 2014."
     - "Mikel Artetxe and Holger Schwenk. 2018. [Massively Multilingual Sentence Embeddings for Zero-Shot Cross-Lingual Transfer and Beyond.](https://arxiv.org/pdf/1812.10464.pdf) ArXiv."
-  slides: 
+  slides: resources/slides/Multilingual-models.pdf
   code: 
   data:  
 -
