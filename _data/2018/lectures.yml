@@ -246,6 +246,9 @@
   abstract: "In this session we will discuss the relationship of representation learning and neurocognition of language."
   background:
   discussion: 
+    - "In this session we will discuss the following papers:"
+    - "Maria Barrett, Joachim Bingel, Nora Hollenstein, Marek Rei and Anders Søgaard. 2018. [Sequence classification with human attention](https://aclweb.org/anthology/K18-1030). In Proceedings of CONLL 2018."
+    - "Luana Bulat, Stephen Clark and Ekaterina Shutova. 2017. [Speaking, Seeing, Understanding: Correlating semantics models with conceptual representation in the brain](https://www.aclweb.org/anthology/D17-1113). In Proceedings of EMNLP 2017, Copenhagen, Denmark."
   slides: 
   further:
     - "[A Continuous Semantic Space Describes the Representation of Thousands of Object and Action Categories across the Human Brain](https://www.cell.com/neuron/fulltext/S0896-6273(12)00934-8)"
