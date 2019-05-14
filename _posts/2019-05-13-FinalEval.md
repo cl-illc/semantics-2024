@@ -78,7 +78,6 @@ You lose points for bad writing style (because you were asked to prepare a confe
 
 ### An ideal report:
 * Precise, scientific-sounding, technical, to the point
- * Little general “waffle”/chit-chat
 * Not boring – because you don’t explain obvious things too much
 * Efficient delivery of (only) the facts that we need to know to understand/reimplement
 * Results visually well-presented and described with the correct priority of importance of sub-results
