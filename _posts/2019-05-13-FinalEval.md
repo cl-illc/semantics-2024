@@ -20,16 +20,17 @@ mathjax: true
 ## Poster instructions
 
 The goal of the poster session is to present your project to us and your classmates, discuss it and get feedback and ideas. We recommend the following structure: 
-Introduce the problem area and the task, and clearly state your specific research question(s) and their novelty.
-Describe the models / architectures that you have developed in the project, in a way that they are clear to your classmates. 
-Describe the experiments: how did you train and evaluate you models (include information about datasets, training procedure and baselines).
-Present your results and main findings.
-Finish off by analysis and conclusions: what are the most important things you have learnt from your experiments?
+
+* Introduce the problem area and the task, and clearly state your specific research question(s) and their novelty.
+* Describe the models / architectures that you have developed in the project, in a way that they are clear to your classmates. 
+* Describe the experiments: how did you train and evaluate you models (include information about datasets, training procedure and baselines).
+* Present your results and main findings.
+* Finish off by analysis and conclusions: what are the most important things you have learnt from your experiments?
  
 Keep in mind that a poster presentation is not just about the content of your project: The organisation of your poster and the oral presentation count as well.
-You should organise your poster in a structured way such that the reader can understand the your work within a few minutes.
-Provide easy to understand visual aids that support the information described in the text and are appealing for the reader.
-Prepare a speech of a few minutes (`elevator pitch’) summarising the highlights of your research. Use your poster in your speech, while keeping eye-contact with your audience. Ensure that your speech is understable for fellow students.
+* You should organise your poster in a structured way such that the reader can understand the your work within a few minutes.
+* Provide easy to understand visual aids that support the information described in the text and are appealing for the reader.
+* Prepare a speech of a few minutes ("elevator pitch") summarising the highlights of your research. Use your poster in your speech, while keeping eye-contact with your audience. Ensure that your speech is understable for fellow students.
 
 ## Report instructions
 
