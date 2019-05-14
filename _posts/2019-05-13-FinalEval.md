@@ -75,9 +75,10 @@ You lose points for bad writing style (because you were asked to prepare a confe
 * Avoid colloquial language – everything can be said in a scientific-sounding way
 * Avoid lengthy sentences, stay to the point!
 * Do not spend space on "obvious" things! 
-* An ideal report:
+
+### An ideal report:
 * Precise, scientific-sounding, technical, to the point
-* Little general “waffle”/chit-chat
+ * Little general “waffle”/chit-chat
 * Not boring – because you don’t explain obvious things too much
 * Efficient delivery of (only) the facts that we need to know to understand/reimplement
 * Results visually well-presented and described with the correct priority of importance of sub-results
