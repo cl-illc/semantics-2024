@@ -28,7 +28,20 @@
   data: 
   code:  
   
-   
+-
+  layout: lecture
+  selected: y
+  date: 2019-04-23
+  img: prac
+  uid: practical2
+  title: "Research project: Poster and report guidelines"
+  note: 
+  abstract: 
+  background:
+  discussion:
+  instructions: https://cl-illc.github.io/semantics/info/2019/05/13/FinalEval.html
+  data: 
+  code:     
   
 
 
