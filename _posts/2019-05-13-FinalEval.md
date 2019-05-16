@@ -17,7 +17,7 @@ mathjax: true
 
 **Please note that we will not penalise you if you do not get a positive result. This is research and we know that a negative result is always a possibility. What we want to see is that you have conducted experiments following good scientific practice (as described in the project advice slides), and that you have analysed your results and provided some insight about the behaviour of the models.**
 
-## Poster instructions
+### Poster instructions
 
 The goal of the poster session is to present your project to us and your classmates, discuss it and get feedback and ideas. We recommend the following structure: 
 
@@ -32,7 +32,7 @@ Keep in mind that a poster presentation is not just about the content of your pr
 * Provide easy to understand visual aids that support the information described in the text and are appealing for the reader.
 * Prepare a speech of a few minutes ("elevator pitch") summarising the highlights of your research. Use your poster in your speech, while keeping eye-contact with your audience. Ensure that your speech is understable for fellow students.
 
-## Report instructions
+### Report instructions
 
 Your report needs to be written in LaTeX. You are required to use the ACL 2018 template [(zip)](https://acl2018.org/downloads/acl18-latex.zip) which you can edit directly on [Overleaf](https://www.overleaf.com/latex/templates/instructions-for-acl-2018-proceedings/xzmhqgnmkppc). Make sure your names and student numbers are visible at the top. (Tip: you need to uncomment `/aclfinalcopy`).
 You can find some general tips about writing a research paper [here](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/), but note that you need to make your own judgment about what is appropriate for this project. 
@@ -65,7 +65,7 @@ We expect you to use the following structure:
 
 You lose points for bad writing style (because you were asked to prepare a conference-style report).
 
-### Writing style
+#### Writing style
 * did not make proper use of the latex template (e.g. tweaked the template): -0.5
 * did not respect the page limit: 1 column is tolerated, beyond that it’s -0.5 for the first page, we stop reading beyond that (which will affect your grade for other criteria as well).
 * bad structure (e.g. missing important sections such as introduction and conclusion): -0.5 per section.
