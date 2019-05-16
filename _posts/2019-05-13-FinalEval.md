@@ -15,7 +15,7 @@ mathjax: true
 * Make a poster and present your project to the class -- **Deadline: 22 May 11:00, Poster presentation session**. The poster presentation is worth 10% of your course grade.
 * Write a research report describing your research question, methods, experiments and main findings (5-7 pages) -- **Deadline: 26 May, 23:59**. The research report is worth 40% of your course grade.
 
-**Please note that we will not penalise you if you do not get a positive result.** This is research and we know that a negative result is always a possibility. What we want to see is that you have conducted experiments following good scientific practice (as described in the project advice slides), and that you have analysed your results and provided some insight about the behaviour of the models.
+Please note that we will not penalise you if you do not get a positive result. This is research and we know that a negative result is always a possibility. What we want to see is that you have conducted experiments following good scientific practice (as described in the project advice slides), and that you have analysed your results and provided some insight about the behaviour of the models.
 
 ### Poster instructions
 
