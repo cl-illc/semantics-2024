@@ -34,7 +34,9 @@ Keep in mind that a poster presentation is not just about the content of your pr
 
 ## Report instructions
 
-Your report needs to be written in LaTeX. You are required to use the ACL 2018 template (zip) which you can edit directly on Overleaf. Make sure your names and student numbers are visible at the top. (Tip: you need to uncomment /aclfinalcopy). You can find some general tips about writing a research paper here, but note that you need to make your own judgment about what is appropriate for this project.
+Your report needs to be written in LaTeX. You are required to use the ACL 2018 template [(zip)](https://acl2018.org/downloads/acl18-latex.zip) which you can edit directly on [Overleaf](https://www.overleaf.com/latex/templates/instructions-for-acl-2018-proceedings/xzmhqgnmkppc). Make sure your names and student numbers are visible at the top. (Tip: you need to uncomment `/aclfinalcopy`).
+You can find some general tips about writing a research paper [here](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/), but note that you need to make your own judgment about what is appropriate for this project. 
+
 We expect you to use the following structure:
 * **Introduction** (~1 page, 1 point) - describe the problem, your research questions and goals, a summary of your findings and contributions. Please cite related work (models, datasets) as part of your introduction:
   * Introduce the task and the main goal
