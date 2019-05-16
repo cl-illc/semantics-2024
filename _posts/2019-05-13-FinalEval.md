@@ -7,7 +7,7 @@ categories: Info
 mathjax: true
 ---
   
-## In the final project you are expected to:
+### In the final project you are expected to:
 * Have a well formed research question 
 * Design experiments to address the research question
 * Correctly implement the models and obtain plausible results
