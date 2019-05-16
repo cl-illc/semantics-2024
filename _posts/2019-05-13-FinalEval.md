@@ -71,14 +71,14 @@ You lose points for bad writing style (because you were asked to prepare a confe
 * bad structure (e.g. missing important sections such as introduction and conclusion): -0.5 per section.
 * command of English: judged case by case
 
-### General Tips:
+#### General Tips:
 * Math notation – define each variable (either in running text, or in a pseudo-legenda after or before the equation)
 * Define technical terminology you need
 * Avoid colloquial language – everything can be said in a scientific-sounding way
 * Avoid lengthy sentences, stay to the point!
 * Do not spend space on "obvious" things! 
 
-### An ideal report:
+#### An ideal report:
 * Precise, scientific-sounding, technical, to the point
 * Not boring – because you don’t explain obvious things too much
 * Efficient delivery of (only) the facts that we need to know to understand/reimplement
@@ -88,7 +88,7 @@ You lose points for bad writing style (because you were asked to prepare a confe
 * This normally means several re-draftings (re-orderings of information)
 * Avoid general ungrounded claims. Base your claims either on the literature or your own experiments.
 
-## Report submission
+### Report submission
 
 Report submission will be via Canvas. Please submit the PDF of your report, as well as a breakdown of contributions by team member. Clearly state what each team member has contributed to the project (e.g. which components they have implemented, how they have contributed to the analysis, which section(s) of the report they have written).
 
