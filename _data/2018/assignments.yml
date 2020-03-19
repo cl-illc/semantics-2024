@@ -1,7 +1,7 @@
 -
   layout: lecture
   selected: y
-  date: 2019-04-02
+  date: 2019-03-31
   img: prac
   uid: lisa
   title: "Introduction to the LISA system"
@@ -16,7 +16,7 @@
 -
   layout: lecture
   selected: y
-  date: 2019-04-02
+  date: 2019-03-31
   img: prac
   uid: practical1
   title: "Practical 1: Learning sentence representations"
@@ -24,24 +24,11 @@
   abstract: 
   background:
   discussion:
-  instructions: resources/practicals/practical1/smnls_practical.pdf
+  instructions: resources/practicals/practical1/atcs_practical.pdf
   data: 
   code:  
   
--
-  layout: lecture
-  selected: y
-  date: 2019-04-23
-  img: prac
-  uid: practical2
-  title: "Research project: Poster and report guidelines"
-  note: 
-  abstract: 
-  background:
-  discussion:
-  instructions: https://cl-illc.github.io/semantics/info/2019/05/13/FinalEval.html
-  data: 
-  code:     
+  
   
 
 
