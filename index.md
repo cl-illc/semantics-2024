@@ -12,13 +12,13 @@ Teaching assistants: [Phillip Lippe](mailto:phillip.lippe@googlemail.com) and [V
 
 - Learn to apply representation learning methods to natural language data
 - Gain experience with natural language processing techniques
-- Learn about the state-of-the-art in learning algorithms for representation learning in NLP
+- Learn about the state-of-the-art in representation learning for NLP
 
 ## Content
 
-The field of computational semantics is concerned with automatic interpretation of natural language. This course will provide an overview of state-of-the-art statistical approaches to semantics. Specifically, we will look at learning sparse and dense representations of word meaning, modelling predicate-argument structure, compositional semantics and neural models of phrase and sentence meaning. The course will also cover semantic models that lie at the intersection with other fields: multimodal semantic models that draw knowledge from linguistic and visual data, and cognitively-motivated semantic models and their evaluation against brain imaging data. Finally, we will look at the real world applications of these models in areas such as opinion mining and automated fact checking.
+The field of computational semantics is concerned with automatic interpretation of natural language. This course will provide an overview of state-of-the-art approaches to modelling meaning. This is an advanced research seminar aiming to introduce students to recent developments in the field of NLP. The course will consist of a set of lectures and seminar sessions, where the students will present and discuss recent research papers. This year we will focus on representation learning for NLP, considering different levels of language analysis: words, sentences and longer discourse fragments. We will also look at the recently proposed contextualised word representation models (such as ELMo and BERT) and joint learning methods (including multilingual joint learning and multitask learning).
 
-This is an advanced research seminar aiming to introduce students to recent developments in the field of NLP. The course will consist of a set of lectures and seminar sessions, where the students will present and discuss recent research papers. This year we will focus on representation learning for NLP, considering different levels of language analysis: words, sentences and longer discourse fragments. We will also look at the recently proposed contextualised word representation models (such as ELMo and BERT) and joint learning methods (including multilingual joint learning and multitask learning).
+The course will also cover semantic models that lie at the intersection with other fields: multimodal semantic models that draw knowledge from linguistic and visual data, and cognitively-motivated semantic models and their evaluation against brain imaging data. Finally, we will look at the real world applications of these models in areas such as stance detection and automated fact checking.
 
 An important component of the course is a research project, in which the students will have the opportunity to implement a number of semantic models, perform experiments addressing a new research question and write a research paper.
 
