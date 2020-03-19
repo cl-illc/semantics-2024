@@ -28,7 +28,7 @@ In this setup, the course has no exam. The grade is based on participation, incl
 
 - Presentation and participation: 25%
 - Practical 1: Learning general-purpose sentence representations: 25%
-- Research project (group work): 50% (10% for the poster presentaion; 40% for the research paper)
+- Research project (group work): 50% (10% for the presentaion; 40% for the research paper)
 
 ## Recommended reading
 
@@ -36,9 +36,9 @@ Since the course focuses on the recent advances in the field of NLP, there is no
 
 ## Recommended prior knowledge
 
-Machine Learning 1 and Natural Language Processing 1
+Machine Learning 1, Deep Learning and Natural Language Processing 1
 
-For those of you who have not attended NLP1 please check the [course website](https://cl-illc.github.io/nlp1/) and reading materials.
+For those of you who have not attended NLP1 please check the [course website](https://cl-illc.github.io/nlp1-2019/) and reading materials.
 
 
 
