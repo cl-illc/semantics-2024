@@ -51,7 +51,7 @@
   discussion: 
     - "In this session we will discuss the following papers:"
     - "F Hill, K Cho, A Korhonen, Y Bengio. 2016. [Learning to understand phrases by embedding the dictionary](https://www.aclweb.org/anthology/Q16-1002). Transactions of the Association for Computational Linguistics 4, 17-30" 
-    - "Allen Nie, Erin D. Bennett, Noah D. Goodman. 2019. [DisSent: Learning Sentence Representations from Explicit Discourse Relations](https://www.aclweb.org/anthology/P19-1442/). In Proceedings of ACL 2019."
+    - "Allen Nie, Erin D. Bennett, Noah D. Goodman. 2019. [DisSent: Learning Sentence Representations from Explicit Discourse Relations](https://www.aclweb.org/anthology/P19-1442.pdf). In Proceedings of ACL 2019."
   slides: 
   code: 
   data: 
