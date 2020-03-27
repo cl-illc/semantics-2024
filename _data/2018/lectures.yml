@@ -96,7 +96,7 @@
 -
   layout: lecture
   selected: y
-  date: 2019-04-29
+  date: 2019-04-20
   img: MTL
   uid: l6
   title: "Multitask learning"
@@ -112,7 +112,7 @@
 -
   layout: lecture
   selected: y
-  date: 2019-05-01
+  date: 2019-04-23
   img: MTL-NLP
   uid: l7
   title: "Seminar: Multitask learning"
@@ -130,7 +130,7 @@
 -
   layout: lecture
   selected: y
-  date: 2019-05-13
+  date: 2019-04-30
   img: Interpretation
   uid: l8
   title: "Meta-learning"
@@ -144,7 +144,7 @@
 -
   layout: lecture
   selected: y
-  date: 2019-05-06
+  date: 2019-05-07
   img: Discourse
   uid: l9
   title: "Seminar: Discourse and document representations"
@@ -161,7 +161,7 @@
 -
   layout: lecture
   selected: y
-  date: 2019-05-08
+  date: 2019-05-11
   img: Multilingual
   uid: l10
   title: "Seminar: Multilingual models"
@@ -178,7 +178,7 @@
 -
   layout: lecture
   selected: y
-  date: 2018-05-20
+  date: 2018-05-14
   img: Mitchell-et-al
   uid: l11
   title: "Seminar: Representation learning and neurocognition of language"
@@ -197,7 +197,7 @@
 -
   layout: lecture
   selected: y
-  date: 2018-05-22
+  date: 2018-05-18
   img: Poster
   uid: l12
   title: "Project presentations"
