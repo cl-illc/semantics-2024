@@ -114,7 +114,7 @@
   selected: y
   date: 2019-05-01
   img: MTL-NLP
-  uid: l9
+  uid: l7
   title: "Seminar: Multitask learning"
   instructor: "Ekaterina Shutova"
   note: 
@@ -123,9 +123,8 @@
   discussion: 
     - "In this session we will discuss the following papers:"
     - "Hashimoto, K., Tsuruoka, Y., & Socher, R. (2017). [A Joint Many-Task Model: Growing a Neural Network for Multiple NLP Tasks](https://arxiv.org/pdf/1611.01587.pdf). In Proceedings of EMNLP 2017."
-    - "Verna Dankers, Marek Rei, Martha Lewis and Ekaterina Shutova (2019). [Modelling the interplay of metaphor and emotion through multitask
-learning](https://www.aclweb.org/anthology/D19-1227.pdf). In Proceedings of EMNLP 2019."
-  slides: resources/slides/MTL-presentations.pdf
+    - "Verna Dankers, Marek Rei, Martha Lewis and Ekaterina Shutova (2019). [Modelling the interplay of metaphor and emotion through multitask learning](https://www.aclweb.org/anthology/D19-1227.pdf). In Proceedings of EMNLP 2019."
+  slides: 
   code: 
   data:      
 -
