@@ -80,7 +80,7 @@
   img: bert
   uid: l5
   title: "Attention, transformers and the BERT model"
-  instructor: "Samira Abnar and Ekaterina Shutova"
+  instructor: "Phillip Lippe and Ekaterina Shutova"
   note: 
   abstract: "In this session we will introduce attention and transformer architectures, and then discuss the recently proposed BERT model."
   background:
@@ -92,39 +92,20 @@
     - "Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin. [Attention Is All You Need](https://arxiv.org/abs/1706.03762). In Proceedings of NIPS 2017."
     - "A very helpful [blog post](https://jalammar.github.io/illustrated-transformer/) explaining the transformer architecture."
   code: 
-  data:   
--
-  layout: lecture
-  selected: y
-  date: 2019-04-24
-  img: NeuralMetaphor
-  uid: l7
-  title: "Seminar: Modelling ambiguity and metaphor"
-  instructor: "Ekaterina Shutova"
-  note: 
-  abstract: "In this session we will discuss modelling ambiguity and metaphor."
-  background:
-  discussion: 
-  discussion: 
-    - "In this session we will discuss the following papers:"
-    - "Marek Rei, Luana Bulat, Douwe Kiela and Ekaterina Shutova. 2017. [Grasping the Finer Point: A Supervised Similarity Network for Metaphor Detection](https://www.aclweb.org/anthology/D17-1162). In Proceedings of EMNLP 2017, Copenhagen, Denmark."
-    - "Ge Gao, Eunsol Choi, Yejin Choi and Luke Zettlemoyer. 2018. [Neural Metaphor Detection in Context](https://aclweb.org/anthology/D18-1060). In Proceedings of EMNLP 2018, Brussels, Belgium"
-  slides: resources/slides/Metaphor-ProjectAdvice.pdf
-  code: 
-  data:    
+  data:     
 -
   layout: lecture
   selected: y
   date: 2019-04-29
   img: MTL
-  uid: l8
+  uid: l6
   title: "Multitask learning"
   instructor: "Verna Dankers and Ekaterina Shutova"
   note: 
   abstract: "In this session we will introduce the idea of multitask learning and the architectures proposed for it. We will then discuss the language processing tasks that can benefit each other through information sharing."
   background:
   discussion: 
-  slides: resources/slides/multitask_learning.pdf
+  slides: 
   further:
   code: 
   data:   
@@ -142,7 +123,8 @@
   discussion: 
     - "In this session we will discuss the following papers:"
     - "Hashimoto, K., Tsuruoka, Y., & Socher, R. (2017). [A Joint Many-Task Model: Growing a Neural Network for Multiple NLP Tasks](https://arxiv.org/pdf/1611.01587.pdf). In Proceedings of EMNLP 2017."
-    - "Ma, J., Gao, W., & Wong, K. F. (2018). [Detect rumor and stance jointly by neural multi-task learning](http://delivery.acm.org/10.1145/3190000/3188729/p585-ma.pdf?ip=145.131.234.254&id=3188729&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1556011181_edb5110559211d65c6232c49a1f96108). In Companion of the The Web Conference 2018."
+    - "Verna Dankers, Marek Rei, Martha Lewis and Ekaterina Shutova (2019). [Modelling the interplay of metaphor and emotion through multitask
+learning](https://www.aclweb.org/anthology/D19-1227.pdf). In Proceedings of EMNLP 2019."
   slides: resources/slides/MTL-presentations.pdf
   code: 
   data:      
