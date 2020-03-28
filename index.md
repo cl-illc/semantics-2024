@@ -22,13 +22,24 @@ The course will also cover semantic models that lie at the intersection with oth
 
 An important component of the course is a research project, in which the students will have the opportunity to implement a number of semantic models, perform experiments addressing a new research question and write a research paper.
 
+## Video lectures and Piazza
+
+Due to COVID-19 pandemic, the course will be offered online this year. The lectures, seminar sessions and labs will take place via Zoom and the links to the sessions will be posted on Canvas. We will use piazza to answer your questions offline, please see the sign up details on Canvas as well.
+
 ## Assessment
 
-In this setup, the course has no exam. The grade is based on participation, including presentations of literature that the students give (25%) and a series of practical assignments, culminating in a research report that the students submit at the end (75%).
+The course has no exam. The grade is based on participation, including presentations of literature that the students give (25%) and a series of practical assignments, culminating in a research report that the students submit at the end (75%).
 
 - Presentation and participation: 25%
 - Practical 1: Learning general-purpose sentence representations: 25%
 - Research project (group work): 50% (10% for the presentaion; 40% for the research paper)
+
+## Deadlines
+
+- Paper presentations (throughout the course, assigned by email)
+- Practical 1: 17 April 2020
+- Research project presentation: 18 May 2020
+- Research project report: 22 May 2020
 
 ## Recommended reading
 
