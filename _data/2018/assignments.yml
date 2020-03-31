@@ -9,7 +9,8 @@
   abstract: 
   background:
   discussion:
-  instructions: resources/practicals/lisa_tutorial/UVAGPULisaClusterComputing.pdf
+  instructions:
+  slides: resources/practicals/lisa_tutorial/UVAGPULisaClusterComputing.pdf
   data: 
   code:
   
