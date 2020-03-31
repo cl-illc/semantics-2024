@@ -31,6 +31,10 @@
 
     <!-- resources -->
 
+    {% if include.lecture.slides %}
+      <a href="{{ include.lecture.slides }}" class="label label-info">Slides</a>
+    {% endif %}
+
     {% if include.lecture.instructions %}
       <a href="{{ include.lecture.instructions }}" class="label label-info">Instructions</a>
     {% endif %}
