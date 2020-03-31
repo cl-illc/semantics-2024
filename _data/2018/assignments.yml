@@ -24,8 +24,7 @@
   abstract: 
   background:
   discussion:
-  instructions: resources/practicals/practical1/atcs_practical.pdf
-  slides: "resources/practicals/practical1/ATCS - Lab Session 1.pdf"
+  instructions: "resources/practicals/practical1/atcs_practical.pdf, "resources/practicals/practical1/ATCS - Lab Session 1.pdf"
   data: 
   code:  
   
