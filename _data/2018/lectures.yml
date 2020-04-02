@@ -41,7 +41,7 @@
   layout: lecture
   selected: y
   date: 2019-04-06
-  img: Multilingual
+  img: Sent-rep
   uid: l3
   title: "Seminar: Learning sentence representations"
   instructor: "Ekaterina Shutova"
@@ -134,7 +134,7 @@
   layout: lecture
   selected: y
   date: 2019-04-30
-  img: Interpretation
+  img: Meta-learning
   uid: l8
   title: "Meta-learning"
   instructor: "Ekaterina Shutova"
