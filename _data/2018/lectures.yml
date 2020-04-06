@@ -52,7 +52,7 @@
     - "In this session we will discuss the following papers:"
     - "F Hill, K Cho, A Korhonen, Y Bengio. 2016. [Learning to understand phrases by embedding the dictionary](https://www.aclweb.org/anthology/Q16-1002). Transactions of the Association for Computational Linguistics 4, 17-30" 
     - "Allen Nie, Erin D. Bennett, Noah D. Goodman. 2019. [DisSent: Learning Sentence Representations from Explicit Discourse Relations](https://www.aclweb.org/anthology/P19-1442.pdf). In Proceedings of ACL 2019."
-  slides:
+  slides: resources/slides/Projects-and-presentations.pdf
   further:
     - "Lajanugen Logeswaran and Honglak Lee. 2018. [An efficient framework for learning sentence representations](https://openreview.net/pdf?id=rJvJXZb0W). In Proceedings of ICLR 2018."
     - "Please see Canvas for project descriptions and references to related papers."
