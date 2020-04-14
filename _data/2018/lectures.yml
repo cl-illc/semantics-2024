@@ -128,8 +128,7 @@
     - "Hashimoto, K., Tsuruoka, Y., & Socher, R. (2017). [A Joint Many-Task Model: Growing a Neural Network for Multiple NLP Tasks](https://arxiv.org/pdf/1611.01587.pdf). In Proceedings of EMNLP 2017."
     - "Verna Dankers, Marek Rei, Martha Lewis and Ekaterina Shutova (2019). [Modelling the interplay of metaphor and emotion through multitask learning](https://www.aclweb.org/anthology/D19-1227.pdf). In Proceedings of EMNLP 2019."
   slides: 
-  further: 
-    - "The paper by Finn et al (2017) introducing [model-agnostic meta-learning](https://arxiv.org/abs/1703.03400)."
+  further:
   code: 
   data: 
 -
@@ -163,6 +162,8 @@
     - "In this session we will discuss the following papers:"
     - "Yangfeng Ji and Noah A. Smith. 2017. [Neural Discourse Structure for Text Categorization](https://www.aclweb.org/anthology/P17-1092). In Proceedings of ACL 2017."
   slides: 
+  further:  
+    - "The paper by Finn et al (2017) introducing [model-agnostic meta-learning](https://arxiv.org/abs/1703.03400)."
   code: 
   data: 
 -
