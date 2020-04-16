@@ -1,6 +1,6 @@
-# ULL
+# ATCS
 
-This repository hosts ULL's github pages.
+This repository hosts ATCS's github pages.
 
 
 # Contribute a page
