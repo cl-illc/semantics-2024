@@ -109,7 +109,7 @@
   abstract: "In this session we will introduce the idea of multitask learning and the architectures proposed for it. We will then discuss the language processing tasks that can benefit each other through information sharing."
   background:
   discussion: 
-  slides: 
+  slides: resources/slides/multitask_learning_2020.pdf
   further:
   code: 
   data:   
