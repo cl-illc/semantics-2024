@@ -149,13 +149,31 @@
     - "In this session we will discuss the following papers:"
     - "Trapit Bansal, Rishikesh Jha, Andrew McCallum, 2019. [Learning to Few-Shot Learn Across Diverse Natural Language Classification Tasks](https://arxiv.org/pdf/1911.03863.pdf). Arxiv."
   code: 
-  data:   
+  data:  
 -
   layout: lecture
   selected: y
   date: 2020-05-07
+  img: Multilingual
+  uid: l09
+  title: "Seminar: Multilingual models"
+  instructor: "Ekaterina Shutova"
+  note: 
+  abstract: "In this session we will discuss learning multilingual word and sentence representations."
+  background:
+  discussion: 
+    - "In this session we will discuss the following papers:"
+    - "Mikel Artetxe and Holger Schwenk. 2018. [Massively Multilingual Sentence Embeddings for Zero-Shot Cross-Lingual Transfer and Beyond.](https://arxiv.org/pdf/1812.10464.pdf) Transactions of the Association for Computational Linguistics."
+    - "Nooralahzadeh, F., Bekoulis, G., Bjerva, J., & Augenstein, I. (2020). [Zero-Shot Cross-Lingual Transfer with Meta Learning](https://arxiv.org/pdf/2003.02739.pdf). arXiv preprint arXiv:2003.02739."
+  slides: 
+  code: 
+  data:   
+-
+  layout: lecture
+  selected: y
+  date: 2020-05-11
   img: Discourse
-  uid: l9
+  uid: l10
   title: "Seminar: Discourse and document representations"
   instructor: "Ekaterina Shutova"
   note: 
@@ -167,24 +185,7 @@
   slides: 
   further:
   code: 
-  data: 
--
-  layout: lecture
-  selected: y
-  date: 2020-05-11
-  img: Multilingual
-  uid: l10
-  title: "Seminar: Multilingual models"
-  instructor: "Ekaterina Shutova"
-  note: 
-  abstract: "In this session we will discuss learning multilingual word and sentence representations."
-  background:
-  discussion: 
-    - "In this session we will discuss the following papers:"
-    - "Mikel Artetxe and Holger Schwenk. 2018. [Massively Multilingual Sentence Embeddings for Zero-Shot Cross-Lingual Transfer and Beyond.](https://arxiv.org/pdf/1812.10464.pdf) ArXiv."
-  slides: 
-  code: 
-  data:    
+  data:  
 -
   layout: lecture
   selected: y
