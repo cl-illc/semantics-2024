@@ -178,11 +178,12 @@
   title: "Seminar: Discourse and document representations"
   instructor: "Ekaterina Shutova"
   note: 
-  abstract: "In this session we will discuss learning representations of discourse fragments and documents."
+  abstract: "In this session we will discuss learning representations of discourse fragments and documents, and modelling different types of discourse structure: rhetorical relations and argumentation."
   background:
   discussion: 
     - "In this session we will discuss the following papers:"
     - "Yangfeng Ji and Noah A. Smith. 2017. [Neural Discourse Structure for Text Categorization](https://www.aclweb.org/anthology/P17-1092). In Proceedings of ACL 2017."
+    - "Tuhin Chakrabarty, Christopher Hidey, Smaranda Muresan, Kathy McKeown, Alyssa Hwang. 2019. [AMPERSAND: Argument Mining for PERSuAsive oNline Discussions](https://www.aclweb.org/anthology/D19-1291.pdf). In Proceedings of EMNLP 2019."
   slides: 
   further:
   code: 
