@@ -184,8 +184,8 @@
     - "In this session we will discuss the following papers:"
     - "Yangfeng Ji and Noah A. Smith. 2017. [Neural Discourse Structure for Text Categorization](https://www.aclweb.org/anthology/P17-1092). In Proceedings of ACL 2017."
     - "Tuhin Chakrabarty, Christopher Hidey, Smaranda Muresan, Kathy McKeown, Alyssa Hwang. 2019. [AMPERSAND: Argument Mining for PERSuAsive oNline Discussions](https://www.aclweb.org/anthology/D19-1291.pdf). In Proceedings of EMNLP 2019."
-  slides: 
-  further:
+  slides: resources/slides/Discourse-argumentation.pdf
+  further: "Please find the presentation of the AMPERSAND paper [here](https://drive.google.com/file/d/1HDn2T1CTDPUTJI4b442nqRRIOP1v_CCv/view?usp=sharing)."
   code: 
   data:  
 -
