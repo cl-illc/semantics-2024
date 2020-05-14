@@ -95,4 +95,4 @@ You lose points for bad writing style (because you were asked to prepare a confe
 
 Report submission will be via Canvas. Please submit the PDF of your report, as well as a breakdown of contributions by team member. Clearly state what each team member has contributed to the project (e.g. which components they have implemented, how they have contributed to the analysis, which section(s) of the report they have written).
 
-The deadline for the submission of the report is **TBD, 23:59**.
+The deadline for the submission of the report is **29 May, 23:59**.
