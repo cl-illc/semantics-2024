@@ -1,0 +1,31 @@
+-
+  layout: lecture
+  selected: y
+  date: 2021-03-30
+  img: prac
+  uid: lisa
+  title: "Introduction to the LISA system"
+  note: 
+  abstract: 
+  background:
+  discussion:
+  instructions:
+  slides: resources/practicals/lisa_tutorial/LisaCluster_2020.pdf
+  data: 
+  code:
+  
+-
+  layout: lecture
+  selected: y
+  date: 2021-03-30
+  img: prac
+  uid: practical1
+  title: "Practical 1: Learning sentence representations"
+  note: 
+  abstract: 
+  background:
+  discussion:
+  instructions: 
+  slides: 
+  data: 
+  code:  

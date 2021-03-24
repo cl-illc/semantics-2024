@@ -94,7 +94,7 @@
   further:
     - "Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin. [Attention Is All You Need](https://arxiv.org/abs/1706.03762). In Proceedings of NIPS 2017."
     - "A very helpful [blog post](https://jalammar.github.io/illustrated-transformer/) explaining the transformer architecture."
-    - "Visualization of	attention	heads	for	BERT: [https://github.com/jessevig/bertviz](https://github.com/jessevig/bertviz)"
+    - "Visualization of attention heads for BERT: [https://github.com/jessevig/bertviz](https://github.com/jessevig/bertviz)"
   code: 
   data:     
 -

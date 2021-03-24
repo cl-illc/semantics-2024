@@ -6,7 +6,7 @@ This is the page of the course *Advanced Topics in Computational Semantics* offe
 
 Course coordinator: [Ekaterina Shutova](//www.cl.cam.ac.uk/~es407/)
 
-Teaching assistants: [Phillip Lippe](mailto:phillip.lippe@googlemail.com) and [Verna Dankers](mailto:vernadankers@gmail.com)
+Teaching assistants: [Phillip Lippe](mailto:p.lippe@uva.nl) and [Rochelle Choenni](mailto:rmvk97@gmail.com)
 
 ## Goals
 
@@ -32,14 +32,14 @@ The course has no exam. The grade is based on participation, including presentat
 
 - Presentation and participation: 25%
 - Practical 1: Learning general-purpose sentence representations: 25%
-- Research project (group work): 50% (10% for the presentaion; 40% for the research paper)
+- Research project (group work): 50% (10% for the presentation; 40% for the research paper)
 
 ## Deadlines
 
 - Paper presentations (throughout the course, assigned by email)
-- Practical 1: 17 April 2020
-- Research project presentation: 18 May 2020
-- Research project report: 22 May 2020
+- Practical 1: TBD
+- Research project presentation: TBD
+- Research project report: TBD
 
 ## Recommended reading
 
@@ -49,7 +49,7 @@ Since the course focuses on the recent advances in the field of NLP, there is no
 
 Machine Learning 1, Deep Learning and Natural Language Processing 1
 
-For those of you who have not attended NLP1 please check the [course website](https://cl-illc.github.io/nlp1-2019/) and reading materials.
+For those of you who have not attended NLP1 please check the [course website](https://cl-illc.github.io/nlp1-2020/) and reading materials.
 
 
 
