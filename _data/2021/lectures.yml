@@ -24,18 +24,19 @@
   date: 2020-04-06
   img: Sent-rep
   uid: l3
-  title: "Seminar: Learning sentence representations"
+  title: "Seminar: Sentence representations and contextualised word representations"
   instructor: "Ekaterina Shutova"
   note: 
-  abstract: "In this session we will discuss two recent papers on learning general-purpose sentence representations."
+  abstract: "In this session we will discuss two recent papers on learning general-purpose sentence representations and contextualised word representations."
   background:
   discussion: 
     - "In this session we will discuss the following papers:"
-    - "F Hill, K Cho, A Korhonen, Y Bengio. 2016. [Learning to understand phrases by embedding the dictionary](https://www.aclweb.org/anthology/Q16-1002). Transactions of the Association for Computational Linguistics 4, 17-30" 
     - "Allen Nie, Erin D. Bennett, Noah D. Goodman. 2019. [DisSent: Learning Sentence Representations from Explicit Discourse Relations](https://www.aclweb.org/anthology/P19-1442.pdf). In Proceedings of ACL 2019."
-  slides: resources/slides/Projects-and-presentations.pdf
+    - "Matthew E. Peters, Mark Neumann, Mohit Iyyer, Matt Gardner, Christopher Clark, Kenton Lee and Luke Zettlemoyer 2018.  [Deep contextualized word representations](https://arxiv.org/pdf/1802.05365.pdf). In Proceedings of NAACL 2018, New Orleans, Louisiana."
+  slides: 
   further:
     - "Lajanugen Logeswaran and Honglak Lee. 2018. [An efficient framework for learning sentence representations](https://openreview.net/pdf?id=rJvJXZb0W). In Proceedings of ICLR 2018."
+    - "Ge Gao, Eunsol Choi, Yejin Choi and Luke Zettlemoyer. 2018. [Neural Metaphor Detection in Context](https://aclweb.org/anthology/D18-1060). In Proceedings of EMNLP 2018, Brussels, Belgium"
     - "Please see Canvas for project descriptions and references to related papers."
   code: 
   data: 
@@ -43,45 +44,42 @@
   layout: lecture
   selected: y
   date: 2020-04-09
-  img: NeuralMetaphor
-  uid: l4
-  title: "Seminar: Contextualised representations and modelling ambiguity"
-  instructor: "Ekaterina Shutova"
-  note: 
-  abstract: "In this session we will discuss contextualised word representations (ELMo) and how they can be applied to model meaning variation in context."
-  background:
-  discussion: 
-    - "In this session we will discuss the following papers:"
-    - "Matthew E. Peters, Mark Neumann, Mohit Iyyer, Matt Gardner, Christopher Clark, Kenton Lee and Luke Zettlemoyer 2018.  [Deep contextualized word representations](https://arxiv.org/pdf/1802.05365.pdf). In Proceedings of NAACL 2018, New Orleans, Louisiana."
-    - "Ge Gao, Eunsol Choi, Yejin Choi and Luke Zettlemoyer. 2018. [Neural Metaphor Detection in Context](https://aclweb.org/anthology/D18-1060). In Proceedings of EMNLP 2018, Brussels, Belgium"
-  slides: resources/slides/ELMo_metaphor.pdf
-  code: 
-  data: 
--
-  layout: lecture
-  selected: y
-  date: 2020-04-16
   img: bert
-  uid: l5
-  title: "Attention, transformers and the BERT model"
+  uid: l4
+  title: "Attention and transformers"
   instructor: "Phillip Lippe and Ekaterina Shutova"
   note: 
-  abstract: "In this session we will introduce attention and transformer architectures, and then discuss the recently proposed BERT model."
+  abstract: "In this session we will introduce attention and transformer architectures"
   background:
-  discussion: 
-    - "In this session we will discuss the following paper:"
-    - "Jacob Devlin, Ming-Wei Chang, Kenton Lee and Kristina Toutanova. 2019. [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf). In Proceedings of NAACL 2019."
-  slides: resources/slides/Attention-transformers-BERT.pdf
+  discussion:
+  slides:
   further:
     - "Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin. [Attention Is All You Need](https://arxiv.org/abs/1706.03762). In Proceedings of NIPS 2017."
     - "A very helpful [blog post](https://jalammar.github.io/illustrated-transformer/) explaining the transformer architecture."
     - "Visualization of attention heads for BERT: [https://github.com/jessevig/bertviz](https://github.com/jessevig/bertviz)"
   code: 
-  data:     
+  data:  
 -
   layout: lecture
   selected: y
-  date: 2020-04-20
+  date: 2020-04-12
+  img: bert
+  uid: l5
+  title: "Seminar: The BERT model"
+  instructor: "Ekaterina Shutova"
+  note: 
+  abstract: "In this session we will discuss the BERT model."
+  background:
+  discussion: 
+    - "In this session we will discuss the following papers:"
+    - "Matthew E. Peters, Mark Neumann, Mohit Iyyer, Matt Gardner, Christopher Clark, Kenton Lee and Luke Zettlemoyer 2018.  [Deep contextualized word representations](https://arxiv.org/pdf/1802.05365.pdf). In Proceedings of NAACL 2018, New Orleans, Louisiana."
+  slides:
+  code: 
+  data:   
+-
+  layout: lecture
+  selected: y
+  date: 2020-04-16
   img: MTL
   uid: l6
   title: "Multitask learning"
@@ -90,7 +88,7 @@
   abstract: "In this session we will introduce the idea of multitask learning and the architectures proposed for it. We will then discuss the language processing tasks that can benefit each other through information sharing."
   background:
   discussion: 
-  slides: resources/slides/multitask_learning_2020.pdf
+  slides:
   further:
   code: 
   data:   
