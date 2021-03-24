@@ -22,9 +22,9 @@ The course will also cover semantic models that lie at the intersection with oth
 
 An important component of the course is a research project, in which the students will have the opportunity to implement a number of semantic models, perform experiments addressing a new research question and write a research paper.
 
-## Video lectures and Piazza
+## Video lectures and Slack
 
-Due to COVID-19 pandemic, the course will be offered online this year. The lectures, seminar sessions and labs will take place via Zoom and the links to the sessions will be posted on Canvas. We will use piazza to answer your questions offline, please see the sign up details on Canvas as well.
+Due to COVID-19 pandemic, the course will be offered online this year. The lectures, seminar sessions and labs will take place via Zoom and the links to the sessions will be posted on Canvas. We will use Slack to answer your questions offline, please see the sign up details on Canvas as well.
 
 ## Assessment
 
