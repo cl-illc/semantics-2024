@@ -71,8 +71,9 @@
   abstract: "In this session we will discuss the BERT model."
   background:
   discussion: 
-    - "In this session we will discuss the following papers:"
-    - "Matthew E. Peters, Mark Neumann, Mohit Iyyer, Matt Gardner, Christopher Clark, Kenton Lee and Luke Zettlemoyer 2018.  [Deep contextualized word representations](https://arxiv.org/pdf/1802.05365.pdf). In Proceedings of NAACL 2018, New Orleans, Louisiana."
+    - "In this session we will discuss the following papers:" 
+    - "Jacob Devlin, Ming-Wei Chang, Kenton Lee and Kristina Toutanova. 2019. [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf). In Proceedings of NAACL 2019."
+    - "Ian Tenney, Dipanjan Das, Ellie Pavlick. 2019.  [BERT Rediscovers the Classical NLP Pipeline](https://www.aclweb.org/anthology/P19-1452/). In Proceedings of ACL 2019."
   slides:
   code: 
   data:   
