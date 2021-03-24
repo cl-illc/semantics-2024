@@ -1,0 +1,20 @@
+-
+  layout: lecture
+  selected: y
+  date: 2021-03-29
+  img: introduction-icon_1-267x300
+  uid: intro
+  title: "Introduction: Learning word and sentence representations"
+  instructor: "Ekaterina Shutova"
+  note: 
+  abstract: >
+    "In this introductory lecture I will give an overview of the course and we will discuss learning word and sentence representations from text."
+  background:
+  discussion:
+  slides: 
+  further: 
+   -  "Samuel R Bowman, Gabor Angeli, Christopher Potts, and Christopher D Manning. A large annotated corpus for learning natural language inference. arXiv preprint arXiv:1508.05326, 2015."
+   - "Alexis Conneau and Douwe Kiela. Senteval: An evaluation toolkit for universal sentence representations. In Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC-2018), 2018."
+   - "Alexis Conneau, Douwe Kiela, Holger Schwenk, Loic Barrault, and Antoine Bordes. Supervised learning of universal sentence representations from natural language inference data. arXiv preprint arXiv:1705.02364, 2017."
+  code: 
+  data: 
