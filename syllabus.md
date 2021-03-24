@@ -4,7 +4,7 @@ title: Syllabus
 menu: yes
 ---
 
-*Spring 2020*
+*Spring 2021*
 
 
 # Lectures
