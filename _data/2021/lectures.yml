@@ -21,7 +21,7 @@
 -
   layout: lecture
   selected: y
-  date: 2020-04-06
+  date: 2021-04-06
   img: Sent-rep
   uid: l3
   title: "Seminar: Sentence representations and contextualised word representations"
@@ -43,7 +43,7 @@
 -
   layout: lecture
   selected: y
-  date: 2020-04-09
+  date: 2021-04-09
   img: bert
   uid: l4
   title: "Attention and transformers"
@@ -62,7 +62,7 @@
 -
   layout: lecture
   selected: y
-  date: 2020-04-12
+  date: 2021-04-12
   img: bert
   uid: l5
   title: "Seminar: The BERT model"
@@ -80,7 +80,7 @@
 -
   layout: lecture
   selected: y
-  date: 2020-04-16
+  date: 2021-04-16
   img: MTL
   uid: l6
   title: "Multitask learning"
@@ -152,26 +152,21 @@
 -
   layout: lecture
   selected: y
-  date: 2020-05-14
-  img: Mitchell-et-al
+  date: 2021-05-10
+  img: GNN
   uid: l11
-  title: "Seminar: Graph Neural Networks"
+  title: "Seminar: Graph neural networks"
   instructor: "Ekaterina Shutova"
   note: 
   abstract: "In this session we will discuss the applications of graph neural networks in NLP."
   background:
   discussion: 
-    - "In this session we will discuss the following papers:"
-    - "Maria Barrett, Joachim Bingel, Nora Hollenstein, Marek Rei and Anders Søgaard. 2018. [Sequence classification with human attention](https://aclweb.org/anthology/K18-1030). In Proceedings of CONLL 2018."
-    - "Ian Tenney, Dipanjan Das, Ellie Pavlick. 2019. [BERT Rediscovers the Classical NLP Pipeline](https://arxiv.org/pdf/1905.05950.pdf). In Proceedings of ACL 2019."
   slides: 
   further:
-    - "[A Continuous Semantic Space Describes the Representation of Thousands of Object and Action Categories across the Human Brain](https://www.cell.com/neuron/fulltext/S0896-6273(12)00934-8)"
-    - "[Natural speech reveals the semantic maps that tile human cerebral cortex](https://www.nature.com/articles/nature17637)"   
 -
   layout: lecture
   selected: y
-  date: 2020-05-11
+  date: 2021-05-17
   img: Discourse
   uid: l10
   title: "Seminar: Discourse and document representations"
@@ -189,7 +184,7 @@
 -
   layout: lecture
   selected: y
-  date: 2020-05-21
+  date: 2021-05-21
   img: Poster
   uid: l12
   title: "Project presentations"
