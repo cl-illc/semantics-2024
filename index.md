@@ -37,9 +37,9 @@ The course has no exam. The grade is based on participation, including presentat
 ## Deadlines
 
 - Paper presentations (throughout the course, assigned by email)
-- Practical 1: TBD
-- Research project presentation: TBD
-- Research project report: TBD
+- Practical 1: 16 April 2021
+- Research project presentation: 21 May 2021
+- Research project report: 23 May 2021
 
 ## Recommended reading
 
