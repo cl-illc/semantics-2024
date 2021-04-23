@@ -126,6 +126,7 @@
   slides: resources/slides/Sem2021-meta-learning-lecture.pdf
   further:  
     - "The paper by Finn et al (2017) introducing [model-agnostic meta-learning](https://arxiv.org/abs/1703.03400)."
+    - "Papers listed in the slides."
   discussion:  
     - "In this session we will discuss the following papers:"
     - "Trapit Bansal, Rishikesh Jha, Andrew McCallum, 2019. [Learning to Few-Shot Learn Across Diverse Natural Language Classification Tasks](https://arxiv.org/pdf/1911.03863.pdf). Arxiv."
