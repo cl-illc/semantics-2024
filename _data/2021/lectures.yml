@@ -123,7 +123,7 @@
   note: 
   abstract: "In this session I will introduce the meta-learning framerwork and we will discuss the application of meta-learning to NLP."
   background:
-  slides: 
+  slides: resources/slides/Sem2021-meta-learning-lecture.pdf
   further:  
     - "The paper by Finn et al (2017) introducing [model-agnostic meta-learning](https://arxiv.org/abs/1703.03400)."
   discussion:  
