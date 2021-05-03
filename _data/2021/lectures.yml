@@ -126,7 +126,9 @@
   slides: resources/slides/Sem2021-meta-learning-lecture.pdf
   further:  
     - "The paper by Finn et al (2017) introducing [model-agnostic meta-learning](https://arxiv.org/abs/1703.03400)."
-    - "Papers listed in the slides."
+    - "Eleni Triantafillou, Tyler Zhu, Vincent Dumoulin, Pascal Lamblin, Utku Evci, Kelvin Xu, Ross Goroshin, Carles Gelada, Kevin Swersky, Pierre-Antoine Manzagol, Hugo Larochelle (2019).  [Meta-Dataset: A Dataset of Datasets for Learning to Learn from Few Examples](https://arxiv.org/abs/1903.03096)."
+    - "Nithin Holla, Pushkar Mishra, Helen Yannakoudakis and Ekaterina Shutova. 2020. [Learning to Learn to Disambiguate: Meta-Learning for Few-Shot Word Sense Disambiguation.](https://arxiv.org/pdf/2004.14355.pdf) In Findings of EMNLP 2020."
+    - "Nithin Holla, Pushkar Mishra, Helen Yannakoudakis, Ekaterina Shutova. 2020. [Meta-Learning with Sparse Experience Replay for Lifelong Language Learning.](https://arxiv.org/pdf/2009.04891.pdf) In arXiv e-prints: 2009.04891."
   discussion:  
     - "In this session we will discuss the following papers:"
     - "Trapit Bansal, Rishikesh Jha, Andrew McCallum, 2019. [Learning to Few-Shot Learn Across Diverse Natural Language Classification Tasks](https://arxiv.org/pdf/1911.03863.pdf). Arxiv."
