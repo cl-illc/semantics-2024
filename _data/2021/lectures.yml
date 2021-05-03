@@ -191,6 +191,8 @@
   discussion: 
     - "In this session we will discuss the following papers:"
     - "Yangfeng Ji and Noah A. Smith. 2017. [Neural Discourse Structure for Text Categorization](https://www.aclweb.org/anthology/P17-1092). In Proceedings of ACL 2017."
+    - "Pushkar Mishra, Marco del Tredici, Helen Yannakoudakis and Ekaterina Shutova. 2019. [Abusive language detection with graph convolutional networks](https://arxiv.org/pdf/1904.04073.pdf). In Proceedings of NAACL-HLT 2019. Minneapolis, USA."
+    - "Zhang, H. and Zhang, J. (2020) [Text Graph Transformer for Document Classification](https://www.aclweb.org/anthology/2020.emnlp-main.668/). EMNLP 2020."
   slides: 
   further: 
   code: 
