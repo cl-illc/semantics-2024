@@ -156,7 +156,7 @@
   date: 2021-05-10
   img: GNN
   uid: l11
-  title: "Seminar: Model interpretation and subnetworks"
+  title: "Seminar: Model interpretation and finding subnetworks"
   instructor: "Ekaterina Shutova"
   note: 
   abstract: "In this session we will discuss recent techniques for model interpretation in NLP, such as measuring the importance of individual attention heads and finding task-specific subnetworks in the BERT model."
@@ -173,10 +173,10 @@
   date: 2021-05-17
   img: Discourse
   uid: l10
-  title: "Seminar: Document representations and graph neural networks"
+  title: "Seminar: Document classification and graph neural networks"
   instructor: "Ekaterina Shutova"
   note: 
-  abstract: "In this session we will discuss learning representations of discourse fragments and documents, and modelling discourse structure via rhetorical relations. In the second half of the class, we will discuss the applications of graph neural networks in NLP."
+  abstract: "In this session we will discuss learning representations of discourse fragments and documents, and modelling discourse structure via rhetorical relations. In the second half of the class, we will discuss the applications of graph neural networks to this and other tasks."
   background:
   discussion: 
     - "In this session we will discuss the following papers:"
