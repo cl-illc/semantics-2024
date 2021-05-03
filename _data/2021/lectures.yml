@@ -126,8 +126,10 @@
   slides: resources/slides/Sem2021-meta-learning-lecture.pdf
   further:  
     - "The paper by Finn et al (2017) introducing [model-agnostic meta-learning](https://arxiv.org/abs/1703.03400)."
+    - "Jake Snell, Kevin Swersky, Richard S. Zemel. 2017 [Prototypical Networks for Few-shot Learning](https://arxiv.org/abs/1703.05175)."
     - "Eleni Triantafillou, Tyler Zhu, Vincent Dumoulin, Pascal Lamblin, Utku Evci, Kelvin Xu, Ross Goroshin, Carles Gelada, Kevin Swersky, Pierre-Antoine Manzagol, Hugo Larochelle (2019).  [Meta-Dataset: A Dataset of Datasets for Learning to Learn from Few Examples](https://arxiv.org/abs/1903.03096)."
     - "Nithin Holla, Pushkar Mishra, Helen Yannakoudakis and Ekaterina Shutova. 2020. [Learning to Learn to Disambiguate: Meta-Learning for Few-Shot Word Sense Disambiguation.](https://arxiv.org/pdf/2004.14355.pdf) In Findings of EMNLP 2020."
+    - "Trapit Bansal, Rishikesh Jha, Tsendsuren Munkhdalai, Andrew McCallum. 2020. [Self-Supervised Meta-Learning for Few-Shot Natural Language Classification Tasks](https://arxiv.org/abs/2009.08445)."
     - "Nithin Holla, Pushkar Mishra, Helen Yannakoudakis, Ekaterina Shutova. 2020. [Meta-Learning with Sparse Experience Replay for Lifelong Language Learning.](https://arxiv.org/pdf/2009.04891.pdf) In arXiv e-prints: 2009.04891."
   discussion:  
     - "In this session we will discuss the following papers:"
@@ -145,6 +147,8 @@
   note: 
   abstract: "In this session we will discuss learning multilingual word and sentence representations."
   background:
+  further:
+    - "Zirui Wang, Zachary C. Lipton, Yulia Tsvetkov (2020). [On Negative Interference in Multilingual Language Models](https://www.aclweb.org/anthology/2020.emnlp-main.359.pdf). In the proceedings of EMNLP 2020."
   discussion: 
     - "In this session we will discuss the following papers:"
     - "Mikel Artetxe and Holger Schwenk. 2018. [Massively Multilingual Sentence Embeddings for Zero-Shot Cross-Lingual Transfer and Beyond.](https://arxiv.org/pdf/1812.10464.pdf) Transactions of the Association for Computational Linguistics."
