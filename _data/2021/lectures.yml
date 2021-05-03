@@ -148,6 +148,7 @@
   abstract: "In this session we will discuss learning multilingual word and sentence representations."
   background:
   further:
+    - "The paper that introduced byte pair encoding: Rico Sennrich, Barry Haddow, Alexandra Birch. 2016. [Neural Machine Translation of Rare Words with Subword Units](https://arxiv.org/pdf/1508.07909.pdf). In Proceedings of ACL 2016."
     - "Zirui Wang, Zachary C. Lipton, Yulia Tsvetkov (2020). [On Negative Interference in Multilingual Language Models](https://www.aclweb.org/anthology/2020.emnlp-main.359.pdf). In the proceedings of EMNLP 2020."
     - "Niels van der Heijden, Helen Yannakoudakis, Pushkar Mishra and Ekaterina Shutova. 2021.  [Multilingual and cross-lingual document classification: A meta-learning approach](https://arxiv.org/pdf/2101.11302.pdf). In Proceedings of EACL 2021. Online."
     - "Anna Langedijk, Verna Dankers, Phillip Lippe, Sander Bos, Bryan Cardenas Guevara, Helen Yannakoudakis and Ekaterina Shutova. 2021. [Meta-learning for fast cross-lingual adaptation in dependency parsing](https://arxiv.org/pdf/2104.04736.pdf). In arXiv e-prints: 2104.04736."
