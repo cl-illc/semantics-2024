@@ -8,6 +8,9 @@ mathjax: true
 ---
   
 ### In the final project you are expected to:
+
+Is this updated at all?
+
 * Have a well formed research question 
 * Design experiments to address the research question
 * Correctly implement the models and obtain plausible results
