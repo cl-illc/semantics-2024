@@ -37,7 +37,7 @@ Each group will get 5 minutes to present their poster, with 10 minutes for quest
 
 ### Report instructions
 
-Your report needs to be written in LaTeX. You are required to use the ACL 2020 template [(zip)](http://acl2020.org/downloads/acl2020-templates.zip) which you can edit directly on [Overleaf](https://www.overleaf.com/latex/templates/acl-2020-proceedings-template/zsrkcwjptpcd). Make sure your names and student numbers are visible at the top. (Tip: you need to uncomment `/aclfinalcopy`).
+Your report needs to be written in LaTeX. You are required to use the ACL-IJCNLP 2021 template [(zip)](https://2021.aclweb.org/downloads/acl-ijcnlp2021-templates.zip) which you can edit directly on [Overleaf](https://www.overleaf.com/latex/templates/instructions-for-acl-ijcnlp-2021-proceedings/mhxffkjdwymb). Make sure your names and student numbers are visible at the top. (Tip: you need to uncomment `/aclfinalcopy`).
 You can find some general tips about writing a research paper [here](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/), but note that you need to make your own judgment about what is appropriate for this project. 
 
 We expect you to use the following structure:
