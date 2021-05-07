@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Evaluation of the Final Project
-date:   2021-05-06
+date:   2021-05-07
 author: Katia, Phillip and Rochelle
 categories: Info
 mathjax: true
