@@ -33,7 +33,7 @@ Keep in mind that a poster presentation is not just about the content of your pr
 * Prepare a speech of 5 minutes ("elevator pitch") summarising the highlights of your research. Use your poster in your speech, while keeping eye-contact with your audience. Ensure that your speech is understable for fellow students.
 * Your main results and visualizations should be visible on a standard screen (e.g. 13 inch) so that your audience can follow your pitch and where you point on the poster (landscape orientation recommended).
 
-Each group will get 5 minutes to present their poster, with 10 minutes for questions and discussion. To allow your fellow students to go through the posters before or after the session, please upload your poster to [this Google Drive folder](https://drive.google.com/drive/folders/1DQRSyeDUPUsLY2rHt4jjzpNx2vf5miS1?usp=sharing) before **20 May 23:59** (the night before the poster session).
+Each group will get 5 minutes to present their poster, with 5-7 minutes for questions and discussion. To allow your fellow students to go through the posters before or after the session, please upload your poster to [this Google Drive folder](https://drive.google.com/drive/folders/1DQRSyeDUPUsLY2rHt4jjzpNx2vf5miS1?usp=sharing) before **20 May 23:59** (the night before the poster session).
 
 ### Report instructions
 
