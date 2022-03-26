@@ -6,7 +6,7 @@ This is the page of the course *Advanced Topics in Computational Semantics* offe
 
 Course coordinator: [Ekaterina Shutova](//www.cl.cam.ac.uk/~es407/)
 
-Teaching assistants: [Phillip Lippe](mailto:p.lippe@uva.nl) and [Rochelle Choenni](mailto:rmvk97@gmail.com)
+Teaching assistants: [Alina Leidinger](mailto:a.j.leidinger@uva.nl) and [Rochelle Choenni](mailto:rmvk97@gmail.com)
 
 ## Goals
 
