@@ -35,9 +35,10 @@ The course has no exam. The grade is based on participation, including presentat
 ## Deadlines
 
 - Paper presentations (throughout the course, assigned by email)
-- Practical 1: 16 April 2021
+- Practical 1 - Assignment submission: 20 April 2021
+- Practical 1 - Demo presentation: 22 April 2021
 - Research project presentation: 21 May 2021
-- Research project report: ~~23 May 2021~~ 28 May 2021
+- Research project report: 27 May 2021
 
 ## Recommended reading
 
