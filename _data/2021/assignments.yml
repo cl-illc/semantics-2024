@@ -17,7 +17,7 @@
 -
   layout: lecture
   selected: y
-  date: 2021-03-30
+  date: 2022-04-02
   img: prac
   uid: practical1
   title: "Practical 1: Learning sentence representations"
@@ -25,7 +25,7 @@
   abstract: 
   background:
   discussion:
-  instructions: resources/practicals/practical1/ATCS_practical_2021.pdf
+  instructions: resources/practicals/practical1/ATCS_practical_2022.pdf
   slides: resources/practicals/practical1/ATCS_Introduction_Lab_2021.pdf
   data: 
   code:  
