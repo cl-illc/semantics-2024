@@ -22,7 +22,7 @@ An important component of the course is a research project, in which the student
 
 ## Video lectures and Slack
 
-Due to COVID-19 pandemic, the course will be offered online this year. The lectures, seminar sessions and labs will take place via Zoom and the links to the sessions will be posted on Canvas. We will use Slack to answer your questions offline, please see the sign up details on Canvas as well.
+The course will be taught in a hybrid fashion this year. The lectures and seminar sessions will take place via Zoom and the links to the sessions will be posted on Canvas. The labs will be offered on site, please check DataNose for details of the room. If you'd like to join the lab session remotely via zoom, please email the TAs. We will use Slack to answer your questions offline, please see the sign up details on Canvas as well.
 
 ## Assessment
 
@@ -37,8 +37,8 @@ The course has no exam. The grade is based on participation, including presentat
 - Paper presentations (throughout the course, assigned by email)
 - Practical 1 - Assignment submission: 20 April 2021
 - Practical 1 - Demo presentation: 22 April 2021
-- Research project presentation: 21 May 2021
 - Research project report: 27 May 2021
+- Research project presentation: 31 May 2021
 
 ## Recommended reading
 
