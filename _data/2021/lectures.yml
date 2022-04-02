@@ -199,11 +199,27 @@
 -
   layout: lecture
   selected: y
-  date: 2021-05-21
+  date: 2021-05-24
+  img: Discourse
+  uid: l10
+  title: "Bias in NLP models"
+  instructor: "Ekaterina Shutova"
+  note: 
+  abstract: "In this session we will discuss research bias in NLP models."
+  background:
+  discussion: 
+  slides: 
+  further: 
+  code: 
+  data:  
+-  
+  layout: lecture
+  selected: y
+  date: 2021-05-31
   img: Poster
   uid: l12
   title: "Project presentations"
-  instructor: "Ekaterina Shutova, Rochelle Choenni and Phillip Lippe"
+  instructor: "Ekaterina Shutova, Rochelle Choenni and Alina Leidinger"
   note: 
   abstract: "In this session, you will present the results of your research projects."
   background:
