@@ -86,15 +86,12 @@
   title: "Multilingual models"
   instructor: "Rochelle Choenni and Ekaterina Shutova"
   note: 
-abstract: "In this session we will discuss learning multilingual word and sentence representations."
+  abstract: "In this session we will discuss learning multilingual word and sentence representations."
   background:
   further:
     - "The paper that introduced byte pair encoding: Rico Sennrich, Barry Haddow, Alexandra Birch. 2016. [Neural Machine Translation of Rare Words with Subword Units](https://arxiv.org/pdf/1508.07909.pdf). In Proceedings of ACL 2016."
     - "Zirui Wang, Zachary C. Lipton, Yulia Tsvetkov (2020). [On Negative Interference in Multilingual Language Models](https://www.aclweb.org/anthology/2020.emnlp-main.359.pdf). In the proceedings of EMNLP 2020."
-    - "Niels van der Heijden, Helen Yannakoudakis, Pushkar Mishra and Ekaterina Shutova. 2021.  [Multilingual and cross-lingual document classification: A meta-learning approach](https://arxiv.org/pdf/2101.11302.pdf). In Proceedings of EACL 2021. Online."
-    - "Anna Langedijk, Verna Dankers, Phillip Lippe, Sander Bos, Bryan Cardenas Guevara, Helen Yannakoudakis and Ekaterina Shutova. 2021. [Meta-learning for fast cross-lingual adaptation in dependency parsing](https://arxiv.org/pdf/2104.04736.pdf). In arXiv e-prints: 2104.04736."
     - "Mikel Artetxe and Holger Schwenk. 2018. [Massively Multilingual Sentence Embeddings for Zero-Shot Cross-Lingual Transfer and Beyond.](https://arxiv.org/pdf/1812.10464.pdf) Transactions of the Association for Computational Linguistics."
-    - "Nooralahzadeh, F., Bekoulis, G., Bjerva, J., & Augenstein, I. (2020). [Zero-Shot Cross-Lingual Transfer with Meta Learning](https://arxiv.org/pdf/2003.02739.pdf). arXiv preprint arXiv:2003.02739."
   discussion: 
   slides: 
   further:
@@ -103,7 +100,7 @@ abstract: "In this session we will discuss learning multilingual word and senten
 -
   layout: lecture
   selected: y
-  date: 2021-04-19
+  date: 2021-04-26
   img: MTL-NLP
   uid: l7
   title: "Seminar: Multitask learning"
@@ -122,7 +119,7 @@ abstract: "In this session we will discuss learning multilingual word and senten
 -
   layout: lecture
   selected: y
-  date: 2021-04-23
+  date: 2021-05-10
   img: Meta-learning
   uid: l9
   title: "Meta-learning"
@@ -130,7 +127,7 @@ abstract: "In this session we will discuss learning multilingual word and senten
   note: 
   abstract: "In this session I will introduce the meta-learning framerwork and we will discuss the application of meta-learning to NLP."
   background:
-  slides: resources/slides/Sem2021-meta-learning-lecture.pdf
+  slides: 
   further:  
     - "The paper by Finn et al (2017) introducing [model-agnostic meta-learning](https://arxiv.org/abs/1703.03400)."
     - "Jake Snell, Kevin Swersky, Richard S. Zemel. 2017 [Prototypical Networks for Few-shot Learning](https://arxiv.org/abs/1703.05175)."
@@ -146,48 +143,43 @@ abstract: "In this session we will discuss learning multilingual word and senten
 -
   layout: lecture
   selected: y
-  date: 2021-04-30
-  img: Multilingual
+  date: 2021-05-13
+  img: Meta-learning
   uid: l8
-  title: "Seminar: Multilingual models"
+  title: "Seminar: Meta-learning"
   instructor: "Ekaterina Shutova"
   note: 
-  abstract: "In this session we will discuss learning multilingual word and sentence representations."
+  abstract: "In this session we will continue discussing meta-learning."
   background:
   further:
-    - "The paper that introduced byte pair encoding: Rico Sennrich, Barry Haddow, Alexandra Birch. 2016. [Neural Machine Translation of Rare Words with Subword Units](https://arxiv.org/pdf/1508.07909.pdf). In Proceedings of ACL 2016."
     - "Zirui Wang, Zachary C. Lipton, Yulia Tsvetkov (2020). [On Negative Interference in Multilingual Language Models](https://www.aclweb.org/anthology/2020.emnlp-main.359.pdf). In the proceedings of EMNLP 2020."
     - "Niels van der Heijden, Helen Yannakoudakis, Pushkar Mishra and Ekaterina Shutova. 2021.  [Multilingual and cross-lingual document classification: A meta-learning approach](https://arxiv.org/pdf/2101.11302.pdf). In Proceedings of EACL 2021. Online."
     - "Anna Langedijk, Verna Dankers, Phillip Lippe, Sander Bos, Bryan Cardenas Guevara, Helen Yannakoudakis and Ekaterina Shutova. 2021. [Meta-learning for fast cross-lingual adaptation in dependency parsing](https://arxiv.org/pdf/2104.04736.pdf). In arXiv e-prints: 2104.04736."
-  discussion: 
-    - "In this session we will discuss the following papers:"
-    - "Mikel Artetxe and Holger Schwenk. 2018. [Massively Multilingual Sentence Embeddings for Zero-Shot Cross-Lingual Transfer and Beyond.](https://arxiv.org/pdf/1812.10464.pdf) Transactions of the Association for Computational Linguistics."
     - "Nooralahzadeh, F., Bekoulis, G., Bjerva, J., & Augenstein, I. (2020). [Zero-Shot Cross-Lingual Transfer with Meta Learning](https://arxiv.org/pdf/2003.02739.pdf). arXiv preprint arXiv:2003.02739."
+  discussion: 
   slides: 
   code: 
-  data:  
--
-  layout: lecture
-  selected: y
-  date: 2021-05-10
-  img: GNN
-  uid: l11
-  title: "Seminar: Model interpretation and task-specific subnetworks"
-  instructor: "Ekaterina Shutova"
-  note: 
-  abstract: "In this session we will discuss recent techniques for model interpretation in NLP, such as measuring the importance of individual attention heads and finding task-specific subnetworks in the BERT model."
-  background:
-  discussion: 
-    - "In this session we will discuss the following papers:"
-    - "Paul Michel, Omer Levy, Graham Neubig. [Are Sixteen Heads Really Better than One?](https://proceedings.neurips.cc/paper/2019/file/2c601ad9d2ff9bc8b282670cdd54f69f-Paper.pdf) In Proceedings of NeuroIPS 2019."
-    - "Tianlong Chen, Jonathan Frankle, Shiyu Chang, Sijia Liu, Yang Zhang, Zhangyang Wang, Michael Carbin. [The Lottery Ticket Hypothesis for Pre-trained BERT Networks.](https://proceedings.neurips.cc/paper/2020/file/b6af2c9703f203a2794be03d443af2e3-Paper.pdf) In Proceedings of NeuroIPS 2020."
-  slides: 
-  further:
-    - "Tianhe Yu, Saurabh Kumar, Abhishek Gupta, SergeyLevine, Karol Hausman, and Chelsea Finn. (2020). [Gradient surgery for multi-task learning](https://arxiv.org/pdf/2001.06782.pdf). arXivpreprint arXiv:2001.06782."
+  data: 
 -
   layout: lecture
   selected: y
   date: 2021-05-17
+  img: Discourse
+  uid: l10
+  title: "Graph neural networks in NLP"
+  instructor: "Pushkar Mishra and Ekaterina Shutova"
+  note: 
+  abstract: "In this session we will discuss deep learning on graphs and how it has been applied in NLP."
+  background:
+  discussion: 
+  slides: 
+  further: 
+  code: 
+  data:    
+-
+  layout: lecture
+  selected: y
+  date: 2021-05-20
   img: Discourse
   uid: l10
   title: "Seminar: Document classification and graph neural networks"
