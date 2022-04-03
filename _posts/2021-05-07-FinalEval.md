@@ -2,7 +2,7 @@
 layout: post
 title: Evaluation of the Final Project
 date:   2021-05-07
-author: Katia, Phillip and Rochelle
+author: Katia, Alina and Rochelle
 categories: Info
 mathjax: true
 ---
@@ -12,8 +12,8 @@ mathjax: true
 * Design experiments to address the research question
 * Correctly implement the models and obtain plausible results
 * Perform adequate analysis to explain your results (whether you get positive or negative results!)
-* Make a poster and present your project to the class -- **Deadline: 21 May, 13:00, Poster presentation session**. The poster presentation is worth 10% of your course grade.
-* Write a research report describing your research question, methods, experiments and main findings (5-7 pages) -- **Deadline: ~~23 May, 23:59~~ 28 May, 23:59**. The research report is worth 40% of your course grade.
+* Make a poster and present your project to the class -- **Deadline: 31 May, 13:00, Poster presentation session**. The poster presentation is worth 10% of your course grade.
+* Write a research report describing your research question, methods, experiments and main findings (5-7 pages) -- **Deadline: 27 May, 23:59**. The research report is worth 40% of your course grade.
 
 Please note that we will not penalise you if you do not get a positive result. This is research and we know that a negative result is always a possibility. What we want to see is that you have conducted experiments following good scientific practice (as described in the project advice slides), and that you have analysed your results and provided some insight about the behaviour of the models.
 
@@ -33,7 +33,7 @@ Keep in mind that a poster presentation is not just about the content of your pr
 * Prepare a speech of 5 minutes ("elevator pitch") summarising the highlights of your research. Use your poster in your speech, while keeping eye-contact with your audience. Ensure that your speech is understable for fellow students.
 * Your main results and visualizations should be visible on a standard screen (e.g. 13 inch) so that your audience can follow your pitch and where you point on the poster (landscape orientation recommended).
 
-Each group will get 5 minutes to present their poster, with 5-7 minutes for questions and discussion. To allow your fellow students to go through the posters before or after the session, please upload your poster to [this Google Drive folder](https://drive.google.com/drive/folders/1DQRSyeDUPUsLY2rHt4jjzpNx2vf5miS1?usp=sharing) before **20 May 23:59** (the night before the poster session).
+Each group will get 5 minutes to present their poster, with 5-7 minutes for questions and discussion. To allow your fellow students to go through the posters before or after the session, please upload your poster to [this Google Drive folder](https://drive.google.com/drive/folders/1S04tnOPp8X3o6oQVsRhcnhr_VPgGGLZf?usp=sharing) before **30 May 23:59** (the night before the poster session).
 
 ### Report instructions
 
@@ -95,4 +95,4 @@ You lose points for bad writing style (because you were asked to prepare a confe
 
 Report submission will be via Canvas. Please submit the PDF of your report, as well as a breakdown of contributions by team member. Clearly state what each team member has contributed to the project (e.g. which components they have implemented, how they have contributed to the analysis, which section(s) of the report they have written).
 
-The deadline for the submission of the report is **~~23 May, 23:59~~ 28 May, 23:59**.
+The deadline for the submission of the report is **27 May, 23:59**.
