@@ -1,7 +1,7 @@
 -
   layout: lecture
   selected: y
-  date: 2021-04-05
+  date: 2022-04-05
   img: introduction-icon_1-267x300
   uid: intro
   title: "Introduction: Learning word and sentence representations"
@@ -21,7 +21,7 @@
 -
   layout: lecture
   selected: y
-  date: 2021-04-08
+  date: 2022-04-08
   img: bert
   uid: l2
   title: "Attention and transformers"
@@ -40,7 +40,7 @@
 -
   layout: lecture
   selected: y
-  date: 2021-04-12
+  date: 2022-04-12
   img: Sent-rep
   uid: l3
   title: "Seminar: Sentence representations and contextualised word representations"
@@ -62,7 +62,7 @@
 -
   layout: lecture
   selected: y
-  date: 2021-04-19
+  date: 2022-04-19
   img: BERT
   uid: l5
   title: "Seminar: The BERT model"
@@ -80,7 +80,7 @@
 -
   layout: lecture
   selected: y
-  date: 2021-04-20
+  date: 2022-04-20
   img: Multilingual
   uid: l6
   title: "Multilingual models"
@@ -100,7 +100,7 @@
 -
   layout: lecture
   selected: y
-  date: 2021-04-26
+  date: 2022-04-26
   img: MTL-NLP
   uid: l7
   title: "Seminar: Multitask learning"
@@ -119,7 +119,7 @@
 -
   layout: lecture
   selected: y
-  date: 2021-05-10
+  date: 2022-05-10
   img: Meta-learning
   uid: l9
   title: "Meta-learning"
@@ -143,7 +143,7 @@
 -
   layout: lecture
   selected: y
-  date: 2021-05-13
+  date: 2022-05-13
   img: Meta-learning
   uid: l8
   title: "Seminar: Meta-learning"
@@ -163,7 +163,7 @@
 -
   layout: lecture
   selected: y
-  date: 2021-05-17
+  date: 2022-05-17
   img: Discourse
   uid: l10
   title: "Graph neural networks in NLP"
@@ -179,7 +179,7 @@
 -
   layout: lecture
   selected: y
-  date: 2021-05-20
+  date: 2022-05-20
   img: Discourse
   uid: l10
   title: "Seminar: Document classification and graph neural networks"
@@ -199,7 +199,7 @@
 -
   layout: lecture
   selected: y
-  date: 2021-05-24
+  date: 2022-05-24
   img: Discourse
   uid: l10
   title: "Bias in NLP models"
@@ -215,7 +215,7 @@
 -  
   layout: lecture
   selected: y
-  date: 2021-05-31
+  date: 2022-05-31
   img: Poster
   uid: l12
   title: "Project presentations"
