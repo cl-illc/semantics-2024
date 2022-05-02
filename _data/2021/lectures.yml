@@ -158,6 +158,7 @@
     - "Nooralahzadeh, F., Bekoulis, G., Bjerva, J., & Augenstein, I. (2020). [Zero-Shot Cross-Lingual Transfer with Meta Learning](https://arxiv.org/pdf/2003.02739.pdf). arXiv preprint arXiv:2003.02739."
   discussion:   
     - "In this session we will discuss the following papers:"
+    - "Jonas Pfeiffer, Aishwarya Kamath, Andreas Ruckle, Kyunghyun Cho, Iryna Gurevych (2021). [AdapterFusion: Non-Destructive Task Composition for Transfer Learning](https://aclanthology.org/2021.eacl-main.39.pdf). In Proceedings of EACL 2021."
     - "Trapit Bansal, Rishikesh Jha, Andrew McCallum, 2019. [Learning to Few-Shot Learn Across Diverse Natural Language Classification Tasks](https://arxiv.org/pdf/1911.03863.pdf). Arxiv."
   slides: 
   code: 
