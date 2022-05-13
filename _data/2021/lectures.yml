@@ -167,7 +167,7 @@
   layout: lecture
   selected: y
   date: 2022-05-17
-  img: Discourse
+  img: GNN
   uid: l10
   title: "Graph neural networks in NLP"
   instructor: "Pushkar Mishra and Ekaterina Shutova"
