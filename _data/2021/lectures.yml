@@ -182,23 +182,21 @@
 -
   layout: lecture
   selected: y
-  date: 2022-05-20
-  img: Discourse
-  uid: l10
-  title: "Seminar: Document classification and graph neural networks"
+  date: 2021-05-10
+  img: GNN
+  uid: l11
+  title: "Seminar: Model interpretation and task-specific subnetworks"
   instructor: "Ekaterina Shutova"
   note: 
-  abstract: "In this session we will discuss learning representations of discourse fragments and documents, and modelling discourse structure via rhetorical relations. In the second half of the class, we will discuss the applications of graph neural networks to this and other tasks."
+  abstract: "In this session we will discuss recent techniques for model interpretation in NLP, such as measuring the importance of individual attention heads and finding task-specific subnetworks in the BERT model."
   background:
   discussion: 
     - "In this session we will discuss the following papers:"
-    - "Yangfeng Ji and Noah A. Smith. 2017. [Neural Discourse Structure for Text Categorization](https://www.aclweb.org/anthology/P17-1092). In Proceedings of ACL 2017."
-    - "Pushkar Mishra, Marco del Tredici, Helen Yannakoudakis and Ekaterina Shutova. 2019. [Abusive language detection with graph convolutional networks](https://arxiv.org/pdf/1904.04073.pdf). In Proceedings of NAACL-HLT 2019. Minneapolis, USA."
-    - "Zhang, H. and Zhang, J. (2020) [Text Graph Transformer for Document Classification](https://www.aclweb.org/anthology/2020.emnlp-main.668/). EMNLP 2020."
+    - "Paul Michel, Omer Levy, Graham Neubig. [Are Sixteen Heads Really Better than One?](https://proceedings.neurips.cc/paper/2019/file/2c601ad9d2ff9bc8b282670cdd54f69f-Paper.pdf) In Proceedings of NeuroIPS 2019."
+    - "Tianlong Chen, Jonathan Frankle, Shiyu Chang, Sijia Liu, Yang Zhang, Zhangyang Wang, Michael Carbin. [The Lottery Ticket Hypothesis for Pre-trained BERT Networks.](https://proceedings.neurips.cc/paper/2020/file/b6af2c9703f203a2794be03d443af2e3-Paper.pdf) In Proceedings of NeuroIPS 2020."
   slides: 
-  further: 
-  code: 
-  data:  
+  further:
+    - "Tianhe Yu, Saurabh Kumar, Abhishek Gupta, SergeyLevine, Karol Hausman, and Chelsea Finn. (2020). [Gradient surgery for multi-task learning](https://arxiv.org/pdf/2001.06782.pdf). arXivpreprint arXiv:2001.06782."
 -
   layout: lecture
   selected: y
