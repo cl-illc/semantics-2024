@@ -182,7 +182,7 @@
 -
   layout: lecture
   selected: y
-  date: 2021-05-10
+  date: 2022-05-20
   img: GNN
   uid: l11
   title: "Seminar: Model interpretation and task-specific subnetworks"
