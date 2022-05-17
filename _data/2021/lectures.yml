@@ -175,7 +175,7 @@
   abstract: "In this session we will discuss deep learning on graphs and how it has been applied in NLP."
   background:
   discussion: 
-  slides: 
+  slides: resources/slides/GNN-lecture.pdf
   further: 
   code: 
   data:    
