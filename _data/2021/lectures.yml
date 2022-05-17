@@ -156,7 +156,6 @@
   abstract: "In this session we will continue discussing meta-learning."
   background:
   further:
-    - "Augenstein, I., Ruder, S., & Søgaard, A. (2018). Multi-Task Learning of Pairwise Sequence Classification Tasks over Disparate Label Spaces. In NAACL-HLT."
     - "Barrett, M., Bingel, J., Hollenstein, N., Rei, M., and Søgaard, A. (2018) Sequence classification with human attention. In Proceedings of the 22nd Conference on Computational Natural Language Learning (pages 302–312)"
     - "Bingel, J., and Søgaard, A. (2017). Identifying beneficial task relations for multi-task learning in deep neural networks. In Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics: Volume 2, Short Papers (pages 164-169)"
     - "Chen, Z., Badrinarayanan, V., Lee, C. Y., & Rabinovich, A. (2018, July). Gradnorm: Gradient normalization for adaptive loss balancing in deep multitask networks. In International Conference on Machine Learning (pp. 794-803). PMLR."
