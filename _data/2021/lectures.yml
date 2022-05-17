@@ -206,9 +206,12 @@
   title: "Seminar: Bias in NLP models"
   instructor: "Alina Leidinger and Ekaterina Shutova"
   note: 
-  abstract: "In this session we will discuss research bias in NLP models."
+  abstract: "In this session we will discuss research on bias in NLP models, diagnosing it and de-biasing."
   background:
-  discussion: 
+  discussion:  
+    - "In this session we will discuss the following papers:"
+    - "Schick, Timo, Sahana Udupa, and Hinrich Schütze. [Self-diagnosis and self-debiasing: A proposal for reducing corpus-based bias in nlp.](https://aclanthology.org/2021.tacl-1.84.pdf) Transactions of the Association for Computational Linguistics 9 (2021): 1408-1424."
+    - "Lauscher, Anne, Tobias Lüken, and Goran Glavaš. [Sustainable modular debiasing of language models.](https://arxiv.org/pdf/2109.03646.pdf) arXiv preprint arXiv:2109.03646 (2021)."
   slides: 
   further: 
   code: 
