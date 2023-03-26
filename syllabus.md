@@ -4,7 +4,7 @@ title: Syllabus
 menu: yes
 ---
 
-*Spring 2022*
+*Spring 2023*
 
 
 # Lectures
