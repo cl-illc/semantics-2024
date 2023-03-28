@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Evaluation of the Final Project
-date:   2022-04-03
+date:   2023-04-28
 author: Katia, Alina and Rochelle
 categories: Info
 mathjax: true
@@ -12,8 +12,8 @@ mathjax: true
 * Design experiments to address the research question
 * Correctly implement the models and obtain plausible results
 * Perform adequate analysis to explain your results (whether you get positive or negative results!)
-* Make a poster and present your project to the class -- **Deadline: 31 May, 13:00, Poster presentation session**. The poster presentation is worth 10% of your course grade.
-* Write a research report describing your research question, methods, experiments and main findings (5-7 pages) -- **Deadline: 27 May, 23:59**. The research report is worth 40% of your course grade.
+* Make a poster and present your project to the class -- **Deadline: 26 May, 13:00, Poster presentation session**. The poster presentation is worth 10% of your course grade.
+* Write a research report describing your research question, methods, experiments and main findings (5-7 pages) -- **Deadline: 29 May, 23:59**. The research report is worth 40% of your course grade.
 
 Please note that we will not penalise you if you do not get a positive result. This is research and we know that a negative result is always a possibility. What we want to see is that you have conducted experiments following good scientific practice (as described in the project advice slides), and that you have analysed your results and provided some insight about the behaviour of the models.
 
@@ -33,11 +33,11 @@ Keep in mind that a poster presentation is not just about the content of your pr
 * Prepare a speech of 5 minutes ("elevator pitch") summarising the highlights of your research. Use your poster in your speech, while keeping eye-contact with your audience. Ensure that your speech is understable for fellow students.
 * Your main results and visualizations should be visible on a standard screen (e.g. 13 inch) so that your audience can follow your pitch and where you point on the poster (landscape orientation recommended).
 
-Each group will get 5 minutes to present their poster, with 5-7 minutes for questions and discussion. To allow your fellow students to go through the posters before or after the session, please upload your poster to [this Google Drive folder](https://drive.google.com/drive/folders/1S04tnOPp8X3o6oQVsRhcnhr_VPgGGLZf?usp=sharing) before **30 May 23:59** (the night before the poster session).
+Each group will get 5 minutes to present their poster, with 5-7 minutes for questions and discussion. The poster presentations will be held in person this year, so make sure to get your poster printed in time. To allow your fellow students to go through the posters before or after the session, please also upload a PDF of your poster to [this Google Drive folder](https://drive.google.com/drive/folders/1pEUh7t_hZL-1RZcB0kMBQSF3JIxsoyBK?usp=sharing) before **25 May 23:59** (the night before the poster session).
 
 ### Report instructions
 
-Your report needs to be written in LaTeX. You are required to use the ACL-IJCNLP 2021 template [(zip)](https://2021.aclweb.org/downloads/acl-ijcnlp2021-templates.zip) which you can edit directly on [Overleaf](https://www.overleaf.com/latex/templates/instructions-for-acl-ijcnlp-2021-proceedings/mhxffkjdwymb). Make sure your names and student numbers are visible at the top. (Tip: you need to uncomment `/aclfinalcopy`).
+Your report needs to be written in LaTeX. You are required to use the ACL 2023 template [(zip)](https://2023.aclweb.org/downloads/acl2023.zip) which you can edit directly on [Overleaf](https://www.overleaf.com/latex/templates/acl-2023-proceedings-template/qjdgcrdwcnwp). Make sure your names and student numbers are visible at the top. (Tip: you need to uncomment `/aclfinalcopy`).
 You can find some general tips about writing a research paper [here](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/), but note that you need to make your own judgment about what is appropriate for this project. 
 
 We expect you to use the following structure:
@@ -95,4 +95,4 @@ You lose points for bad writing style (because you were asked to prepare a confe
 
 Report submission will be via Canvas. Please submit the PDF of your report, as well as a breakdown of contributions by team member. Clearly state what each team member has contributed to the project (e.g. which components they have implemented, how they have contributed to the analysis, which section(s) of the report they have written).
 
-The deadline for the submission of the report is **27 May, 23:59**.
+The deadline for the submission of the report is **29 May, 23:59**.
