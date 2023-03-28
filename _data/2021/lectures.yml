@@ -1,7 +1,7 @@
 -
   layout: lecture
   selected: y
-  date: 2022-04-05
+  date: 2022-04-04
   img: introduction-icon_1-267x300
   uid: intro
   title: "Introduction: Learning word and sentence representations"
@@ -11,38 +11,19 @@
     "In this introductory lecture I will give an overview of the course and we will discuss learning word and sentence representations from text."
   background:
   discussion:
-  slides: resources/slides/Sem2022-lecture1.pdf
+  slides: 
   further: 
    -  "Samuel R Bowman, Gabor Angeli, Christopher Potts, and Christopher D Manning. [A large annotated corpus for learning natural language inference](https://arxiv.org/pdf/1508.05326.pdf). arXiv preprint arXiv:1508.05326, 2015."
    - "Alexis Conneau and Douwe Kiela. [Senteval: An evaluation toolkit for universal sentence representations](https://www.aclweb.org/anthology/L18-1269.pdf). In Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC-2018), 2018."
    - "Alexis Conneau, Douwe Kiela, Holger Schwenk, Loic Barrault, and Antoine Bordes. [Supervised learning of universal sentence representations from natural language inference data](https://arxiv.org/pdf/1705.02364.pdf). arXiv preprint arXiv:1705.02364, 2017."
   code: 
-  data: 
--
-  layout: lecture
-  selected: y
-  date: 2022-04-08
-  img: bert
-  uid: l2
-  title: "Attention and transformers"
-  instructor: "Phillip Lippe and Ekaterina Shutova"
-  note: 
-  abstract: "In this session we will introduce attention and transformer architectures"
-  background:
-  discussion:
-  slides: resources/slides/ATCS_2022_Attention_Mechanisms.pdf
-  further:
-    - "Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin. [Attention Is All You Need](https://arxiv.org/abs/1706.03762). In Proceedings of NIPS 2017."
-    - "A very helpful [blog post](https://jalammar.github.io/illustrated-transformer/) explaining the transformer architecture."
-    - "Visualization of attention heads for BERT: [https://github.com/jessevig/bertviz](https://github.com/jessevig/bertviz)"
-  code: 
   data:    
 -
   layout: lecture
   selected: y
-  date: 2022-04-12
+  date: 2022-04-11
   img: Sent-rep
-  uid: l3
+  uid: l2
   title: "Seminar: Sentence representations and contextualised word representations"
   instructor: "Ekaterina Shutova"
   note: 
@@ -62,7 +43,26 @@
 -
   layout: lecture
   selected: y
-  date: 2022-04-19
+  date: 2022-04-14
+  img: bert
+  uid: l3
+  title: "Attention and transformers"
+  instructor: "Ivo Verhoeven and Ekaterina Shutova"
+  note: 
+  abstract: "In this session we will introduce attention and transformer architectures"
+  background:
+  discussion:
+  slides: 
+  further:
+    - "Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin. [Attention Is All You Need](https://arxiv.org/abs/1706.03762). In Proceedings of NIPS 2017."
+    - "A very helpful [blog post](https://jalammar.github.io/illustrated-transformer/) explaining the transformer architecture."
+    - "Visualization of attention heads for BERT: [https://github.com/jessevig/bertviz](https://github.com/jessevig/bertviz)"
+  code: 
+  data: 
+-
+  layout: lecture
+  selected: y
+  date: 2022-04-18
   img: BERT
   uid: l5
   title: "Seminar: The BERT model"
@@ -80,7 +80,7 @@
 -
   layout: lecture
   selected: y
-  date: 2022-04-20
+  date: 2022-04-21
   img: Multilingual
   uid: l6
   title: "Multilingual models"
