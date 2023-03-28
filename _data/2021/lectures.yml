@@ -1,7 +1,7 @@
 -
   layout: lecture
   selected: y
-  date: 2022-04-04
+  date: 2023-04-04
   img: introduction-icon_1-267x300
   uid: intro
   title: "Introduction: Learning word and sentence representations"
@@ -21,7 +21,7 @@
 -
   layout: lecture
   selected: y
-  date: 2022-04-11
+  date: 2023-04-11
   img: Sent-rep
   uid: l2
   title: "Seminar: Sentence representations and contextualised word representations"
@@ -43,7 +43,7 @@
 -
   layout: lecture
   selected: y
-  date: 2022-04-14
+  date: 2023-04-14
   img: bert
   uid: l3
   title: "Attention and transformers"
@@ -62,7 +62,7 @@
 -
   layout: lecture
   selected: y
-  date: 2022-04-18
+  date: 2023-04-18
   img: BERT
   uid: l5
   title: "Seminar: The BERT model"
@@ -80,7 +80,7 @@
 -
   layout: lecture
   selected: y
-  date: 2022-04-21
+  date: 2023-04-21
   img: Multilingual
   uid: l6
   title: "Multilingual models"
@@ -100,7 +100,7 @@
 -
   layout: lecture
   selected: y
-  date: 2022-04-25
+  date: 2023-04-25
   img: Meta-learning
   uid: l9
   title: "Meta-learning"
@@ -128,7 +128,7 @@
 -
   layout: lecture
   selected: y
-  date: 2022-05-9
+  date: 2023-05-9
   img: MTL-NLP
   uid: l7
   title: "Seminar: Multitask learning"
@@ -163,7 +163,7 @@
 -
   layout: lecture
   selected: y
-  date: 2022-05-12
+  date: 2023-05-12
   img: GNN
   uid: l10
   title: "Model prompting"
@@ -179,7 +179,7 @@
 -
   layout: lecture
   selected: y
-  date: 2022-05-16
+  date: 2023-05-16
   img: GNN
   uid: l11
   title: "Seminar: Model interpretation and task-specific subnetworks"
@@ -197,7 +197,7 @@
 -
   layout: lecture
   selected: y
-  date: 2022-05-23
+  date: 2023-05-23
   img: Discourse
   uid: l10
   title: "Seminar: Bias in NLP models"
