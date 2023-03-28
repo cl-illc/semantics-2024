@@ -4,7 +4,7 @@ layout: main
 
 This is the page of the course *Advanced Topics in Computational Semantics* offered at the [University of Amsterdam][UvA]
 
-Course coordinator: [Ekaterina Shutova](//www.cl.cam.ac.uk/~es407/)
+Course coordinator: [Ekaterina Shutova](https://www.shutova.org/)
 
 Teaching assistants: [Alina Leidinger](mailto:a.j.leidinger@uva.nl), [Rochelle Choenni](mailto:rmvk97@gmail.com) and [Dinos Papakostas](DinosPK1999@gmail.com)
 
@@ -19,10 +19,6 @@ Teaching assistants: [Alina Leidinger](mailto:a.j.leidinger@uva.nl), [Rochelle C
 The field of computational semantics is concerned with automatic interpretation of natural language. This course will provide an overview of state-of-the-art approaches to language understanding tasks. This is an advanced research seminar aiming to introduce students to recent developments in this field. The course will consist of a set of lectures and seminar sessions, where the students will present and discuss recent research papers. This year we will focus on representation learning for NLP, considering different levels of language analysis: words, sentences and longer discourse fragments. We will also look at the recently proposed contextualised word representation models (such as ELMo and BERT), joint learning methods (including multilingual joint learning and multitask learning) and meta-learning methods (enabling fast model adaptation from only a few examples).
 
 An important component of the course is a research project, in which the students will have the opportunity to implement a number of semantic models, perform experiments addressing a new research question and write a research paper.
-
-## Video lectures and Slack
-
-The course will be taught in a hybrid fashion this year. The lectures and seminar sessions will take place via Zoom and the links to the sessions will be posted on Canvas. The labs will be offered on site, please check DataNose for details of the room. If you'd like to join the lab session remotely via zoom, please email the TAs. We will use Slack to answer your questions offline, please see the sign up details on Canvas as well.
 
 ## Assessment
 
