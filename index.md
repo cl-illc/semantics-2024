@@ -6,7 +6,7 @@ This is the page of the course *Advanced Topics in Computational Semantics* offe
 
 Course coordinator: [Ekaterina Shutova](//www.cl.cam.ac.uk/~es407/)
 
-Teaching assistants: [Alina Leidinger](mailto:a.j.leidinger@uva.nl) and [Rochelle Choenni](mailto:rmvk97@gmail.com)
+Teaching assistants: [Alina Leidinger](mailto:a.j.leidinger@uva.nl), [Rochelle Choenni](mailto:rmvk97@gmail.com) and [Dinos Papakostas](DinosPK1999@gmail.com)
 
 ## Goals
 
@@ -35,10 +35,10 @@ The course has no exam. The grade is based on participation, including presentat
 ## Deadlines
 
 - Paper presentations (throughout the course, assigned by email)
-- Practical 1 - Assignment submission: 20 April 2022
-- Practical 1 - Demo presentation: 22 April 2022
-- Research project report: 27 May 2022
-- Research project presentation: 31 May 2022
+- Practical 1 - Assignment submission: 21 April 2023
+- Practical 1 - Oral examination: 24 April 2023
+- Research project presentation: 26 May 2023
+- Research project report: 29 May 2023
 
 ## Recommended reading
 
@@ -48,7 +48,7 @@ Since the course focuses on the recent advances in the field of NLP, there is no
 
 Machine Learning 1, Deep Learning and Natural Language Processing 1
 
-For those of you who have not attended NLP1 please check the [course website](https://cl-illc.github.io/nlp1-2020/) and reading materials.
+For those of you who have not attended NLP1 please check the [course website](https://cl-illc.github.io/nlp1-2022/) and reading materials.
 
 
 
