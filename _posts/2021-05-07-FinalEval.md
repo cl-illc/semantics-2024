@@ -19,7 +19,7 @@ Please note that we will not penalise you if you do not get a positive result. T
 
 ### Poster instructions
 
-The goal of the poster session is to present your project to us and your classmates, discuss it and get feedback and ideas. Due to this years situation, we will hold the poster session online in Zoom. We recommend the following structure: 
+The goal of the poster session is to present your project to us and your classmates, discuss it and get feedback and ideas. The poster presentations will be held in person, so make sure to get your poster printed in time. We recommend the following structure: 
 
 * Introduce the problem area and the task, and clearly state your specific research question(s) and their novelty.
 * Describe the models / architectures that you have developed in the project, in a way that they are clear to your classmates. 
@@ -31,9 +31,9 @@ Keep in mind that a poster presentation is not just about the content of your pr
 * You should organise your poster in a structured way such that the reader can understand the your work within a few minutes.
 * Provide easy to understand visual aids that support the information described in the text and are appealing for the reader.
 * Prepare a speech of 5 minutes ("elevator pitch") summarising the highlights of your research. Use your poster in your speech, while keeping eye-contact with your audience. Ensure that your speech is understable for fellow students.
-* Your main results and visualizations should be visible on a standard screen (e.g. 13 inch) so that your audience can follow your pitch and where you point on the poster (landscape orientation recommended).
+* Your main results and visualizations should be clearly visible on a A1 poster format so that your audience can follow your pitch.
 
-Each group will get 5 minutes to present their poster, with 5-7 minutes for questions and discussion. The poster presentations will be held in person this year, so make sure to get your poster printed in time. To allow your fellow students to go through the posters before or after the session, please also upload a PDF of your poster to [this Google Drive folder](https://drive.google.com/drive/folders/1pEUh7t_hZL-1RZcB0kMBQSF3JIxsoyBK?usp=sharing) before **25 May 23:59** (the night before the poster session).
+Each group will get 5 minutes to present their poster, with 5-7 minutes for questions and discussion. To allow your fellow students to go through the posters before or after the session, please also upload a PDF of your poster to [this Google Drive folder](https://drive.google.com/drive/folders/1pEUh7t_hZL-1RZcB0kMBQSF3JIxsoyBK?usp=sharing) before **25 May 23:59** (the night before the poster session).
 
 ### Report instructions
 
