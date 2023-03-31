@@ -1,7 +1,7 @@
 -
   layout: lecture
   selected: y
-  date: 2021-03-30
+  date: 2023-04-01
   img: prac
   uid: lisa
   title: "Introduction to Cluster Computing"
@@ -17,7 +17,7 @@
 -
   layout: lecture
   selected: y
-  date: 2022-04-02
+  date: 2023-04-01
   img: prac
   uid: practical1
   title: "Practical 1: Learning sentence representations"
