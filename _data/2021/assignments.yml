@@ -9,7 +9,7 @@
   abstract: 
   background:
   discussion:
-  instructions: resources/practicals/lisa_tutorial/DifferencesLisaSnellius.pdf
+  instructions: https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial1/Lisa_Cluster.html
   slides: resources/practicals/lisa_tutorial/LisaCluster_2020.pdf
   data: 
   code:
