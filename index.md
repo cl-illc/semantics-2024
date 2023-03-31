@@ -32,7 +32,6 @@ The course has no exam. The grade is based on participation, including presentat
 
 - Paper presentations (throughout the course, assigned by email)
 - Practical 1 - Assignment submission: 21 April 2023
-- Practical 1 - Oral examination: 24 April 2023
 - Research project presentation: 26 May 2023
 - Research project report: 29 May 2023
 
