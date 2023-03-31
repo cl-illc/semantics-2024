@@ -6,7 +6,7 @@ This is the page of the course *Advanced Topics in Computational Semantics* offe
 
 Course coordinator: [Ekaterina Shutova](https://www.shutova.org/)
 
-Teaching assistants: [Alina Leidinger](mailto:a.j.leidinger@uva.nl), [Rochelle Choenni](mailto:rmvk97@gmail.com) and [Dinos Papakostas](DinosPK1999@gmail.com)
+Teaching assistants: [Alina Leidinger](mailto:a.j.leidinger@uva.nl), [Rochelle Choenni](mailto:rmvk97@gmail.com) and [Konstantinos Papakostas](mailto:k.papakostas@uva.nl)
 
 ## Goals
 
