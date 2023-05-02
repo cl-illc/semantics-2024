@@ -156,7 +156,7 @@
   discussion:   
     - "In this session we will discuss the following papers:"
     - "Jonas Pfeiffer, Aishwarya Kamath, Andreas Ruckle, Kyunghyun Cho, Iryna Gurevych (2021). [AdapterFusion: Non-Destructive Task Composition for Transfer Learning](https://aclanthology.org/2021.eacl-main.39.pdf). In Proceedings of EACL 2021."
-    - "Trapit Bansal, Rishikesh Jha, Andrew McCallum, 2019. [Learning to Few-Shot Learn Across Diverse Natural Language Classification Tasks](https://arxiv.org/pdf/1911.03863.pdf). Arxiv."
+    - "Trapit Bansal, Rishikesh Jha, Andrew McCallum, 2020. [Learning to Few-Shot Learn Across Diverse Natural Language Classification Tasks](https://arxiv.org/pdf/1911.03863.pdf). Arxiv."
   slides: 
   code: 
   data:      
@@ -169,9 +169,12 @@
   title: "Seminar: Model prompting"
   instructor: "Ekaterina Shutova"
   note: 
-  abstract: "In this session we will discuss recent research on model prompting and prompt-tuning."
+  abstract: "In this session we will discuss recent research on model prompting, prompt-tuning and in-context learning."
   background:
   discussion: 
+    - "In this session we will discuss the following papers:"
+    - "Sanh et al., 2022. [Multitask Prompted Training Enables Zero-Shot Task Generalization](https://arxiv.org/pdf/2110.08207.pdf). In Proceedings of ICLR 2022."
+    - "Sewon Min, Xinxi Lyu, Ari Holtzman, Mikel Artetxe, Mike Lewis, Hannaneh Hajishirzi, Luke Zettlemoyer. 2022. [Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?](https://arxiv.org/pdf/2202.12837.pdf) In Proceedings of EMNLP 2022."
   slides: 
   further: 
   code: 
