@@ -31,9 +31,9 @@ The course has no exam. The grade is based on participation, including presentat
 ## Deadlines
 
 - Paper presentations (throughout the course, assigned by email)
-- Practical 1 - Assignment submission: 21 April 2023
-- Research project presentation: 26 May 2023
-- Research project report: 29 May 2023
+- Practical 1 - Assignment submission: ~~21 April 2023~~ 23 April 2023
+- Research project presentation: ~~26 May 2023~~ 2 June 2023
+- Research project report: ~~29 May 2023~~ 4 June 2023
 
 ## Recommended reading
 
