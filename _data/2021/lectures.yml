@@ -220,8 +220,26 @@
   layout: lecture
   selected: y
   date: 2023-05-26
-  img: Poster
+  img: CoT
   uid: l12
+  title: "Seminar: Chain-of-Thought prompting and In-Context Learning"
+  instructor: "Konstantinos Papakostas"
+  note: 
+  abstract: "In this session, we will discuss research on Chain-of-Thought prompting and In-Context Learning."
+  background:
+  discussion:
+    - "In this session we will discuss the following papers:"
+    - "Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Brian Ichter, Fei Xia, Ed Chi, Quoc Le, Denny Zhou. [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2022/file/9d5609613524ecf4f15af0f7b31abca4-Paper-Conference.pdf) In Proceedings of NeurIPS 2022."
+    - "Andrew K. Lampinen, Ishita Dasgupta, Stephanie C. Y. Chan, Kory Matthewson, Michael Henry Tessler, Antonia Creswell, James L. McClelland, Jane X. Wang, Felix Hill. [Can language models learn from explanations in context?](https://aclanthology.org/2022.findings-emnlp.38.pdf) In Proceedings of Findings of ACL 2022."
+  slides: 
+  code: 
+  data: 
+-  
+  layout: lecture
+  selected: y
+  date: 2023-06-02
+  img: Poster
+  uid: l13
   title: "Project presentations"
   instructor: "Ekaterina Shutova, Rochelle Choenni, Konstantinos Papakostas and Alina Leidinger"
   note: 
