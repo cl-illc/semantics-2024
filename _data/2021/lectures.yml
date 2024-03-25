@@ -1,7 +1,7 @@
 -
   layout: lecture
   selected: y
-  date: 2023-04-04
+  date: 2024-04-02
   img: introduction-icon_1-267x300
   uid: intro
   title: "Introduction: Learning word and sentence representations"
@@ -11,7 +11,7 @@
     "In this introductory lecture I will give an overview of the course and we will discuss learning word and sentence representations from text."
   background:
   discussion:
-  slides: resources/slides/Sem2023-lecture1.pdf
+  slides: resources/slides/Sem2024-lecture1.pdf
   further: 
    -  "Samuel R Bowman, Gabor Angeli, Christopher Potts, and Christopher D Manning. [A large annotated corpus for learning natural language inference](https://arxiv.org/pdf/1508.05326.pdf). arXiv preprint arXiv:1508.05326, 2015."
    - "Alexis Conneau and Douwe Kiela. [Senteval: An evaluation toolkit for universal sentence representations](https://www.aclweb.org/anthology/L18-1269.pdf). In Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC-2018), 2018."
@@ -21,38 +21,16 @@
 -
   layout: lecture
   selected: y
-  date: 2023-04-11
-  img: Sent-rep
-  uid: l2
-  title: "Seminar: Sentence representations and contextualised word representations"
-  instructor: "Ekaterina Shutova"
-  note: 
-  abstract: "In this session we will discuss two recent papers on learning general-purpose sentence representations and contextualised word representations."
-  background:
-  discussion: 
-    - "In this session we will discuss the following papers:"
-    - "Allen Nie, Erin D. Bennett, Noah D. Goodman. 2019. [DisSent: Learning Sentence Representations from Explicit Discourse Relations](https://www.aclweb.org/anthology/P19-1442.pdf). In Proceedings of ACL 2019."
-    - "Matthew E. Peters, Mark Neumann, Mohit Iyyer, Matt Gardner, Christopher Clark, Kenton Lee and Luke Zettlemoyer 2018.  [Deep contextualized word representations](https://arxiv.org/pdf/1802.05365.pdf). In Proceedings of NAACL 2018, New Orleans, Louisiana."
-  slides: 
-  further:
-    - "Lajanugen Logeswaran and Honglak Lee. 2018. [An efficient framework for learning sentence representations](https://openreview.net/pdf?id=rJvJXZb0W). In Proceedings of ICLR 2018."
-    - "Ge Gao, Eunsol Choi, Yejin Choi and Luke Zettlemoyer. 2018. [Neural Metaphor Detection in Context](https://aclweb.org/anthology/D18-1060). In Proceedings of EMNLP 2018, Brussels, Belgium"
-    - "Please see Canvas for project descriptions and references to related papers."
-  code: 
-  data: 
--
-  layout: lecture
-  selected: y
-  date: 2023-04-14
+  date: 2024-04-05
   img: bert
-  uid: l3
+  uid: l2
   title: "Attention and transformers"
-  instructor: "Ivo Verhoeven and Ekaterina Shutova"
+  instructor: "Phillip Lippe and Ekaterina Shutova"
   note: 
   abstract: "In this session we will introduce attention and transformer architectures"
   background:
   discussion:
-  slides: resources/slides/attention_and_transformers.pdf
+  slides: 
   further:
     - "Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin. [Attention Is All You Need](https://arxiv.org/abs/1706.03762). In Proceedings of NIPS 2017."
     - "A very helpful [blog post](https://jalammar.github.io/illustrated-transformer/) explaining the transformer architecture."
@@ -62,9 +40,9 @@
 -
   layout: lecture
   selected: y
-  date: 2023-04-18
+  date: 2023-04-09
   img: BERT
-  uid: l5
+  uid: l3
   title: "Seminar: The BERT model"
   instructor: "Ekaterina Shutova"
   note: 
@@ -80,7 +58,26 @@
 -
   layout: lecture
   selected: y
-  date: 2023-04-21
+  date: 2023-04-12
+  img: GNN
+  uid: l11
+  title: "Seminar: Model pruning and modularity"
+  instructor: "Ekaterina Shutova"
+  note: 
+  abstract: "In this session we will discuss recent techniques for structured and unstructured pruning and finding task-specific subnetworks in Transformer models."
+  background:
+  discussion: 
+    - "In this session we will discuss the following papers:"
+    - "Paul Michel, Omer Levy, Graham Neubig. [Are Sixteen Heads Really Better than One?](https://proceedings.neurips.cc/paper/2019/file/2c601ad9d2ff9bc8b282670cdd54f69f-Paper.pdf) In Proceedings of NeuroIPS 2019."
+    - "Tianlong Chen, Jonathan Frankle, Shiyu Chang, Sijia Liu, Yang Zhang, Zhangyang Wang, Michael Carbin. [The Lottery Ticket Hypothesis for Pre-trained BERT Networks.](https://proceedings.neurips.cc/paper/2020/file/b6af2c9703f203a2794be03d443af2e3-Paper.pdf) In Proceedings of NeuroIPS 2020."
+  slides: 
+  further:
+    - "Tianhe Yu, Saurabh Kumar, Abhishek Gupta, SergeyLevine, Karol Hausman, and Chelsea Finn. (2020). [Gradient surgery for multi-task learning](https://arxiv.org/pdf/2001.06782.pdf). arXivpreprint arXiv:2001.06782."
+  
+-
+  layout: lecture
+  selected: y
+  date: 2023-04-16
   img: Multilingual
   uid: l6
   title: "Multilingual models"
@@ -179,24 +176,6 @@
   further: 
   code: 
   data:    
--
-  layout: lecture
-  selected: y
-  date: 2023-05-16
-  img: GNN
-  uid: l11
-  title: "Seminar: Model interpretation and task-specific subnetworks"
-  instructor: "Ekaterina Shutova"
-  note: 
-  abstract: "In this session we will discuss recent techniques for model interpretation in NLP, such as measuring the importance of individual attention heads and finding task-specific subnetworks in the BERT model."
-  background:
-  discussion: 
-    - "In this session we will discuss the following papers:"
-    - "Paul Michel, Omer Levy, Graham Neubig. [Are Sixteen Heads Really Better than One?](https://proceedings.neurips.cc/paper/2019/file/2c601ad9d2ff9bc8b282670cdd54f69f-Paper.pdf) In Proceedings of NeuroIPS 2019."
-    - "Tianlong Chen, Jonathan Frankle, Shiyu Chang, Sijia Liu, Yang Zhang, Zhangyang Wang, Michael Carbin. [The Lottery Ticket Hypothesis for Pre-trained BERT Networks.](https://proceedings.neurips.cc/paper/2020/file/b6af2c9703f203a2794be03d443af2e3-Paper.pdf) In Proceedings of NeuroIPS 2020."
-  slides: 
-  further:
-    - "Tianhe Yu, Saurabh Kumar, Abhishek Gupta, SergeyLevine, Karol Hausman, and Chelsea Finn. (2020). [Gradient surgery for multi-task learning](https://arxiv.org/pdf/2001.06782.pdf). arXivpreprint arXiv:2001.06782."
 -
   layout: lecture
   selected: y
