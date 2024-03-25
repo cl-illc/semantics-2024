@@ -40,7 +40,7 @@
 -
   layout: lecture
   selected: y
-  date: 2023-04-09
+  date: 2024-04-09
   img: BERT
   uid: l3
   title: "Seminar: The BERT model"
@@ -58,9 +58,9 @@
 -
   layout: lecture
   selected: y
-  date: 2023-04-12
+  date: 2024-04-12
   img: GNN
-  uid: l11
+  uid: l4
   title: "Seminar: Model pruning and modularity"
   instructor: "Ekaterina Shutova"
   note: 
@@ -72,14 +72,13 @@
     - "Tianlong Chen, Jonathan Frankle, Shiyu Chang, Sijia Liu, Yang Zhang, Zhangyang Wang, Michael Carbin. [The Lottery Ticket Hypothesis for Pre-trained BERT Networks.](https://proceedings.neurips.cc/paper/2020/file/b6af2c9703f203a2794be03d443af2e3-Paper.pdf) In Proceedings of NeuroIPS 2020."
   slides: 
   further:
-    - "Tianhe Yu, Saurabh Kumar, Abhishek Gupta, SergeyLevine, Karol Hausman, and Chelsea Finn. (2020). [Gradient surgery for multi-task learning](https://arxiv.org/pdf/2001.06782.pdf). arXivpreprint arXiv:2001.06782."
-  
+    - "Tianhe Yu, Saurabh Kumar, Abhishek Gupta, Sergey Levine, Karol Hausman, and Chelsea Finn. (2020). [Gradient surgery for multi-task learning](https://arxiv.org/pdf/2001.06782.pdf). arXivpreprint arXiv:2001.06782."  
 -
   layout: lecture
   selected: y
-  date: 2023-04-16
+  date: 2024-04-16
   img: Multilingual
-  uid: l6
+  uid: l5
   title: "Multilingual models"
   instructor: "Rochelle Choenni and Ekaterina Shutova"
   note: 
@@ -90,7 +89,7 @@
     - "Zirui Wang, Zachary C. Lipton, Yulia Tsvetkov (2020). [On Negative Interference in Multilingual Language Models](https://www.aclweb.org/anthology/2020.emnlp-main.359.pdf). In the proceedings of EMNLP 2020."
     - "Mikel Artetxe and Holger Schwenk. 2018. [Massively Multilingual Sentence Embeddings for Zero-Shot Cross-Lingual Transfer and Beyond.](https://arxiv.org/pdf/1812.10464.pdf) Transactions of the Association for Computational Linguistics."
   discussion: 
-  slides: resources/slides/multilingualNLP_2023.pdf
+  slides: 
   further:
   code: 
   data:   
