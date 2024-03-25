@@ -18,7 +18,7 @@ Teaching assistants: [Alina Leidinger](mailto:a.j.leidinger@uva.nl), [Vera Neple
 
 The field of computational semantics is concerned with automatic interpretation of natural language. This course will provide an overview of state-of-the-art approaches to language understanding tasks. This is an advanced research seminar aiming to introduce students to recent developments in this field. The course will consist of a set of lectures and seminar sessions, where the students will present and discuss recent research papers. This year we will focus on representation learning for NLP, considering different levels of language analysis: words, sentences and longer discourse fragments. We will also look at the recently proposed contextualised word representation models (such as ELMo and BERT), joint learning methods (including multilingual joint learning and multimodal learning) and recent advances in generative AI.
 
-An important component of the course is a research project, in which the students will have the opportunity to implement a number of semantic models, perform experiments addressing a new research question and write a research paper.
+An important component of the course is a research project, in which the students will have the opportunity to implement a number of NLP models, perform experiments addressing a new research question and write a research paper.
 
 ## Assessment
 
