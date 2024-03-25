@@ -6,7 +6,7 @@ This is the page of the course *Advanced Topics in Computational Semantics* offe
 
 Course coordinator: [Ekaterina Shutova](https://www.shutova.org/)
 
-Teaching assistants: [Alina Leidinger](mailto:a.j.leidinger@uva.nl), [Rochelle Choenni](mailto:rmvk97@gmail.com) and [Konstantinos Papakostas](mailto:k.papakostas@uva.nl)
+Teaching assistants: [Alina Leidinger](mailto:a.j.leidinger@uva.nl), [Vera Neplenbroek](mailto:v.e.neplenbroek@uva.nl), [Sara Rajaee](mailto:s.rajaee@uva.nl) and [Alberto Testoni](mailto:a.testoni@uva.nl)
 
 ## Goals
 
@@ -16,7 +16,7 @@ Teaching assistants: [Alina Leidinger](mailto:a.j.leidinger@uva.nl), [Rochelle C
 
 ## Content
 
-The field of computational semantics is concerned with automatic interpretation of natural language. This course will provide an overview of state-of-the-art approaches to language understanding tasks. This is an advanced research seminar aiming to introduce students to recent developments in this field. The course will consist of a set of lectures and seminar sessions, where the students will present and discuss recent research papers. This year we will focus on representation learning for NLP, considering different levels of language analysis: words, sentences and longer discourse fragments. We will also look at the recently proposed contextualised word representation models (such as ELMo and BERT), joint learning methods (including multilingual joint learning and multitask learning) and meta-learning methods (enabling fast model adaptation from only a few examples).
+The field of computational semantics is concerned with automatic interpretation of natural language. This course will provide an overview of state-of-the-art approaches to language understanding tasks. This is an advanced research seminar aiming to introduce students to recent developments in this field. The course will consist of a set of lectures and seminar sessions, where the students will present and discuss recent research papers. This year we will focus on representation learning for NLP, considering different levels of language analysis: words, sentences and longer discourse fragments. We will also look at the recently proposed contextualised word representation models (such as ELMo and BERT), joint learning methods (including multilingual joint learning and multimodal learning) and recent advances in generative AI.
 
 An important component of the course is a research project, in which the students will have the opportunity to implement a number of semantic models, perform experiments addressing a new research question and write a research paper.
 
@@ -31,9 +31,9 @@ The course has no exam. The grade is based on participation, including presentat
 ## Deadlines
 
 - Paper presentations (throughout the course, assigned by email)
-- Practical 1 - Assignment submission: ~~21 April 2023~~ 23 April 2023
-- Research project presentation: ~~26 May 2023~~ 2 June 2023
-- Research project report: ~~29 May 2023~~ 4 June 2023
+- Practical 1 - Assignment submission: 19 April 2024
+- Research project presentation: 24 May 2024
+- Research project report: 27 May 2024
 
 ## Recommended reading
 
@@ -43,7 +43,7 @@ Since the course focuses on the recent advances in the field of NLP, there is no
 
 Machine Learning 1, Deep Learning and Natural Language Processing 1
 
-For those of you who have not attended NLP1 please check the [course website](https://cl-illc.github.io/nlp1-2022/) and reading materials.
+For those of you who have not attended NLP1 please check the [course website](https://cl-illc.github.io/nlp1-2023/) and reading materials.
 
 
 
