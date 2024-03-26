@@ -135,7 +135,7 @@
   layout: lecture
   selected: y
   date: 2024-04-26
-  img: T0
+  img: CoT
   uid: l8
   title: "Making LLMs Safe: A case study of LLaMA-2"
   instructor: "Pushkar Mishra, Meta AI"
