@@ -92,41 +92,67 @@
   slides: 
   further:
   code: 
-  data:   
+  data:  
 -
   layout: lecture
   selected: y
-  date: 2023-04-25
-  img: Meta-learning
-  uid: l9
-  title: "Meta-learning"
+  date: 2024-04-19
+  img: T0
+  uid: l6
+  title: "Seminar: LLMs: instruction-tuning and prompting"
   instructor: "Ekaterina Shutova"
   note: 
-  abstract: "In this session I will introduce the meta-learning framerwork and we will discuss the application of meta-learning to NLP."
+  abstract: "In this session we will discuss recent research on generative LMs, prompting, instruction-tuning and in-context learning."
   background:
-  slides: resources/slides/Sem2023-meta-learning-lecture.pdf
-  further:  
-    - "The paper by Finn et al (2017) introducing [model-agnostic meta-learning](https://arxiv.org/abs/1703.03400)."
-    - "Jake Snell, Kevin Swersky, Richard S. Zemel. 2017 [Prototypical Networks for Few-shot Learning](https://arxiv.org/abs/1703.05175)."
-    - "Eleni Triantafillou, Tyler Zhu, Vincent Dumoulin, Pascal Lamblin, Utku Evci, Kelvin Xu, Ross Goroshin, Carles Gelada, Kevin Swersky, Pierre-Antoine Manzagol, Hugo Larochelle (2019).  [Meta-Dataset: A Dataset of Datasets for Learning to Learn from Few Examples](https://arxiv.org/abs/1903.03096)."
-    - "Nithin Holla, Pushkar Mishra, Helen Yannakoudakis and Ekaterina Shutova. 2020. [Learning to Learn to Disambiguate: Meta-Learning for Few-Shot Word Sense Disambiguation.](https://arxiv.org/pdf/2004.14355.pdf) In Findings of EMNLP 2020."
-    - "Trapit Bansal, Rishikesh Jha, Tsendsuren Munkhdalai, Andrew McCallum. 2020. [Self-Supervised Meta-Learning for Few-Shot Natural Language Classification Tasks](https://arxiv.org/abs/2009.08445)."
-    - "Nithin Holla, Pushkar Mishra, Helen Yannakoudakis, Ekaterina Shutova. 2020. [Meta-Learning with Sparse Experience Replay for Lifelong Language Learning.](https://arxiv.org/pdf/2009.04891.pdf) In arXiv e-prints: 2009.04891." 
-    - "Zirui Wang, Zachary C. Lipton, Yulia Tsvetkov (2020). [On Negative Interference in Multilingual Language Models](https://www.aclweb.org/anthology/2020.emnlp-main.359.pdf). In the proceedings of EMNLP 2020."
-    - "Niels van der Heijden, Helen Yannakoudakis, Pushkar Mishra and Ekaterina Shutova. 2021.  [Multilingual and cross-lingual document classification: A meta-learning approach](https://arxiv.org/pdf/2101.11302.pdf). In Proceedings of EACL 2021. Online."
-    - "Anna Langedijk, Verna Dankers, Phillip Lippe, Sander Bos, Bryan Cardenas Guevara, Helen Yannakoudakis and Ekaterina Shutova. 2021. [Meta-learning for fast cross-lingual adaptation in dependency parsing](https://arxiv.org/pdf/2104.04736.pdf). In arXiv e-prints: 2104.04736."
-    - "Nooralahzadeh, F., Bekoulis, G., Bjerva, J., & Augenstein, I. (2020). [Zero-Shot Cross-Lingual Transfer with Meta Learning](https://arxiv.org/pdf/2003.02739.pdf). arXiv preprint arXiv:2003.02739."
-  discussion:  
+  discussion: 
     - "In this session we will discuss the following papers:"
-    - "Nooralahzadeh, F., Bekoulis, G., Bjerva, J., & Augenstein, I. (2020). [Zero-Shot Cross-Lingual Transfer with Meta Learning](https://arxiv.org/pdf/2003.02739.pdf). arXiv preprint arXiv:2003.02739."
+    - "Sanh et al., 2022. [Multitask Prompted Training Enables Zero-Shot Task Generalization](https://arxiv.org/pdf/2110.08207.pdf). In Proceedings of ICLR 2022."
+    - "Sewon Min, Xinxi Lyu, Ari Holtzman, Mikel Artetxe, Mike Lewis, Hannaneh Hajishirzi, Luke Zettlemoyer. 2022. [Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?](https://arxiv.org/pdf/2202.12837.pdf) In Proceedings of EMNLP 2022."
+  slides: 
+  further: 
   code: 
-  data: 
+  data:  
+-
+  layout: lecture
+  selected: y
+  date: 2024-04-23
+  img: T0
+  uid: l7
+  title: "Seminar: In-context learning"
+  instructor: "Ekaterina Shutova"
+  note: 
+  abstract: "In this session we will discuss recent research on generative LMs, prompting, instruction-tuning and in-context learning."
+  background:
+  discussion: 
+    - "In this session we will discuss the following papers:"
+    - "Sanh et al., 2022. [Multitask Prompted Training Enables Zero-Shot Task Generalization](https://arxiv.org/pdf/2110.08207.pdf). In Proceedings of ICLR 2022."
+    - "Sewon Min, Xinxi Lyu, Ari Holtzman, Mikel Artetxe, Mike Lewis, Hannaneh Hajishirzi, Luke Zettlemoyer. 2022. [Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?](https://arxiv.org/pdf/2202.12837.pdf) In Proceedings of EMNLP 2022."
+  slides: 
+  further: 
+  code: 
+  data:  
+-
+  layout: lecture
+  selected: y
+  date: 2024-04-26
+  img: T0
+  uid: l8
+  title: "Making LLMs Safe: A case study of LLaMA-2"
+  instructor: "Pushkar Mishra, Meta AI"
+  note: 
+  abstract: "In this guest lecture we will discuss safety and alignment of LLMs."
+  background:
+  discussion: 
+  slides: 
+  further: 
+  code: 
+  data:   
 -
   layout: lecture
   selected: y
   date: 2023-05-09
   img: MTL-NLP
-  uid: l7
+  uid: l9
   title: "Seminar: Multitask learning"
   instructor: "Ekaterina Shutova"
   note: 
@@ -162,7 +188,7 @@
   date: 2023-05-12
   img: T0
   uid: l10
-  title: "Seminar: Model prompting"
+  title: "Seminar: LLMs and prompting"
   instructor: "Ekaterina Shutova"
   note: 
   abstract: "In this session we will discuss recent research on model prompting, prompt-tuning and in-context learning."
@@ -197,18 +223,15 @@
 -  
   layout: lecture
   selected: y
-  date: 2023-05-26
+  date: 2024-05-21
   img: CoT
   uid: l13
-  title: "Seminar: Chain-of-Thought prompting and In-Context Learning"
-  instructor: "Konstantinos Papakostas"
+  title: "Seminar: Language and Vision"
+  instructor: "Alberto Testoni"
   note: 
-  abstract: "In this session, we will discuss research on Chain-of-Thought prompting and In-Context Learning."
+  abstract: "In this session, we will discuss research on joint modelling of language and vision."
   background:
   discussion:
-    - "In this session we will discuss the following papers:"
-    - "Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Brian Ichter, Fei Xia, Ed Chi, Quoc Le, Denny Zhou. [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2022/file/9d5609613524ecf4f15af0f7b31abca4-Paper-Conference.pdf) In Proceedings of NeurIPS 2022."
-    - "Andrew K. Lampinen, Ishita Dasgupta, Stephanie C. Y. Chan, Kory Matthewson, Michael Henry Tessler, Antonia Creswell, James L. McClelland, Jane X. Wang, Felix Hill. [Can language models learn from explanations in context?](https://aclanthology.org/2022.findings-emnlp.38.pdf) In Proceedings of Findings of EMNLP 2022."
   slides: 
   code: 
   data: 
