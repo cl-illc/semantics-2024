@@ -167,7 +167,7 @@
   layout: lecture
   selected: y
   date: 2024-05-14
-  img: Discourse
+  img: bias
   uid: l10
   title: "Seminar: Bias in NLP models"
   instructor: "Vera Neplenbroek"
@@ -183,7 +183,7 @@
   layout: lecture
   selected: y
   date: 2023-05-16
-  img: T0
+  img: X-Cultural
   uid: l11
   title: "Seminar: Cross-cultural NLP"
   instructor: "Alina Leidinger"
