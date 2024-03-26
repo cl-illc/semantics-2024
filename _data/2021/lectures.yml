@@ -150,53 +150,31 @@
 -
   layout: lecture
   selected: y
-  date: 2023-05-09
+  date: 2023-05-07
   img: MTL-NLP
   uid: l9
-  title: "Seminar: Multitask learning"
+  title: "Seminar: (Mechanistic) Interpretability in NLP"
   instructor: "Ekaterina Shutova"
   note: 
-  abstract: "In this session we will discuss multitask learning, review several architectures proposed for it and see examples of language processing tasks that can benefit each other through information sharing."
+  abstract: "In this session we will discuss reseach on interpretability of LLM computations."
   background:
-  further:  
-    - "Augenstein, I., Ruder, S., & Søgaard, A. (2018). Multi-Task Learning of Pairwise Sequence Classification Tasks over Disparate Label Spaces. In NAACL-HLT."
-    - "Barrett, M., Bingel, J., Hollenstein, N., Rei, M., and Søgaard, A. (2018) Sequence classification with human attention. In Proceedings of the 22nd Conference on Computational Natural Language Learning (pages 302–312)"
-    - "Bingel, J., and Søgaard, A. (2017). Identifying beneficial task relations for multi-task learning in deep neural networks. In Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics: Volume 2, Short Papers (pages 164-169)"
-    - "Chen, Z., Badrinarayanan, V., Lee, C. Y., & Rabinovich, A. (2018, July). Gradnorm: Gradient normalization for adaptive loss balancing in deep multitask networks. In International Conference on Machine Learning (pp. 794-803). PMLR."
-    - "Guo, M., Haque, A., Huang, D., Yeung, S., and Fei-Fei, L. (2018) Dynamic task prioritization for multitask learning. In European Conference on Computer Vision (pages 282–299)"
-    - "Hu, R., & Singh, A. (2021). Transformer is all you need: Multimodal multitask learning with a unified transformer. arXiv preprint arXiv:2102.10772."
-    - "Khandelwal, A., & Britto, B. K. (2020). Multitask Learning of Negation and Speculation using Transformers. In Proceedings of the 11th International Workshop on Health Text Mining and Information Analysis (pp. 79-87)."
-    - "Liu, S., Johns, E., & Davison, A. J. (2019). End-to-end multi-task learning with attention. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 1871-1880)."
-    - "Liu, X., He, P., Chen, W., & Gao, J. (2019). Multi-Task Deep Neural Networks for Natural Language Understanding. In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (pp. 4487-4496)."
-    - "Mathias, S., Murthy, R., Kanojia, D., Mishra, A., & Bhattacharyya, P. (2020). Happy Are Those Who Grade without Seeing: A Multi-Task Learning Approach to Grade Essays Using Gaze Behaviour. In Proceedings of the 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing (pp. 858-872)."
-    - "McCann, B., Keskar, N. S., Xiong, C., & Socher, R. (2018). The natural language decathlon: Multitask learning as question answering. arXiv preprint arXiv:1806.08730."
-    - "Ruder, S., Bingel, J., Augenstein, I., & Søgaard, A. (2019, July). Latent multi-task architecture learning. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 33, No. 01, pp. 4822-4829)."
-    - "Sanh, V., Wolf, T., and Ruder, s. (2018) A hierarchical multi-task approach for learning embeddings from semantic tasks. In Thirty-Second AAAI Conference on Artificial Intelligence."
-    - "Schröder, F., & Biemann, C. (2020). Estimating the influence of auxiliary tasks for multi-task learning of sequence tagging tasks. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (pp. 2971-2985)."
-    - "Sun, T., Shao, Y., Li, X., Liu, P., Yan, H., Qiu, X., & Huang, X. (2020). Learning sparse sharing architectures for multiple tasks. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 34, No. 05, pp. 8936-8943)."
-    - "Zhou, J., Zhang, Z., Zhao, H., & Zhang, S. (2020). LIMIT-BERT: Linguistics Informed Multi-Task BERT. In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing: Findings (pp. 4450-4461)."
-  discussion:   
-    - "In this session we will discuss the following papers:"
-    - "Jonas Pfeiffer, Aishwarya Kamath, Andreas Ruckle, Kyunghyun Cho, Iryna Gurevych (2021). [AdapterFusion: Non-Destructive Task Composition for Transfer Learning](https://aclanthology.org/2021.eacl-main.39.pdf). In Proceedings of EACL 2021."
-    - "Trapit Bansal, Rishikesh Jha, Andrew McCallum, 2020. [Learning to Few-Shot Learn Across Diverse Natural Language Classification Tasks](https://arxiv.org/pdf/1911.03863.pdf). Arxiv."
+  further: 
+  discussion:  
   slides: 
   code: 
-  data:      
+  data:  
 -
   layout: lecture
   selected: y
-  date: 2023-05-12
-  img: T0
+  date: 2024-05-14
+  img: Discourse
   uid: l10
-  title: "Seminar: LLMs and prompting"
-  instructor: "Ekaterina Shutova"
+  title: "Seminar: Bias in NLP models"
+  instructor: "Vera Neplenbroek"
   note: 
-  abstract: "In this session we will discuss recent research on model prompting, prompt-tuning and in-context learning."
+  abstract: "In this session we will discuss research on bias in NLP models, diagnosing it and de-biasing."
   background:
-  discussion: 
-    - "In this session we will discuss the following papers:"
-    - "Sanh et al., 2022. [Multitask Prompted Training Enables Zero-Shot Task Generalization](https://arxiv.org/pdf/2110.08207.pdf). In Proceedings of ICLR 2022."
-    - "Sewon Min, Xinxi Lyu, Ari Holtzman, Mikel Artetxe, Mike Lewis, Hannaneh Hajishirzi, Luke Zettlemoyer. 2022. [Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?](https://arxiv.org/pdf/2202.12837.pdf) In Proceedings of EMNLP 2022."
+  discussion:  
   slides: 
   further: 
   code: 
@@ -204,28 +182,25 @@
 -
   layout: lecture
   selected: y
-  date: 2023-05-23
-  img: Discourse
-  uid: l12
-  title: "Seminar: Bias in NLP models"
-  instructor: "Alina Leidinger and Ekaterina Shutova"
+  date: 2023-05-16
+  img: T0
+  uid: l11
+  title: "Seminar: Cross-cultural NLP"
+  instructor: "Alina Leidinger"
   note: 
-  abstract: "In this session we will discuss research on bias in NLP models, diagnosing it and de-biasing."
+  abstract: "In this session we will discuss recent research on LLMs and their application beyond the English-speaking world."
   background:
-  discussion:  
-    - "In this session we will discuss the following papers:"
-    - "Schick, Timo, Sahana Udupa, and Hinrich Schütze. [Self-diagnosis and self-debiasing: A proposal for reducing corpus-based bias in nlp.](https://aclanthology.org/2021.tacl-1.84.pdf) Transactions of the Association for Computational Linguistics 9 (2021): 1408-1424."
-    - "Lauscher, Anne, Tobias Lüken, and Goran Glavaš. [Sustainable modular debiasing of language models.](https://arxiv.org/pdf/2109.03646.pdf) arXiv preprint arXiv:2109.03646 (2021)."
+  discussion: 
   slides: 
   further: 
   code: 
-  data:  
+  data:    
 -  
   layout: lecture
   selected: y
   date: 2024-05-21
   img: CoT
-  uid: l13
+  uid: l12
   title: "Seminar: Language and Vision"
   instructor: "Alberto Testoni"
   note: 
@@ -240,9 +215,9 @@
   selected: y
   date: 2023-06-02
   img: Poster
-  uid: l14
+  uid: l13
   title: "Project presentations"
-  instructor: "Ekaterina Shutova, Rochelle Choenni, Konstantinos Papakostas and Alina Leidinger"
+  instructor: "Ekaterina Shutova, Vera Neplenbroek, Sara Rajaee and Alina Leidinger"
   note: 
   abstract: "In this session, you will present the results of your research projects."
   background:
