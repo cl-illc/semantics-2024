@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Evaluation of the Final Project
-date:   2024-04-01
+date:   2024-03-27
 author: Katia, Alina, Sara and Vera
 categories: Info
 mathjax: true
