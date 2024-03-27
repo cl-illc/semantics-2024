@@ -3,7 +3,7 @@ layout: photolist
 title: Practicals
 menu: true
 ---
-*Spring 2023*
+*Spring 2024*
 
 
 # Practicals
