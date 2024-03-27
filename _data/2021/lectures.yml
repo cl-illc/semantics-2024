@@ -99,7 +99,7 @@
   date: 2024-04-19
   img: T0
   uid: l6
-  title: "Seminar: LLMs: instruction-tuning and prompting"
+  title: "Seminar: LLMs: Instruction-tuning and prompting"
   instructor: "Ekaterina Shutova"
   note: 
   abstract: "In this session we will discuss recent research on generative LMs, prompting, instruction-tuning and in-context learning."
@@ -107,7 +107,6 @@
   discussion: 
     - "In this session we will discuss the following papers:"
     - "Sanh et al., 2022. [Multitask Prompted Training Enables Zero-Shot Task Generalization](https://arxiv.org/pdf/2110.08207.pdf). In Proceedings of ICLR 2022."
-    - "Sewon Min, Xinxi Lyu, Ari Holtzman, Mikel Artetxe, Mike Lewis, Hannaneh Hajishirzi, Luke Zettlemoyer. 2022. [Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?](https://arxiv.org/pdf/2202.12837.pdf) In Proceedings of EMNLP 2022."
   slides: 
   further: 
   code: 
@@ -125,7 +124,6 @@
   background:
   discussion: 
     - "In this session we will discuss the following papers:"
-    - "Sanh et al., 2022. [Multitask Prompted Training Enables Zero-Shot Task Generalization](https://arxiv.org/pdf/2110.08207.pdf). In Proceedings of ICLR 2022."
     - "Sewon Min, Xinxi Lyu, Ari Holtzman, Mikel Artetxe, Mike Lewis, Hannaneh Hajishirzi, Luke Zettlemoyer. 2022. [Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?](https://arxiv.org/pdf/2202.12837.pdf) In Proceedings of EMNLP 2022."
   slides: 
   further: 
