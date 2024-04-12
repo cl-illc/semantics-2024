@@ -107,6 +107,7 @@
   discussion: 
     - "In this session we will discuss the following papers:"
     - "Sanh et al., 2022. [Multitask Prompted Training Enables Zero-Shot Task Generalization](https://arxiv.org/pdf/2110.08207.pdf). In Proceedings of ICLR 2022."
+    - "Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Brian Ichter, Fei Xia, Ed Chi, Quoc Le, Denny Zhou. [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2022/file/9d5609613524ecf4f15af0f7b31abca4-Paper-Conference.pdf) In Proceedings of NeurIPS 2022."
   slides: 
   further: 
   code: 
