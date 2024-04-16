@@ -126,7 +126,7 @@
   discussion: 
     - "In this session we will discuss the following papers:"
     - "Sewon Min, Xinxi Lyu, Ari Holtzman, Mikel Artetxe, Mike Lewis, Hannaneh Hajishirzi, Luke Zettlemoyer. 2022. [Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?](https://arxiv.org/pdf/2202.12837.pdf) In Proceedings of EMNLP 2022."
-    - "Stephanie C.Y. Chan, Adam Santoro, Andrew K. Lampinen, Jane X. Wang, Aaditya Singh, Pierre H. Richemond, Jay McClelland, Felix Hill. 2022. [Data distributional properties drive emergent in-context learning in transformers](https://arxiv.org/pdf/2205.05055.pdf). Advances in Neural Information Processing Systems.''
+    - "Stephanie C.Y. Chan, Adam Santoro, Andrew K. Lampinen, Jane X. Wang, Aaditya Singh, Pierre H. Richemond, Jay McClelland, Felix Hill. 2022. [Data distributional properties drive emergent in-context learning in transformers](https://arxiv.org/pdf/2205.05055.pdf). Advances in Neural Information Processing Systems."
   slides: 
   further: 
   code: 
