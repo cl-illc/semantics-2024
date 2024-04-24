@@ -159,7 +159,11 @@
   abstract: "In this session we will discuss reseach on interpretability of LLM computations."
   background:
   further: 
-  discussion:  
+  discussion:   
+    - "In this session we will discuss the following papers:"
+    - "Mor Geva, Jasmijn Bastings, Katja Filippova, Amir Globerson. 2023. [Dissecting Recall of Factual Associations in Auto-Regressive Language Models](https://arxiv.org/pdf/2304.14767.pdf). In Proceedings of EMNLP 2023.
+"
+    - "Chris Wendler, Veniamin Veselovsky, Giovanni Monea, Robert West. 2024. [Do Llamas Work in English? On the Latent Language of Multilingual Transformers](https://arxiv.org/pdf/2402.10588.pdf). arXiv:2402.10588"
   slides: 
   code: 
   data:  
@@ -174,11 +178,7 @@
   note: 
   abstract: "In this session we will discuss research on bias in NLP models, diagnosing it and de-biasing."
   background:
-  discussion:  
-    - "In this session we will discuss the following papers:"
-    - "Mor Geva, Jasmijn Bastings, Katja Filippova, Amir Globerson. 2023. [Dissecting Recall of Factual Associations in Auto-Regressive Language Models](https://arxiv.org/pdf/2304.14767.pdf). In Proceedings of EMNLP 2023.
-"
-    - "Chris Wendler, Veniamin Veselovsky, Giovanni Monea, Robert West. 2024. [Do Llamas Work in English? On the Latent Language of Multilingual Transformers](https://arxiv.org/pdf/2402.10588.pdf). arXiv:2402.10588"
+  discussion: 
   slides: 
   further: 
   code: 
