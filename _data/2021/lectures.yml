@@ -198,6 +198,9 @@
   abstract: "In this session we will discuss recent research on LLMs and their application beyond the English-speaking world."
   background:
   discussion: 
+    - "In this session we will discuss the following papers:"
+    - "Yong Cao, Li Zhou, Seolhwa Lee, Laura Cabello, Min Chen, Daniel Hershcovich. 2023. [Assessing Cross-Cultural Alignment between ChatGPT and Human Societies: An Empirical Study](https://arxiv.org/pdf/2303.17466)."
+    - "Shangbin Feng, Chan Young Park, Yuhan Liu, Yulia Tsvetkov. 2023. [From Pretraining Data to Language Models to Downstream Tasks: Tracking the Trails of Political Biases Leading to Unfair NLP Models](https://aclanthology.org/2023.acl-long.656.pdf)."
   slides: 
   further: 
   code: 
