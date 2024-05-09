@@ -179,6 +179,9 @@
   abstract: "In this session we will discuss research on bias in NLP models, diagnosing it and de-biasing."
   background:
   discussion: 
+    - "In this session we will discuss the following papers:"
+    - "David Esiobu, Xiaoqing Tan, Saghar Hosseini, Megan Ung, Yuchen Zhang, Jude Fernandes, Jane Dwivedi-Yu, Eleonora Presani, Adina Williams, and Eric Smith. 2023. [ROBBIE: Robust Bias Evaluation of Large Generative Language Models](https://aclanthology.org/2023.emnlp-main.230/). In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, pages 3764–3814, Singapore. Association for Computational Linguistics."
+    - "Luiza Pozzobon, Beyza Ermis, Patrick Lewis, and Sara Hooker. 2023. [Goodtriever: Adaptive Toxicity Mitigation with Retrieval-augmented Models](https://aclanthology.org/2023.findings-emnlp.339/). In Findings of the Association for Computational Linguistics: EMNLP 2023, pages 5108–5125, Singapore. Association for Computational Linguistics."
   slides: 
   further: 
   code: 
