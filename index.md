@@ -33,7 +33,7 @@ The course has no exam. The grade is based on participation, including presentat
 - Paper presentations (throughout the course, assigned by email)
 - Practical 1 - Assignment submission: ~~19 April 2024~~ 22 April 2024
 - Research project presentation: 24 May 2024
-- Research project report: 27 May 2024
+- Research project report: ~~27 May 2024~~ 31 May 2024
 
 ## Recommended reading
 
